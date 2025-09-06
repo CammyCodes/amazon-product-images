@@ -1,0 +1,67 @@
+{
+  "listing_id": 3,
+  "listing_name": "Oohlive Sweatshirt",
+  "count": 4,
+  "images": [
+    {
+      "id": 5,
+      "filename": "20250905_011229_030759_Floating_4b35.jpg",
+      "original_filename": "20250905_011229_030759_Floating_4b35.jpg",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250905_011229_030759_Floating_4b35.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/20250905_011229_030759_Floating_4b35.jpg",
+      "upload_date": "2025-09-05T21:47:34.918199",
+      "file_size": 209526,
+      "category": "other",
+      "tags": [],
+      "collection_id": 3,
+      "collection_name": "Oohlive Sweatshirt",
+      "image_position": 1,
+      "is_main": true
+    },
+    {
+      "id": 8,
+      "filename": "20250905_011232_847392_Placeit3_4034.jpg",
+      "original_filename": "20250905_011232_847392_Placeit3_4034.jpg",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250905_011232_847392_Placeit3_4034.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/20250905_011232_847392_Placeit3_4034.jpg",
+      "upload_date": "2025-09-05T21:47:36.624291",
+      "file_size": 250837,
+      "category": "other",
+      "tags": [],
+      "collection_id": 3,
+      "collection_name": "Oohlive Sweatshirt",
+      "image_position": 2,
+      "is_main": false
+    },
+    {
+      "id": 6,
+      "filename": "20250905_011230_011156_Placeit1_a871.jpg",
+      "original_filename": "20250905_011230_011156_Placeit1_a871.jpg",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250905_011230_011156_Placeit1_a871.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/20250905_011230_011156_Placeit1_a871.jpg",
+      "upload_date": "2025-09-05T21:47:35.462290",
+      "file_size": 309201,
+      "category": "other",
+      "tags": [],
+      "collection_id": 3,
+      "collection_name": "Oohlive Sweatshirt",
+      "image_position": 3,
+      "is_main": false
+    },
+    {
+      "id": 7,
+      "filename": "20250905_011231_517356_Placeit2_221c.jpg",
+      "original_filename": "20250905_011231_517356_Placeit2_221c.jpg",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250905_011231_517356_Placeit2_221c.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/20250905_011231_517356_Placeit2_221c.jpg",
+      "upload_date": "2025-09-05T21:47:36.031080",
+      "file_size": 409516,
+      "category": "other",
+      "tags": [],
+      "collection_id": 3,
+      "collection_name": "Oohlive Sweatshirt",
+      "image_position": 4,
+      "is_main": false
+    }
+  ]
+}
