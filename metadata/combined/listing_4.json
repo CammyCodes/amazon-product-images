@@ -4,8 +4,11 @@
   "count": 4,
   "images": [
     {
-      "database_id": 4,
+      "id": 4,
+      "filename": "20250904_225907_226242_Main_Oohlive_T-Shirt_73bd.jpg",
       "original_filename": "Main Oohlive T-Shirt",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250904_225907_226242_Main_Oohlive_T-Shirt_73bd.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/20250904_225907_226242_Main_Oohlive_T-Shirt_73bd.jpg",
       "upload_date": "2025-09-05T21:47:34.317722",
       "file_size": 93506,
       "category": "tshirt",
@@ -13,15 +16,14 @@
       "collection_id": 4,
       "collection_name": "Oohlive T-Shirt",
       "image_position": 2,
-      "is_main": true,
-      "file_hash": "",
-      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250904_225907_226242_Main_Oohlive_T-Shirt_73bd.jpg",
-      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/20250904_225907_226242_Main_Oohlive_T-Shirt_73bd.jpg",
-      "last_updated": "2025-09-06T18:30:31.394105Z"
+      "is_main": true
     },
     {
-      "database_id": 3,
+      "id": 3,
+      "filename": "20250904_225906_111561_Oohlive_T-Shirt_2_c8d6.jpg",
       "original_filename": "Oohlive T-Shirt 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250904_225906_111561_Oohlive_T-Shirt_2_c8d6.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/20250904_225906_111561_Oohlive_T-Shirt_2_c8d6.jpg",
       "upload_date": "2025-09-05T21:47:33.722492",
       "file_size": 313286,
       "category": "tshirt",
@@ -29,15 +31,14 @@
       "collection_id": 4,
       "collection_name": "Oohlive T-Shirt",
       "image_position": 1,
-      "is_main": false,
-      "file_hash": "",
-      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250904_225906_111561_Oohlive_T-Shirt_2_c8d6.jpg",
-      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/20250904_225906_111561_Oohlive_T-Shirt_2_c8d6.jpg",
-      "last_updated": "2025-09-06T18:30:59.613789Z"
+      "is_main": false
     },
     {
-      "database_id": 1,
+      "id": 1,
+      "filename": "20250904_225903_601901_Oohlive_T-Shirt_3_82c8.jpg",
       "original_filename": "Oohlive T-Shirt 3",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250904_225903_601901_Oohlive_T-Shirt_3_82c8.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/20250904_225903_601901_Oohlive_T-Shirt_3_82c8.jpg",
       "upload_date": "2025-09-05T21:47:32.721253",
       "file_size": 317905,
       "category": "tshirt",
@@ -45,15 +46,14 @@
       "collection_id": 4,
       "collection_name": "Oohlive T-Shirt",
       "image_position": 3,
-      "is_main": false,
-      "file_hash": "",
-      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250904_225903_601901_Oohlive_T-Shirt_3_82c8.jpg",
-      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/20250904_225903_601901_Oohlive_T-Shirt_3_82c8.jpg",
-      "last_updated": "2025-09-06T18:31:05.200027Z"
+      "is_main": false
     },
     {
-      "database_id": 2,
+      "id": 2,
+      "filename": "20250904_225904_599507_Oohlive_T-Shirt_4_906b.jpg",
       "original_filename": "Oohlive T-Shirt 4",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250904_225904_599507_Oohlive_T-Shirt_4_906b.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/20250904_225904_599507_Oohlive_T-Shirt_4_906b.jpg",
       "upload_date": "2025-09-05T21:47:33.186930",
       "file_size": 202778,
       "category": "tshirt",
@@ -61,11 +61,7 @@
       "collection_id": 4,
       "collection_name": "Oohlive T-Shirt",
       "image_position": 4,
-      "is_main": false,
-      "file_hash": "",
-      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250904_225904_599507_Oohlive_T-Shirt_4_906b.jpg",
-      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/20250904_225904_599507_Oohlive_T-Shirt_4_906b.jpg",
-      "last_updated": "2025-09-06T18:31:12.335118Z"
+      "is_main": false
     }
   ]
 }
