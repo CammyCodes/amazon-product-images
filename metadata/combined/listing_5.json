@@ -1,7 +1,7 @@
 {
   "listing_id": 5,
   "listing_name": "Got Too Silly v2 Artwork",
-  "count": 3,
+  "count": 4,
   "images": [
     {
       "id": 15,
@@ -46,6 +46,21 @@
       "collection_id": 5,
       "collection_name": "Got Too Silly v2 Artwork",
       "image_position": 3,
+      "is_main": false
+    },
+    {
+      "id": 18,
+      "filename": "Got_Too_Silly_v2_Artwork_-_4.jpg",
+      "original_filename": "Got Too Silly v2 Artwork - 4",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/Got_Too_Silly_v2_Artwork_-_4.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/Got_Too_Silly_v2_Artwork_-_4.jpg",
+      "upload_date": "2025-09-06T19:06:11.888121",
+      "file_size": 131566,
+      "category": "mug",
+      "tags": [],
+      "collection_id": 5,
+      "collection_name": "Got Too Silly v2 Artwork",
+      "image_position": 4,
       "is_main": false
     }
   ]
