@@ -4,8 +4,11 @@
   "count": 2,
   "images": [
     {
-      "database_id": 13,
+      "id": 13,
+      "filename": "20250905_235144_952596_Got_Too_Silly_Mug_817c.jpg",
       "original_filename": "Got Too Silly Mug",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250905_235144_952596_Got_Too_Silly_Mug_817c.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/20250905_235144_952596_Got_Too_Silly_Mug_817c.jpg",
       "upload_date": "2025-09-05T22:51:45.695717",
       "file_size": 35015,
       "category": "mug",
@@ -13,26 +16,22 @@
       "collection_id": 1,
       "collection_name": "Got Too Silly",
       "image_position": 1,
-      "is_main": true,
-      "file_hash": null,
-      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250905_235144_952596_Got_Too_Silly_Mug_817c.jpg",
-      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/20250905_235144_952596_Got_Too_Silly_Mug_817c.jpg",
-      "last_updated": "2025-09-06T18:33:02.714419Z"
+      "is_main": true
     },
     {
-      "database_id": 14,
+      "id": 14,
+      "filename": "20250905_235145_867023_Gemini_Generated_Image_5fc7175fc7175fc7_3945.jpg",
       "original_filename": "Gemini_Generated_Image_5fc7175fc7175fc7.png",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250905_235145_867023_Gemini_Generated_Image_5fc7175fc7175fc7_3945.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/20250905_235145_867023_Gemini_Generated_Image_5fc7175fc7175fc7_3945.jpg",
       "upload_date": "2025-09-05T22:51:46.837249",
       "file_size": 102023,
       "category": "mug",
       "tags": [],
       "collection_id": 1,
-      "collection_name": "Oohlive",
+      "collection_name": "Got Too Silly",
       "image_position": 2,
-      "is_main": true,
-      "file_hash": null,
-      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250905_235145_867023_Gemini_Generated_Image_5fc7175fc7175fc7_3945.jpg",
-      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/20250905_235145_867023_Gemini_Generated_Image_5fc7175fc7175fc7_3945.jpg"
+      "is_main": false
     }
   ]
 }
