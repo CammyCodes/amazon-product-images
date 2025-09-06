@@ -1,0 +1,38 @@
+{
+  "listing_id": 1,
+  "listing_name": "Got Too Silly",
+  "count": 2,
+  "images": [
+    {
+      "database_id": 13,
+      "original_filename": "Got Too Silly Mug",
+      "upload_date": "2025-09-05T22:51:45.695717",
+      "file_size": 35015,
+      "category": "mug",
+      "tags": [],
+      "collection_id": 1,
+      "collection_name": "Got Too Silly",
+      "image_position": 1,
+      "is_main": true,
+      "file_hash": null,
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250905_235144_952596_Got_Too_Silly_Mug_817c.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/20250905_235144_952596_Got_Too_Silly_Mug_817c.jpg",
+      "last_updated": "2025-09-06T18:33:02.714419Z"
+    },
+    {
+      "database_id": 14,
+      "original_filename": "Gemini_Generated_Image_5fc7175fc7175fc7.png",
+      "upload_date": "2025-09-05T22:51:46.837249",
+      "file_size": 102023,
+      "category": "mug",
+      "tags": [],
+      "collection_id": 1,
+      "collection_name": "Oohlive",
+      "image_position": 2,
+      "is_main": true,
+      "file_hash": null,
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250905_235145_867023_Gemini_Generated_Image_5fc7175fc7175fc7_3945.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/20250905_235145_867023_Gemini_Generated_Image_5fc7175fc7175fc7_3945.jpg"
+    }
+  ]
+}
