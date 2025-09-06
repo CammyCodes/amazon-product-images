@@ -1,0 +1,52 @@
+{
+  "listing_id": 2,
+  "listing_name": "Oohlive Mug",
+  "count": 3,
+  "images": [
+    {
+      "id": 12,
+      "filename": "20250905_175017_335247_Placeit3_91aa.jpg",
+      "original_filename": "20250905_175017_335247_Placeit3_91aa.jpg",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250905_175017_335247_Placeit3_91aa.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/20250905_175017_335247_Placeit3_91aa.jpg",
+      "upload_date": "2025-09-05T21:47:39.011297",
+      "file_size": 269109,
+      "category": "mug",
+      "tags": [],
+      "collection_id": 2,
+      "collection_name": "Oohlive Mug",
+      "image_position": 1,
+      "is_main": true
+    },
+    {
+      "id": 11,
+      "filename": "20250905_175016_793957_Placeit2_c2d9.jpg",
+      "original_filename": "20250905_175016_793957_Placeit2_c2d9.jpg",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250905_175016_793957_Placeit2_c2d9.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/20250905_175016_793957_Placeit2_c2d9.jpg",
+      "upload_date": "2025-09-05T21:47:38.374952",
+      "file_size": 281435,
+      "category": "mug",
+      "tags": [],
+      "collection_id": 2,
+      "collection_name": "Oohlive Mug",
+      "image_position": 2,
+      "is_main": false
+    },
+    {
+      "id": 10,
+      "filename": "20250905_175015_830181_Placeit_58d1.jpg",
+      "original_filename": "20250905_175015_830181_Placeit_58d1.jpg",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250905_175015_830181_Placeit_58d1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/20250905_175015_830181_Placeit_58d1.jpg",
+      "upload_date": "2025-09-05T21:47:37.832205",
+      "file_size": 239996,
+      "category": "mug",
+      "tags": [],
+      "collection_id": 2,
+      "collection_name": "Oohlive Mug",
+      "image_position": 3,
+      "is_main": false
+    }
+  ]
+}
