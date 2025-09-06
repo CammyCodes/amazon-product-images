@@ -1,7 +1,7 @@
 {
   "listing_id": 4,
   "listing_name": "Oohlive T-Shirt",
-  "count": 5,
+  "count": 4,
   "images": [
     {
       "id": 4,
@@ -61,21 +61,6 @@
       "collection_id": 4,
       "collection_name": "Oohlive T-Shirt",
       "image_position": 4,
-      "is_main": false
-    },
-    {
-      "id": 15,
-      "filename": "Got_Too_Silly_v2_Artwork_-_Main.jpg",
-      "original_filename": "Got Too Silly v2 Artwork - Main",
-      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/Got_Too_Silly_v2_Artwork_-_Main.jpg",
-      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/Got_Too_Silly_v2_Artwork_-_Main.jpg",
-      "upload_date": "2025-09-06T19:06:02.947643",
-      "file_size": 177557,
-      "category": "mug",
-      "tags": [],
-      "collection_id": 4,
-      "collection_name": "Oohlive T-Shirt",
-      "image_position": 5,
       "is_main": false
     }
   ]
