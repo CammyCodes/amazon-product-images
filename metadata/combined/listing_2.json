@@ -1,8 +1,23 @@
 {
   "listing_id": 2,
   "listing_name": "Oohlive Mug",
-  "count": 3,
+  "count": 4,
   "images": [
+    {
+      "id": 19,
+      "filename": "Oohlive_Mug_-_4.jpg",
+      "original_filename": "Oohlive Mug - 4",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/Oohlive_Mug_-_4.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/Oohlive_Mug_-_4.jpg",
+      "upload_date": "2025-09-07T06:01:42.338827",
+      "file_size": 141235,
+      "category": "mug",
+      "tags": [],
+      "collection_id": 2,
+      "collection_name": "Oohlive Mug",
+      "image_position": 4,
+      "is_main": true
+    },
     {
       "id": 12,
       "filename": "20250905_175017_335247_Placeit3_91aa.jpg",
@@ -16,7 +31,7 @@
       "collection_id": 2,
       "collection_name": "Oohlive Mug",
       "image_position": 1,
-      "is_main": true
+      "is_main": false
     },
     {
       "id": 11,
