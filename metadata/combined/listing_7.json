@@ -1,7 +1,7 @@
 {
   "listing_id": 7,
   "listing_name": "Halloween Kitchen Mug",
-  "count": 4,
+  "count": 5,
   "images": [
     {
       "id": 22,
@@ -61,6 +61,21 @@
       "collection_id": 7,
       "collection_name": "Halloween Kitchen Mug",
       "image_position": 4,
+      "is_main": false
+    },
+    {
+      "id": 24,
+      "filename": "Halloween_Kitchen_Mug_-_5.jpg",
+      "original_filename": "Halloween Kitchen Mug - 5",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/Halloween_Kitchen_Mug_-_5.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/Halloween_Kitchen_Mug_-_5.jpg",
+      "upload_date": "2025-09-21T19:19:48.922730",
+      "file_size": 273863,
+      "category": "mug",
+      "tags": [],
+      "collection_id": 7,
+      "collection_name": "Halloween Kitchen Mug",
+      "image_position": 5,
       "is_main": false
     }
   ]
