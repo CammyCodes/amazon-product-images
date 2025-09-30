@@ -1,7 +1,7 @@
 {
   "listing_id": 9,
   "listing_name": "Winnie Pooh Paddington",
-  "count": 1,
+  "count": 2,
   "images": [
     {
       "id": 29,
@@ -17,6 +17,21 @@
       "collection_name": "Winnie Pooh Paddington",
       "image_position": 1,
       "is_main": true
+    },
+    {
+      "id": 30,
+      "filename": "Winnie_Pooh_Paddington_-_2.jpg",
+      "original_filename": "Winnie Pooh Paddington - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/Winnie_Pooh_Paddington_-_2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/Winnie_Pooh_Paddington_-_2.jpg",
+      "upload_date": "2025-09-30T16:22:15.952816",
+      "file_size": 194683,
+      "category": "mug",
+      "tags": [],
+      "collection_id": 9,
+      "collection_name": "Winnie Pooh Paddington",
+      "image_position": 2,
+      "is_main": false
     }
   ]
 }
