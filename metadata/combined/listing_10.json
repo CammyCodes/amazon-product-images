@@ -1,0 +1,37 @@
+{
+  "listing_id": 10,
+  "listing_name": "Saddle Up Buttercup Tee",
+  "count": 2,
+  "images": [
+    {
+      "id": 35,
+      "filename": "Saddle_Up_Buttercup_Tee_-_2.jpg",
+      "original_filename": "Saddle Up Buttercup Tee - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/Saddle_Up_Buttercup_Tee_-_2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/Saddle_Up_Buttercup_Tee_-_2.jpg",
+      "upload_date": "2025-09-30T21:06:41.210884",
+      "file_size": 147078,
+      "category": "mug",
+      "tags": [],
+      "collection_id": 10,
+      "collection_name": "Saddle Up Buttercup Tee",
+      "image_position": 2,
+      "is_main": true
+    },
+    {
+      "id": 34,
+      "filename": "Saddle_Up_Buttercup_Tee_-_Main.jpg",
+      "original_filename": "Saddle Up Buttercup Tee - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/Saddle_Up_Buttercup_Tee_-_Main.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/Saddle_Up_Buttercup_Tee_-_Main.jpg",
+      "upload_date": "2025-09-30T21:06:39.947519",
+      "file_size": 93482,
+      "category": "mug",
+      "tags": [],
+      "collection_id": 10,
+      "collection_name": "Saddle Up Buttercup Tee",
+      "image_position": 1,
+      "is_main": false
+    }
+  ]
+}
