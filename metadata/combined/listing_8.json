@@ -1,7 +1,7 @@
 {
   "listing_id": 8,
   "listing_name": "Winnie Pooh",
-  "count": 1,
+  "count": 2,
   "images": [
     {
       "id": 25,
@@ -17,6 +17,21 @@
       "collection_name": "Winnie Pooh",
       "image_position": 1,
       "is_main": true
+    },
+    {
+      "id": 26,
+      "filename": "Winnie_Pooh_-_2.jpg",
+      "original_filename": "Winnie Pooh - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/Winnie_Pooh_-_2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/Winnie_Pooh_-_2.jpg",
+      "upload_date": "2025-09-30T16:17:17.383918",
+      "file_size": 177231,
+      "category": "mug",
+      "tags": [],
+      "collection_id": 8,
+      "collection_name": "Winnie Pooh",
+      "image_position": 2,
+      "is_main": false
     }
   ]
 }
