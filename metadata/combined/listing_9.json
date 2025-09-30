@@ -1,7 +1,7 @@
 {
   "listing_id": 9,
   "listing_name": "Saddle Up Buttercup",
-  "count": 4,
+  "count": 5,
   "images": [
     {
       "id": 32,
@@ -61,6 +61,21 @@
       "collection_id": 9,
       "collection_name": "Saddle Up Buttercup",
       "image_position": 3,
+      "is_main": false
+    },
+    {
+      "id": 33,
+      "filename": "Saddle_Up_Buttercup_-_5.jpg",
+      "original_filename": "Saddle Up Buttercup - 5",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/Saddle_Up_Buttercup_-_5.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/09/Saddle_Up_Buttercup_-_5.jpg",
+      "upload_date": "2025-09-30T20:59:55.510301",
+      "file_size": 256754,
+      "category": "t-shirt",
+      "tags": [],
+      "collection_id": 9,
+      "collection_name": "Saddle Up Buttercup",
+      "image_position": 5,
       "is_main": false
     }
   ]
