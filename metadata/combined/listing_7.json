@@ -4,7 +4,7 @@
   "count": 5,
   "images": [
     {
-      "id": 20,
+      "id": 40,
       "filename": "Halloween_Kitchen_Mug_-_Main.jpg",
       "original_filename": "Halloween Kitchen Mug - Main",
       "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/Halloween_Kitchen_Mug_-_Main.jpg",
@@ -78,5 +78,35 @@
       "image_position": 5,
       "is_main": false
     }
-  ]
+  ],
+  "draft": {
+    "collection_id": "7",
+    "title": "Willow Gifts Halloween Food Puns Mug - Funny Spooky Horror Themed Coffee Cup For Men Women - Novelty Kitchen Drinkware Gift For Office Work - Boorito Scream Cheese Terramisu Panic Cotta Design",
+    "description": "Start your day with a scream... of laughter! This <b>hilarious Halloween-themed mug</b> from Willow Gifts is the perfect brew companion for anyone with a taste for the spooky and a love for clever puns. The unique wrap-around design features four ghoulishly funny food illustrations: the ghostly 'Boorito' the terrifying 'Scream Cheese' the monstrous 'Terramisu' and the frightened 'Panic Cotta'.<br><br>Made from high-quality ceramic with a striking black handle and interior this mug is as <b>durable as it is amusing</b>. It\u2019s the ideal size for your morning coffee afternoon tea or any hot drink you fancy. Whether you're buying it as a <b>quirky gift for a workmate</b> a treat for a foodie friend or simply to add some personality to your own kitchen cupboard this cup is guaranteed to raise a smile.",
+    "keywords": "ceramic tea birthday christmas home cafe workplace morning breakfast beverage hot drinks dad mum brother sister friend colleague boss him her adult student foodie chef secret santa stocking filler leaving congratulations appreciation hilarious joke sarcastic witty clever wordplay ghoulish monster ghost scary creepy black white comic cartoon art illustration unique quirky fun autumn october 31st trick treat party favour present anniversary valentines coworker cool beaker vessel",
+    "bullets": [
+      "Spooky Foodie Humour \u2013 A perfect Halloween gift for food lovers and pun enthusiasts featuring four hilarious horror-themed food puns - Boorito Scream Cheese Terramisu and Panic Cotta.",
+      "Premium Ceramic Build \u2013 Expertly crafted from high-grade ceramic this durable 11oz mug features a comfortable handle and a sleek black rim and interior for a premium feel and finish.",
+      "Convenient Daily Use \u2013 Designed for your busy lifestyle this cup is completely dishwasher safe for easy cleaning and microwave safe for quickly reheating your favourite morning beverage.",
+      "Lasting Graphic Print \u2013 The quirky black and white artwork is printed using advanced techniques ensuring the crisp lines and witty designs remain vibrant and will not fade over time.",
+      "Versatile Gift Idea \u2013 Arrives securely packaged making it an ideal Secret Santa or birthday present for a colleague to use in the office or a fun addition to any home kitchen."
+    ],
+    "parent_sku": "HAL-KIT-MUG-PARENT",
+    "platform": "willow",
+    "handle_colors": [
+      "white"
+    ],
+    "variations": [
+      {
+        "color": "Black",
+        "ean": "5063040255835",
+        "lineNumber": 1,
+        "size": "N/A",
+        "sku": "HAL-KIT-MUG-BLACK",
+        "title": "Halloween Kitchen Black Artwork Pun Play On Food Words BLACK MUG"
+      }
+    ],
+    "bulk_input": "5063040255835\tHalloween Kitchen Black Artwork Pun Play On Food Words BLACK MUG\t\tHAL-KIT-MUG-BLK",
+    "saved_at": "2025-10-07T12:30:41.818Z"
+  }
 }
