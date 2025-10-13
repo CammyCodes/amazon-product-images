@@ -1,7 +1,7 @@
 {
   "listing_id": 18,
   "listing_name": "Test Listing",
-  "count": 2,
+  "count": 3,
   "images": [
     {
       "id": 62,
@@ -31,6 +31,21 @@
       "collection_id": 18,
       "collection_name": "Test Listing",
       "image_position": 2,
+      "is_main": false
+    },
+    {
+      "id": 64,
+      "filename": "Test_Listing_-_3.jpg",
+      "original_filename": "Test Listing - 3",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Test_Listing_-_3.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/Test_Listing_-_3.jpg",
+      "upload_date": "2025-10-13T20:51:42.678821",
+      "file_size": 4870382,
+      "category": "santa sack",
+      "tags": [],
+      "collection_id": 18,
+      "collection_name": "Test Listing",
+      "image_position": 3,
       "is_main": false
     }
   ]
