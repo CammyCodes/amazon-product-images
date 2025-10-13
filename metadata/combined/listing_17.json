@@ -1,0 +1,67 @@
+{
+  "listing_id": 17,
+  "listing_name": "So You're Telling Me This Sandwich - Pooh",
+  "count": 4,
+  "images": [
+    {
+      "id": 62,
+      "filename": "So_Youre_Telling_Me_This_Sandwich_-_Pooh_-_4.jpg",
+      "original_filename": "So You're Telling Me This Sandwich - Pooh - 4",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/So_Youre_Telling_Me_This_Sandwich_-_Pooh_-_4.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/So_Youre_Telling_Me_This_Sandwich_-_Pooh_-_4.jpg",
+      "upload_date": "2025-10-08T09:24:34.828897",
+      "file_size": 144193,
+      "category": "mug",
+      "tags": [],
+      "collection_id": 17,
+      "collection_name": "So You're Telling Me This Sandwich - Pooh",
+      "image_position": 4,
+      "is_main": true
+    },
+    {
+      "id": 59,
+      "filename": "So_Youre_Telling_Me_This_Sandwich_-_Pooh_-_2.jpg",
+      "original_filename": "So You're Telling Me This Sandwich - Pooh - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/So_Youre_Telling_Me_This_Sandwich_-_Pooh_-_2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/So_Youre_Telling_Me_This_Sandwich_-_Pooh_-_2.jpg",
+      "upload_date": "2025-10-08T09:15:41.611103",
+      "file_size": 278436,
+      "category": "mug",
+      "tags": [],
+      "collection_id": 17,
+      "collection_name": "So You're Telling Me This Sandwich - Pooh",
+      "image_position": 2,
+      "is_main": false
+    },
+    {
+      "id": 60,
+      "filename": "So_Youre_Telling_Me_This_Sandwich_-_Pooh_-_3.jpg",
+      "original_filename": "So You're Telling Me This Sandwich - Pooh - 3",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/So_Youre_Telling_Me_This_Sandwich_-_Pooh_-_3.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/So_Youre_Telling_Me_This_Sandwich_-_Pooh_-_3.jpg",
+      "upload_date": "2025-10-08T09:15:43.194305",
+      "file_size": 183716,
+      "category": "mug",
+      "tags": [],
+      "collection_id": 17,
+      "collection_name": "So You're Telling Me This Sandwich - Pooh",
+      "image_position": 3,
+      "is_main": false
+    },
+    {
+      "id": 63,
+      "filename": "So_Youre_Telling_Me_This_Sandwich_-_Pooh_-_5.jpg",
+      "original_filename": "So You're Telling Me This Sandwich - Pooh - 5",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/So_Youre_Telling_Me_This_Sandwich_-_Pooh_-_5.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/So_Youre_Telling_Me_This_Sandwich_-_Pooh_-_5.jpg",
+      "upload_date": "2025-10-08T09:24:37.328412",
+      "file_size": 250110,
+      "category": "mug",
+      "tags": [],
+      "collection_id": 17,
+      "collection_name": "So You're Telling Me This Sandwich - Pooh",
+      "image_position": 5,
+      "is_main": false
+    }
+  ]
+}
