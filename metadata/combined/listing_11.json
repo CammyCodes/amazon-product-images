@@ -4,7 +4,7 @@
   "count": 4,
   "images": [
     {
-      "id": 41,
+      "id": 39,
       "filename": "Western_Cowboy_USA_America_Howdy_Retro_Movie_Doodle_-_Main.jpg",
       "original_filename": "Western Cowboy USA America Howdy Retro Movie Doodle - Main",
       "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Western_Cowboy_USA_America_Howdy_Retro_Movie_Doodle_-_Main.jpg",
@@ -19,7 +19,7 @@
       "is_main": true
     },
     {
-      "id": 42,
+      "id": 41,
       "filename": "Western_Cowboy_USA_America_Howdy_Retro_Movie_Doodle_-_2-1.jpg",
       "original_filename": "Western Cowboy USA America Howdy Retro Movie Doodle - 2",
       "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Western_Cowboy_USA_America_Howdy_Retro_Movie_Doodle_-_2-1.jpg",
@@ -34,7 +34,7 @@
       "is_main": false
     },
     {
-      "id": 43,
+      "id": 40,
       "filename": "Western_Cowboy_USA_America_Howdy_Retro_Movie_Doodle_-_2.jpg",
       "original_filename": "Western Cowboy USA America Howdy Retro Movie Doodle - 2",
       "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Western_Cowboy_USA_America_Howdy_Retro_Movie_Doodle_-_2.jpg",
@@ -49,7 +49,7 @@
       "is_main": false
     },
     {
-      "id": 44,
+      "id": 43,
       "filename": "Western_Cowboy_USA_America_Howdy_Retro_Movie_Doodle_-_4.jpg",
       "original_filename": "Western Cowboy USA America Howdy Retro Movie Doodle - 4",
       "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Western_Cowboy_USA_America_Howdy_Retro_Movie_Doodle_-_4.jpg",
@@ -76,22 +76,22 @@
       "Lasting Vibrant Print \u2013 Features a high-definition wrap-around design printed with durable fade-resistant inks ensuring the Western graphics stay sharp and clear.",
       "Versatile Gift Idea \u2013 Arrives securely packaged and ready for gifting making it a wonderful addition to any home kitchen office desk or workplace breakroom."
     ],
-    "parent_sku": "HOW-COW-PARENT",
+    "parent_sku": "HOW-COW-MUG-PARENT",
     "platform": "smartypants",
     "handle_colors": [
       "white"
     ],
     "variations": [
       {
-        "ean": "5063040250748",
-        "title": "Western Cowboy USA America Howdy Retro Movie Doodle WHITE MUG",
-        "sku": "HOW-COW-MUG-WHI",
         "color": "White",
+        "ean": "5063040250748",
+        "lineNumber": 1,
         "size": "N/A",
-        "lineNumber": 1
+        "sku": "HOW-COW-MUG-WHI",
+        "title": "Western Cowboy USA America Howdy Retro Movie Doodle WHITE MUG"
       }
     ],
     "bulk_input": "5063040250748\tWestern Cowboy USA America Howdy Retro Movie Doodle WHITE MUG\t\tHOW-COW-MUG-WHI\n",
-    "saved_at": "2025-10-03T13:16:02.060Z"
+    "saved_at": "2025-10-13T18:50:04.673Z"
   }
 }
