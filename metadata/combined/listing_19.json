@@ -1,7 +1,7 @@
 {
   "listing_id": 19,
   "listing_name": "xz",
-  "count": 2,
+  "count": 3,
   "images": [
     {
       "id": 65,
@@ -31,6 +31,21 @@
       "collection_id": 19,
       "collection_name": "xz",
       "image_position": 2,
+      "is_main": false
+    },
+    {
+      "id": 67,
+      "filename": "xz_-_3.jpg",
+      "original_filename": "xz - 3",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/xz_-_3.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/xz_-_3.jpg",
+      "upload_date": "2025-10-13T21:01:14.654448",
+      "file_size": 248514,
+      "category": "mug",
+      "tags": [],
+      "collection_id": 19,
+      "collection_name": "xz",
+      "image_position": 3,
       "is_main": false
     }
   ]
