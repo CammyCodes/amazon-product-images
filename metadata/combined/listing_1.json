@@ -4,7 +4,7 @@
   "count": 2,
   "images": [
     {
-      "id": 13,
+      "id": 1,
       "filename": "20250905_235144_952596_Got_Too_Silly_Mug_817c.jpg",
       "original_filename": "Got Too Silly Mug",
       "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250905_235144_952596_Got_Too_Silly_Mug_817c.jpg",
@@ -19,7 +19,7 @@
       "is_main": true
     },
     {
-      "id": 14,
+      "id": 39,
       "filename": "20250905_235145_867023_Gemini_Generated_Image_5fc7175fc7175fc7_3945.jpg",
       "original_filename": "Gemini_Generated_Image_5fc7175fc7175fc7.png",
       "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250905_235145_867023_Gemini_Generated_Image_5fc7175fc7175fc7_3945.jpg",
@@ -33,5 +33,35 @@
       "image_position": 2,
       "is_main": false
     }
-  ]
+  ],
+  "draft": {
+    "collection_id": 1,
+    "title": "Willow Gifts Got Too Silly Goose Mug - Funny Novelty Meme Gift Friends - Sarcastic Internet Humour Animal Cartoon Cup For Office Work Colleague - 11oz Ceramic Tea Coffee Present",
+    "description": "Embrace your chaotic side with the 'Got Too Silly' Goose Mug from Willow Gifts. This charming and hilarious mug perfectly captures the spirit of a beloved internet meme, featuring a minimalist cartoon goose who has found himself in a spot of bother for being just a bit too mischievous.<br><br>It's the <b>perfect conversation starter</b> for your home or office desk and an excellent way to share a laugh with friends and colleagues. Made from <b>high-quality ceramic</b> with a crisp, durable print, this mug is designed for daily use. Whether you're buying for a meme connoisseur, a gamer, or just someone with a wonderfully quirky sense of humour, this mug is a <b>fantastic and memorable gift</b> for any occasion.",
+    "keywords": "drinkware teacup beverage hot drinks kitchenware crockery mum dad brother sister son daughter teen teenager student boss coworker him her adult birthday christmas secret santa stocking filler leaving new job congratulations valentines anniversary joke hilarious witty banter gag gamer gaming online viral trend tiktok duck bird jail prison bars behind bars quirky unique cool modern minimalist line art drawing illustration breakfast morning brew cuppa handle dishwasher microwave safe",
+    "bullets": [
+      "Hilarious Meme Gift \u2013 Perfect for fans of internet humour and quirky animal cartoons this mug features the viral \"got too silly\" goose making it an ideal present for friends or colleagues.",
+      "Premium Ceramic Quality \u2013 Crafted from high-grade ceramic this durable 11oz mug has a smooth glossy finish that feels great in your hands and is built for long-lasting daily enjoyment.",
+      "Effortless Daily Use \u2013 Designed for your convenience this cup is completely dishwasher and microwave safe making it easy to heat your favourite beverage and simple to clean afterwards.",
+      "Vibrant Lasting Print \u2013 Our professional printing process ensures the quirky goose design is sharp with vivid colours that will not fade or peel even after countless washes and uses.",
+      "Versatile & Gift-Ready \u2013 Arriving in a sturdy box suitable for gifting this mug is perfect for brightening up your morning coffee at home the office desk or as a fun addition to any kitchen."
+    ],
+    "parent_sku": "GOT-TOO-MUG-PARENT",
+    "platform": "willow",
+    "handle_colors": [
+      "white"
+    ],
+    "variations": [
+      {
+        "ean": "5063040257310",
+        "title": "Got Too Silly Goose Mug",
+        "sku": "GOT-TOO-MUG-WHI",
+        "color": "White",
+        "size": "N/A",
+        "lineNumber": 1
+      }
+    ],
+    "bulk_input": "5063040257310\tGot Too Silly Goose Mug\t\tGOT-TOO-MUG-WHI",
+    "saved_at": "2025-09-30T12:52:45.874Z"
+  }
 }
