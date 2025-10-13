@@ -4,7 +4,7 @@
   "count": 4,
   "images": [
     {
-      "id": 39,
+      "id": 41,
       "filename": "Western_Cowboy_USA_America_Howdy_Retro_Movie_Doodle_-_Main.jpg",
       "original_filename": "Western Cowboy USA America Howdy Retro Movie Doodle - Main",
       "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Western_Cowboy_USA_America_Howdy_Retro_Movie_Doodle_-_Main.jpg",
@@ -19,7 +19,7 @@
       "is_main": true
     },
     {
-      "id": 41,
+      "id": 42,
       "filename": "Western_Cowboy_USA_America_Howdy_Retro_Movie_Doodle_-_2-1.jpg",
       "original_filename": "Western Cowboy USA America Howdy Retro Movie Doodle - 2",
       "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Western_Cowboy_USA_America_Howdy_Retro_Movie_Doodle_-_2-1.jpg",
@@ -34,7 +34,7 @@
       "is_main": false
     },
     {
-      "id": 40,
+      "id": 43,
       "filename": "Western_Cowboy_USA_America_Howdy_Retro_Movie_Doodle_-_2.jpg",
       "original_filename": "Western Cowboy USA America Howdy Retro Movie Doodle - 2",
       "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Western_Cowboy_USA_America_Howdy_Retro_Movie_Doodle_-_2.jpg",
@@ -49,7 +49,7 @@
       "is_main": false
     },
     {
-      "id": 43,
+      "id": 44,
       "filename": "Western_Cowboy_USA_America_Howdy_Retro_Movie_Doodle_-_4.jpg",
       "original_filename": "Western Cowboy USA America Howdy Retro Movie Doodle - 4",
       "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Western_Cowboy_USA_America_Howdy_Retro_Movie_Doodle_-_4.jpg",
@@ -63,5 +63,35 @@
       "image_position": 4,
       "is_main": false
     }
-  ]
+  ],
+  "draft": {
+    "collection_id": 11,
+    "title": "SMARTYPANTS Western Howdy Mug - Retro Cowboy Themed Coffee Cup For Her Women Men - Cute American Country Doodle Art Design - Novelty USA Drinkware For Home Office Kitchen - 11oz Ceramic Tea Present",
+    "description": "Greet your morning with a cheerful \"Howdy!\" and a touch of Wild West charm. This delightful mug from SMARTYPANTS features a <b>unique retro doodle design</b>, celebrating all things cowboy and Americana. From boots and hats to desert landscapes, the wrap-around artwork is a conversation starter, making it the perfect companion for your morning coffee or afternoon tea.<br><br>Expertly crafted from <b>durable white ceramic</b>, this 11oz mug is built for daily enjoyment. The high-quality print ensures the fun, vintage-inspired graphics remain vibrant and won't fade over time. For your convenience, it's both <b>dishwasher and microwave safe</b>, fitting seamlessly into your busy lifestyle. Whether you're buying it as a special treat for yourself or as a <b>thoughtful gift for a friend</b>, this Western-themed cup is sure to bring a smile to anyone's face.",
+    "keywords": "gifts presents birthday christmas secret santa stocking filler leaving work gift fathers mothers day valentines anniversary congratulations thank you housewarming mum dad sister brother colleague boss girlfriend boyfriend partner coworker teacher student adult teen girl boy wild west southern texas nashville rodeo horse riding line dancing vintage funny hilarious joke cool unique stylish trendy graphic illustration sketch black white beige farm farming rancher beverage vessel stein",
+    "bullets": [
+      "Western Doodle Design \u2013 Say \"Howdy\" in style with this charming retro cowboy mug a perfect gift for friends and family who love country music Americana or unique art.",
+      "Premium Ceramic Build \u2013 Crafted from high-quality white ceramic with a smooth glossy finish this sturdy 11oz mug is the ideal size for your favourite hot beverage.",
+      "Everyday Convenience \u2013 Designed for modern life this cup is completely microwave safe for reheating drinks and dishwasher safe for effortless easy cleaning.",
+      "Lasting Vibrant Print \u2013 Features a high-definition wrap-around design printed with durable fade-resistant inks ensuring the Western graphics stay sharp and clear.",
+      "Versatile Gift Idea \u2013 Arrives securely packaged and ready for gifting making it a wonderful addition to any home kitchen office desk or workplace breakroom."
+    ],
+    "parent_sku": "HOW-COW-PARENT",
+    "platform": "smartypants",
+    "handle_colors": [
+      "white"
+    ],
+    "variations": [
+      {
+        "ean": "5063040250748",
+        "title": "Western Cowboy USA America Howdy Retro Movie Doodle WHITE MUG",
+        "sku": "HOW-COW-MUG-WHI",
+        "color": "White",
+        "size": "N/A",
+        "lineNumber": 1
+      }
+    ],
+    "bulk_input": "5063040250748\tWestern Cowboy USA America Howdy Retro Movie Doodle WHITE MUG\t\tHOW-COW-MUG-WHI\n",
+    "saved_at": "2025-10-03T13:16:02.060Z"
+  }
 }
