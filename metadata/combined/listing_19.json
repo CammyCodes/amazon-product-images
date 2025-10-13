@@ -1,0 +1,22 @@
+{
+  "listing_id": 19,
+  "listing_name": "xz",
+  "count": 1,
+  "images": [
+    {
+      "id": 65,
+      "filename": "xz_-_Main.jpg",
+      "original_filename": "xz - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/xz_-_Main.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/xz_-_Main.jpg",
+      "upload_date": "2025-10-13T21:01:06.198810",
+      "file_size": 222724,
+      "category": "mug",
+      "tags": [],
+      "collection_id": 19,
+      "collection_name": "xz",
+      "image_position": 1,
+      "is_main": false
+    }
+  ]
+}
