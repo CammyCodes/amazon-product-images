@@ -1,0 +1,67 @@
+{
+  "listing_id": 11,
+  "listing_name": "Western Cowboy USA America Howdy Retro Movie Doodle",
+  "count": 4,
+  "images": [
+    {
+      "id": 39,
+      "filename": "Western_Cowboy_USA_America_Howdy_Retro_Movie_Doodle_-_Main.jpg",
+      "original_filename": "Western Cowboy USA America Howdy Retro Movie Doodle - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Western_Cowboy_USA_America_Howdy_Retro_Movie_Doodle_-_Main.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/Western_Cowboy_USA_America_Howdy_Retro_Movie_Doodle_-_Main.jpg",
+      "upload_date": "2025-10-03T12:44:36.991872",
+      "file_size": 112344,
+      "category": "mug",
+      "tags": [],
+      "collection_id": 11,
+      "collection_name": "Western Cowboy USA America Howdy Retro Movie Doodle",
+      "image_position": 1,
+      "is_main": true
+    },
+    {
+      "id": 41,
+      "filename": "Western_Cowboy_USA_America_Howdy_Retro_Movie_Doodle_-_2-1.jpg",
+      "original_filename": "Western Cowboy USA America Howdy Retro Movie Doodle - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Western_Cowboy_USA_America_Howdy_Retro_Movie_Doodle_-_2-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/Western_Cowboy_USA_America_Howdy_Retro_Movie_Doodle_-_2-1.jpg",
+      "upload_date": "2025-10-03T12:44:40.799454",
+      "file_size": 244810,
+      "category": "mug",
+      "tags": [],
+      "collection_id": 11,
+      "collection_name": "Western Cowboy USA America Howdy Retro Movie Doodle",
+      "image_position": 2,
+      "is_main": false
+    },
+    {
+      "id": 40,
+      "filename": "Western_Cowboy_USA_America_Howdy_Retro_Movie_Doodle_-_2.jpg",
+      "original_filename": "Western Cowboy USA America Howdy Retro Movie Doodle - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Western_Cowboy_USA_America_Howdy_Retro_Movie_Doodle_-_2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/Western_Cowboy_USA_America_Howdy_Retro_Movie_Doodle_-_2.jpg",
+      "upload_date": "2025-10-03T12:44:39.557377",
+      "file_size": 261581,
+      "category": "mug",
+      "tags": [],
+      "collection_id": 11,
+      "collection_name": "Western Cowboy USA America Howdy Retro Movie Doodle",
+      "image_position": 2,
+      "is_main": false
+    },
+    {
+      "id": 43,
+      "filename": "Western_Cowboy_USA_America_Howdy_Retro_Movie_Doodle_-_4.jpg",
+      "original_filename": "Western Cowboy USA America Howdy Retro Movie Doodle - 4",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Western_Cowboy_USA_America_Howdy_Retro_Movie_Doodle_-_4.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/Western_Cowboy_USA_America_Howdy_Retro_Movie_Doodle_-_4.jpg",
+      "upload_date": "2025-10-03T12:44:46.082578",
+      "file_size": 249272,
+      "category": "mug",
+      "tags": [],
+      "collection_id": 11,
+      "collection_name": "Western Cowboy USA America Howdy Retro Movie Doodle",
+      "image_position": 4,
+      "is_main": false
+    }
+  ]
+}
