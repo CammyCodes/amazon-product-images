@@ -63,5 +63,35 @@
       "image_position": 4,
       "is_main": false
     }
-  ]
+  ],
+  "draft": {
+    "collection_id": 8,
+    "title": "Willow Gifts British Bear Friends Mug - Nostalgic Cartoon Tea Cup For Men Women - Cute Animal Drinkware Present For Birthday Christmas - 11oz Ceramic Coffee",
+    "description": "Bring a touch of heartwarming nostalgia to your daily routine with this beautifully illustrated mug from Willow Gifts. This unique design imagines a <b>charming meeting between two iconic bears</b>, one from the deep woods and another from darkest Peru, united by their love for adventure and a new life in London. The detailed artwork, featuring travel stamps and famous landmarks, tells a story of friendship that will bring a smile to your face with every sip.<br><br>Made from <b>premium quality ceramic</b> with a striking navy blue handle and rim, this mug is as durable as it is delightful. It's perfectly suited for your morning coffee, afternoon tea, or any favourite hot beverage. As a <b>practical and thoughtful gift</b>, it is both microwave and dishwasher safe, ensuring the vibrant, fade-resistant print remains pristine. It\u2019s the ideal present for anyone who cherishes classic storybook characters and the magic of friendship.",
+    "keywords": "him her mum dad brother sister colleague boss friend family adult teacher workmate secret santa stocking filler leaving work new job thank you mothers fathers day anniversary valentine's day presents ideas london england uk journey adventure storybook character childhood memory illustration art artistic watercolour peru woods union jack flag suitcase kitchen accessories novelty funny humour joke item stuff merchandise kitchenware tableware breakfast morning brew cuppa hot chocolate",
+    "bullets": [
+      "Charming Bear Friends \u2013 Celebrate a heartwarming meeting of two beloved British bears with this unique travel-themed design, making it a perfect nostalgic gift for friends and family.",
+      "Premium Ceramic Quality \u2013 Crafted from high-grade 11oz ceramic, this durable mug features a smooth, glossy finish and a comfortable, stylish navy blue handle for a superior feel.",
+      "Everyday Convenience \u2013 Designed for modern life, this cup is completely dishwasher and microwave safe, ensuring your charming bear design remains vibrant through daily use and easy cleaning.",
+      "Lasting Vibrant Print \u2013 Our professional sublimation printing process ensures the delightful artwork is sharp, vivid, and fade-resistant, capturing every detail for years of enjoyment.",
+      "Versatile Gift Idea \u2013 Arriving securely packaged, this delightful mug is ready for gifting and is perfect for enjoying tea or coffee at home, in the office, or as a lovely desk accessory."
+    ],
+    "parent_sku": "POO-PAD-MUG-PARENT",
+    "platform": "willow",
+    "handle_colors": [
+      "white"
+    ],
+    "variations": [
+      {
+        "ean": "5063040264943",
+        "title": "Pooh And Paddington, The Bear Peru And England NAVY MUG",
+        "sku": "POO-PAD-MUG-NAV",
+        "color": "Navy",
+        "size": "N/A",
+        "lineNumber": 1
+      }
+    ],
+    "bulk_input": "5063040264943\tPooh And Paddington, The Bear Peru And England NAVY MUG\t\tPOO-PAD-MUG-NAV",
+    "saved_at": "2025-09-30T16:29:53.574Z"
+  }
 }
