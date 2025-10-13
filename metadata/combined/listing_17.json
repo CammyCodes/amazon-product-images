@@ -4,7 +4,7 @@
   "count": 4,
   "images": [
     {
-      "id": 62,
+      "id": 58,
       "filename": "So_Youre_Telling_Me_This_Sandwich_-_Pooh_-_4.jpg",
       "original_filename": "So You're Telling Me This Sandwich - Pooh - 4",
       "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/So_Youre_Telling_Me_This_Sandwich_-_Pooh_-_4.jpg",
@@ -49,7 +49,7 @@
       "is_main": false
     },
     {
-      "id": 63,
+      "id": 61,
       "filename": "So_Youre_Telling_Me_This_Sandwich_-_Pooh_-_5.jpg",
       "original_filename": "So You're Telling Me This Sandwich - Pooh - 5",
       "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/So_Youre_Telling_Me_This_Sandwich_-_Pooh_-_5.jpg",
@@ -63,5 +63,35 @@
       "image_position": 5,
       "is_main": false
     }
-  ]
+  ],
+  "draft": {
+    "collection_id": 17,
+    "title": "SMARTYPANTS Funny Pooh Bear Honey Sandwich Mug - Paddington Bear Crossover Humour Gift For Men Women - Classic Book Character Novelty Coffee Tea Cup For Birthday Christmas Present For Him Her",
+    "description": "Bring a smile to every tea break with this wonderfully charming and witty mug from SMARTYPANTS. Featuring a <b>heartwarming crossover</b> between two of Britain's most beloved bears this design is a must-have for any fan of classic children's literature. The illustration captures a funny moment between Pooh and Paddington over a sandwich with the quote \"So you're telling me this sandwich isn't filled with honey?\".<br><br>Made from <b>durable high-quality ceramic</b> with a vibrant long-lasting print this mug is both a delightful piece of nostalgia and a practical part of your daily routine. It's completely <b>dishwasher and microwave safe</b> making it perfect for your morning coffee evening cocoa or any beverage in between. It makes an <b>unforgettable gift</b> for birthdays Christmas or just to show someone you're thinking of them.",
+    "keywords": "drinkware kitchenware teacup coffeecup beverage hot drinks ceramic porcelain mum dad mother father son daughter brother sister colleague friend boss teacher librarian reader bookworm adult secret santa stocking filler leaving work thank you mothers day fathers day anniversary congratulations get well soon nostalgic retro vintage illustration artwork quote joke witty clever animal storybook literature england british peru hundred acre wood marmalade home office desk workplace kitchen",
+    "bullets": [
+      "Charming Character Crossover \u2013 A delightful gift for fans of classic literature featuring a funny and heartwarming illustration of Pooh Bear and Paddington perfect for birthdays or Christmas.",
+      "Premium Ceramic Build \u2013 Crafted from high-quality 11oz white ceramic this sturdy mug features a smooth glossy finish that feels great in your hands and is built for daily use.",
+      "Convenient Daily Use \u2013 Fully microwave and dishwasher safe this cup is designed for ultimate convenience making your morning coffee or afternoon tea routine completely hassle-free.",
+      "Vibrant Lasting Print \u2013 Our professional printing process ensures the charming artwork and witty text are displayed in vivid colour and will not fade or peel over time with washing.",
+      "Versatile Gift Idea \u2013 Securely packaged for safe delivery this mug is a wonderful addition to any home or office desk bringing a touch of nostalgic humour to every hot drink."
+    ],
+    "parent_sku": "SAN-HUN-PARENT",
+    "platform": "smartypants",
+    "handle_colors": [
+      "white"
+    ],
+    "variations": [
+      {
+        "ean": "5063040265353",
+        "title": "So You're Telling Me This Sandwich - Pooh WHITE MUG",
+        "sku": "SAN-HUN-MUG-WHT",
+        "color": "White",
+        "size": "N/A",
+        "lineNumber": 1
+      }
+    ],
+    "bulk_input": "5063040265353\tSo You're Telling Me This Sandwich - Pooh WHITE MUG\t\tSAN-HUN-MUG-WHT",
+    "saved_at": "2025-10-08T09:26:26.915Z"
+  }
 }
