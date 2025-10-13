@@ -4,7 +4,7 @@
   "count": 4,
   "images": [
     {
-      "id": 4,
+      "id": 11,
       "filename": "20250904_225907_226242_Main_Oohlive_T-Shirt_73bd.jpg",
       "original_filename": "Main Oohlive T-Shirt",
       "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250904_225907_226242_Main_Oohlive_T-Shirt_73bd.jpg",
@@ -19,7 +19,7 @@
       "is_main": true
     },
     {
-      "id": 3,
+      "id": 12,
       "filename": "20250904_225906_111561_Oohlive_T-Shirt_2_c8d6.jpg",
       "original_filename": "Oohlive T-Shirt 2",
       "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250904_225906_111561_Oohlive_T-Shirt_2_c8d6.jpg",
@@ -34,7 +34,7 @@
       "is_main": false
     },
     {
-      "id": 1,
+      "id": 13,
       "filename": "20250904_225903_601901_Oohlive_T-Shirt_3_82c8.jpg",
       "original_filename": "Oohlive T-Shirt 3",
       "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250904_225903_601901_Oohlive_T-Shirt_3_82c8.jpg",
@@ -49,7 +49,7 @@
       "is_main": false
     },
     {
-      "id": 2,
+      "id": 14,
       "filename": "20250904_225904_599507_Oohlive_T-Shirt_4_906b.jpg",
       "original_filename": "Oohlive T-Shirt 4",
       "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250904_225904_599507_Oohlive_T-Shirt_4_906b.jpg",
@@ -63,5 +63,91 @@
       "image_position": 4,
       "is_main": false
     }
-  ]
+  ],
+  "draft": {
+    "collection_id": 4,
+    "title": "Willow Gifts Spooky Olive Ghost T-Shirt - Cute Halloween Retro Graphic Tee Funny Pun Oversized Top Trendy Vintage Style Unisex Adult For Autumn Parties",
+    "description": "Embrace a touch of spooky fun with the 'Ooh Olive' ghost t-shirt from Willow Gifts. This design is a perfect blend of <b>cute Halloween charm and trendy retro style</b>, featuring a charming ghost graphic on the chest and a bold, groovy slogan on the back.<br><br>Made from exceptionally soft, premium cotton, this tee is designed for a <b>comfortable, relaxed oversized fit</b> that's perfect for everyday wear. Whether you're heading to a Halloween party, looking for a unique autumn top, or searching for a <b>funny gift for a friend</b>, this shirt is a standout choice. Its high-quality print ensures the olive green design stays vibrant, making it a durable and stylish addition to any wardrobe.",
+    "keywords": "shirt apparel garment clothes outfit mens womens ladies student teenager teens boys girls son daughter friend colleague birthday present gift idea christmas secret santa stocking filler costume event celebration novelty joke humour hilarious 70s groovy aesthetic streetwear baggy relaxed fit fall season ghoulish spirit phantom spectre cotton comfortable soft quality premium breathable durable machine washable spooky-cute ghoulish-fun playful-spirit october-festivities",
+    "bullets": [
+      "Spooky Cute Design \u2013 Perfect for Halloween this top features a playful ghost on an olive with a retro 'Ooh Olive' pun on the back making it a great gift for friends with a quirky sense of humour.",
+      "Premium Cotton Comfort \u2013 Crafted from 100% combed ringspun cotton this t-shirt offers a luxuriously soft feel and superior breathability for all-day comfort and lasting quality.",
+      "Effortless Everyday Care \u2013 Designed for a modern lifestyle this pre-shrunk tee is fully machine washable and maintains its relaxed oversized fit and shape wash after wash for easy care.",
+      "Vibrant Lasting Print \u2013 Utilising advanced printing technology the rich olive green graphic on the front and back boasts excellent colour vibrancy and is highly resistant to fading over time.",
+      "Trendy Wardrobe Staple \u2013 Ideal as a unique gift this versatile shirt is perfect for casual outings university lectures or Halloween parties pairing effortlessly with jeans or joggers for a relaxed look."
+    ],
+    "parent_sku": "OOH-LIV-OVE-PARENT",
+    "platform": "willow",
+    "handle_colors": [
+      "white"
+    ],
+    "variations": [
+      {
+        "color": "Ecru",
+        "ean": "5063040256054",
+        "lineNumber": 1,
+        "size": "S",
+        "sku": "OOH-LIV-OVE-ECR-S-CRBT40",
+        "title": "Oooohlive Halloween Trendy Doodle Humour Ghost Olive ECRU OVERSIZED T-SHIRT - S"
+      },
+      {
+        "color": "Ecru",
+        "ean": "5063040256061",
+        "lineNumber": 2,
+        "size": "M",
+        "sku": "OOH-LIV-OVE-ECR-M-CRBT40",
+        "title": "Oooohlive Halloween Trendy Doodle Humour Ghost Olive  ECRU OVERSIZED T-SHIRT - M"
+      },
+      {
+        "color": "Ecru",
+        "ean": "5063040256078",
+        "lineNumber": 3,
+        "size": "L",
+        "sku": "OOH-LIV-OVE-ECR-L-CRBT40",
+        "title": "Oooohlive Halloween Trendy Doodle Humour Ghost Olive  ECRU OVERSIZED T-SHIRT - L"
+      },
+      {
+        "color": "Ecru",
+        "ean": "5063040256085",
+        "lineNumber": 4,
+        "size": "XL",
+        "sku": "OOH-LIV-OVE-ECR-XL-CRBT40",
+        "title": "Oooohlive Halloween Trendy Doodle Humour Ghost Olive  ECRU OVERSIZED T-SHIRT - XL"
+      },
+      {
+        "color": "Ecru",
+        "ean": "5063040256092",
+        "lineNumber": 5,
+        "size": "2XL",
+        "sku": "OOH-LIV-OVE-ECR-2XL-CRBT40",
+        "title": "Oooohlive Halloween Trendy Doodle Humour Ghost Olive ECRU OVERSIZED T-SHIRT - 2XL"
+      },
+      {
+        "color": "Ecru",
+        "ean": "5063040256108",
+        "lineNumber": 6,
+        "size": "3XL",
+        "sku": "OOH-LIV-OVE-ECR-3XL-CRBT40",
+        "title": "Oooohlive Halloween Trendy Doodle Humour Ghost Olive ECRU OVERSIZED T-SHIRT - 3XL"
+      },
+      {
+        "color": "Ecru",
+        "ean": "5063040256115",
+        "lineNumber": 7,
+        "size": "4XL",
+        "sku": "OOH-LIV-OVE-ECR-4XL-CRBT40",
+        "title": "Oooohlive Halloween Trendy Doodle Humour Ghost Olive  ECRU OVERSIZED T-SHIRT - 4XL"
+      },
+      {
+        "color": "Ecru",
+        "ean": "5063040256122",
+        "lineNumber": 8,
+        "size": "5XL",
+        "sku": "OOH-LIV-OVE-ECR-5XL-CRBT40",
+        "title": "Oooohlive Halloween Trendy Doodle Humour Ghost Olive  ECRU OVERSIZED T-SHIRT - 5XL"
+      }
+    ],
+    "bulk_input": "5063040256054\tOooohlive Halloween Trendy Doodle Humour Ghost Olive ECRU OVERSIZED T-SHIRT - S\t\tOOH-LIV-OVE-ECR-S-CRBT40 \n5063040256061\tOooohlive Halloween Trendy Doodle Humour Ghost Olive  ECRU OVERSIZED T-SHIRT - M\t\tOOH-LIV-OVE-ECR-M-CRBT40 \n5063040256078\tOooohlive Halloween Trendy Doodle Humour Ghost Olive  ECRU OVERSIZED T-SHIRT - L\t\tOOH-LIV-OVE-ECR-L-CRBT40 \n5063040256085\tOooohlive Halloween Trendy Doodle Humour Ghost Olive  ECRU OVERSIZED T-SHIRT - XL\t\tOOH-LIV-OVE-ECR-XL-CRBT40 \n5063040256092\tOooohlive Halloween Trendy Doodle Humour Ghost Olive ECRU OVERSIZED T-SHIRT - 2XL\t\tOOH-LIV-OVE-ECR-2XL-CRBT40 \n5063040256108\tOooohlive Halloween Trendy Doodle Humour Ghost Olive ECRU OVERSIZED T-SHIRT - 3XL\t\tOOH-LIV-OVE-ECR-3XL-CRBT40 \n5063040256115\tOooohlive Halloween Trendy Doodle Humour Ghost Olive  ECRU OVERSIZED T-SHIRT - 4XL\t\tOOH-LIV-OVE-ECR-4XL-CRBT40 \n5063040256122\tOooohlive Halloween Trendy Doodle Humour Ghost Olive  ECRU OVERSIZED T-SHIRT - 5XL\t\tOOH-LIV-OVE-ECR-5XL-CRBT40 ",
+    "saved_at": "2025-09-30T16:53:03.122Z"
+  }
 }
