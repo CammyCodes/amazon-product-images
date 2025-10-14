@@ -1,8 +1,22 @@
 {
   "listing_id": 19,
   "listing_name": "xz",
-  "count": 3,
+  "count": 2,
   "images": [
+    {
+      "id": 69,
+      "filename": "xz_-_5.jpg",
+      "original_filename": "xz - 5",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/xz_-_5.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/xz_-_5.jpg",
+      "upload_date": "2025-10-14T20:47:59.558986",
+      "file_size": 238213,
+      "tags": [],
+      "collection_id": 19,
+      "collection_name": "xz",
+      "image_position": 5,
+      "is_main": true
+    },
     {
       "id": 68,
       "filename": "xz_-_4.jpg",
@@ -11,41 +25,10 @@
       "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/xz_-_4.jpg",
       "upload_date": "2025-10-13T21:04:41.271527",
       "file_size": 238213,
-      "category": "mug",
       "tags": [],
       "collection_id": 19,
       "collection_name": "xz",
       "image_position": 4,
-      "is_main": true
-    },
-    {
-      "id": 66,
-      "filename": "xz_-_2.jpg",
-      "original_filename": "xz - 2",
-      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/xz_-_2.jpg",
-      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/xz_-_2.jpg",
-      "upload_date": "2025-10-13T21:01:08.675206",
-      "file_size": 273863,
-      "category": "mug",
-      "tags": [],
-      "collection_id": 19,
-      "collection_name": "xz",
-      "image_position": 2,
-      "is_main": false
-    },
-    {
-      "id": 67,
-      "filename": "xz_-_3.jpg",
-      "original_filename": "xz - 3",
-      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/xz_-_3.jpg",
-      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/xz_-_3.jpg",
-      "upload_date": "2025-10-13T21:01:14.654448",
-      "file_size": 248514,
-      "category": "mug",
-      "tags": [],
-      "collection_id": 19,
-      "collection_name": "xz",
-      "image_position": 3,
       "is_main": false
     }
   ]
