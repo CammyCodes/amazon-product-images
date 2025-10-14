@@ -1,20 +1,20 @@
 {
   "listing_id": 19,
   "listing_name": "xz",
-  "count": 3,
+  "count": 4,
   "images": [
     {
-      "id": 69,
-      "filename": "xz_-_5.jpg",
-      "original_filename": "xz - 5",
-      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/xz_-_5.jpg",
-      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/xz_-_5.jpg",
-      "upload_date": "2025-10-14T20:47:59.558986",
-      "file_size": 238213,
+      "id": 71,
+      "filename": "xz_-_7.jpg",
+      "original_filename": "xz - 7",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/xz_-_7.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/xz_-_7.jpg",
+      "upload_date": "2025-10-14T20:48:04.271572",
+      "file_size": 452788,
       "tags": [],
       "collection_id": 19,
       "collection_name": "xz",
-      "image_position": 5,
+      "image_position": 7,
       "is_main": true
     },
     {
@@ -29,6 +29,20 @@
       "collection_id": 19,
       "collection_name": "xz",
       "image_position": 4,
+      "is_main": false
+    },
+    {
+      "id": 69,
+      "filename": "xz_-_5.jpg",
+      "original_filename": "xz - 5",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/xz_-_5.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/xz_-_5.jpg",
+      "upload_date": "2025-10-14T20:47:59.558986",
+      "file_size": 238213,
+      "tags": [],
+      "collection_id": 19,
+      "collection_name": "xz",
+      "image_position": 5,
       "is_main": false
     },
     {
