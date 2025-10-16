@@ -1,52 +1,121 @@
 {
   "listing_id": 18,
-  "listing_name": "Test Listing",
-  "count": 3,
+  "listing_name": "DIY Express Mail",
+  "count": 6,
   "images": [
     {
-      "id": 62,
-      "filename": "Test_Listing_-_Main.jpg",
-      "original_filename": "Test Listing - Main",
-      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Test_Listing_-_Main.jpg",
-      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/Test_Listing_-_Main.jpg",
-      "upload_date": "2025-10-13T20:51:35.284489",
-      "file_size": 436995,
-      "category": "santa sack",
+      "id": 70,
+      "filename": "DIY_Express_Mail_-_6.jpg",
+      "original_filename": "DIY Express Mail - 6",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/DIY_Express_Mail_-_6.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/DIY_Express_Mail_-_6.jpg",
+      "upload_date": "2025-10-15T12:15:13.585620",
+      "file_size": 277280,
       "tags": [],
       "collection_id": 18,
-      "collection_name": "Test Listing",
-      "image_position": 1,
-      "is_main": false
+      "collection_name": "DIY Express Mail",
+      "image_position": 6,
+      "is_main": true
     },
     {
-      "id": 63,
-      "filename": "Test_Listing_-_2.jpg",
-      "original_filename": "Test Listing - 2",
-      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Test_Listing_-_2.jpg",
-      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/Test_Listing_-_2.jpg",
-      "upload_date": "2025-10-13T20:51:37.598204",
-      "file_size": 169721,
-      "category": "santa sack",
+      "id": 67,
+      "filename": "DIY_Express_Mail_-_3-1.jpg",
+      "original_filename": "DIY Express Mail - 3",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/DIY_Express_Mail_-_3-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/DIY_Express_Mail_-_3-1.jpg",
+      "upload_date": "2025-10-15T12:09:53.611089",
+      "file_size": 178783,
       "tags": [],
       "collection_id": 18,
-      "collection_name": "Test Listing",
-      "image_position": 2,
-      "is_main": false
-    },
-    {
-      "id": 64,
-      "filename": "Test_Listing_-_3.jpg",
-      "original_filename": "Test Listing - 3",
-      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Test_Listing_-_3.jpg",
-      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/Test_Listing_-_3.jpg",
-      "upload_date": "2025-10-13T20:51:42.678821",
-      "file_size": 4870382,
-      "category": "santa sack",
-      "tags": [],
-      "collection_id": 18,
-      "collection_name": "Test Listing",
+      "collection_name": "DIY Express Mail",
       "image_position": 3,
       "is_main": false
+    },
+    {
+      "id": 72,
+      "filename": "DIY_Express_Mail_-_7-1.jpg",
+      "original_filename": "DIY Express Mail - 7",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/DIY_Express_Mail_-_7-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/DIY_Express_Mail_-_7-1.jpg",
+      "upload_date": "2025-10-15T12:15:17.245509",
+      "file_size": 262587,
+      "tags": [],
+      "collection_id": 18,
+      "collection_name": "DIY Express Mail",
+      "image_position": 7,
+      "is_main": false
+    },
+    {
+      "id": 71,
+      "filename": "DIY_Express_Mail_-_7.jpg",
+      "original_filename": "DIY Express Mail - 7",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/DIY_Express_Mail_-_7.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/DIY_Express_Mail_-_7.jpg",
+      "upload_date": "2025-10-15T12:15:15.928087",
+      "file_size": 221758,
+      "tags": [],
+      "collection_id": 18,
+      "collection_name": "DIY Express Mail",
+      "image_position": 7,
+      "is_main": false
+    },
+    {
+      "id": 75,
+      "filename": "DIY_Express_Mail_-_10.jpg",
+      "original_filename": "DIY Express Mail - 10",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/DIY_Express_Mail_-_10.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/DIY_Express_Mail_-_10.jpg",
+      "upload_date": "2025-10-15T12:15:21.448836",
+      "file_size": 256268,
+      "tags": [],
+      "collection_id": 18,
+      "collection_name": "DIY Express Mail",
+      "image_position": 10,
+      "is_main": false
+    },
+    {
+      "id": 76,
+      "filename": "DIY_Express_Mail_-_11.jpg",
+      "original_filename": "DIY Express Mail - 11",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/DIY_Express_Mail_-_11.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/DIY_Express_Mail_-_11.jpg",
+      "upload_date": "2025-10-15T12:15:23.496239",
+      "file_size": 336099,
+      "tags": [],
+      "collection_id": 18,
+      "collection_name": "DIY Express Mail",
+      "image_position": 11,
+      "is_main": false
     }
-  ]
+  ],
+  "draft": {
+    "collection_id": 18,
+    "title": "Willow Gifts Personalised DIY Express Mail Santa Sack - Large Cotton Christmas Present Bag For Children With Letters - Kids North Pole Do Not Open Early Festive Holiday Stocking Alternative",
+    "description": "<b>Create your own DIY Santa Sack!</b> This lovely little gift idea for Christmas is the perfect way to add a personal touch to the festive season. Our Express Mail Service sack brings the magic of the North Pole right into your home. Made from a <b>premium and durable cotton fabric</b>, it's designed to be filled with presents and treasured for years to come.<br><br>The included letter set makes personalisation easy and fun, allowing you to spell out your child's name for a truly unique surprise on Christmas morning. With its charming design and secure drawcord closure, this sack is not just for presents; it's a <b>wonderful keepsake and festive decoration</b> that builds excitement and creates lasting family memories.",
+    "keywords": "xmas sackful bundle parcel package wrapping wrap stuff sackfuls drawstring rope closure customisable name initial child boy girl toddler baby son daughter grandson granddaughter nephew niece family parents mum dad eve box filler secret santa idea december 25th morning surprise magic magical tradition keepsake memory making activity craft kit father st nicholas reindeer delivery service post stamp undelivered return to sender decoration storage reusable eco-friendly",
+    "bullets": [
+      "Create Your Own Tradition \u2013 Make Christmas morning magical with this DIY express mail sack kit complete with letters to personalise for your child a truly special keepsake.",
+      "Premium Cotton Drawcord Bag \u2013 Crafted from high-quality durable cotton fabric this spacious stuff sack features a strong rope drawcord closure to keep presents securely hidden.",
+      "Spacious And Reusable \u2013 Generously sized to hold plenty of presents this eco-friendly bag can be used year after year becoming a cherished part of your family's festive decor.",
+      "Charming Festive Print \u2013 Features a beautifully printed North Pole mail service design with a fun 'Do Not Open Early' stamp in vibrant long-lasting inks for an authentic look.",
+      "Perfect Christmas Eve Gift \u2013 A lovely little gift idea this sack is perfect for wrapping large or awkward presents or as a decorative storage solution under the tree all season."
+    ],
+    "parent_sku": "DIY-SER-SAN-NAT",
+    "platform": "willow",
+    "handle_colors": [
+      "white"
+    ],
+    "variations": [
+      {
+        "color": "Unknown",
+        "ean": "5056634372551",
+        "lineNumber": 1,
+        "size": "N/A",
+        "sku": "DIY-SER-SAN-NAT",
+        "title": "Diy Express Mail Service Name NATURAL SANTA SACK"
+      }
+    ],
+    "bulk_input": "5056634372551\t\tDiy Express Mail Service Name NATURAL SANTA SACK\t\tDIY-SER-SAN-NAT",
+    "saved_at": "2025-10-15T17:23:34.913Z"
+  }
 }
