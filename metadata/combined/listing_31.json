@@ -1,0 +1,63 @@
+{
+  "listing_id": 31,
+  "listing_name": "Dog Hunt Hoodie Western Country",
+  "count": 4,
+  "images": [
+    {
+      "id": 150,
+      "filename": "Dog_Hunt_Hoodie_Western_Country_-_Main.jpg",
+      "original_filename": "Dog Hunt Hoodie Western Country - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Dog_Hunt_Hoodie_Western_Country_-_Main.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/Dog_Hunt_Hoodie_Western_Country_-_Main.jpg",
+      "upload_date": "2025-10-16T16:48:46.673763",
+      "file_size": 162390,
+      "tags": [],
+      "collection_id": 31,
+      "collection_name": "Dog Hunt Hoodie Western Country",
+      "image_position": 1,
+      "is_main": true
+    },
+    {
+      "id": 152,
+      "filename": "Dog_Hunt_Hoodie_Western_Country_-_2-1.jpg",
+      "original_filename": "Dog Hunt Hoodie Western Country - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Dog_Hunt_Hoodie_Western_Country_-_2-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/Dog_Hunt_Hoodie_Western_Country_-_2-1.jpg",
+      "upload_date": "2025-10-16T16:48:50.331365",
+      "file_size": 185910,
+      "tags": [],
+      "collection_id": 31,
+      "collection_name": "Dog Hunt Hoodie Western Country",
+      "image_position": 2,
+      "is_main": false
+    },
+    {
+      "id": 151,
+      "filename": "Dog_Hunt_Hoodie_Western_Country_-_2.jpg",
+      "original_filename": "Dog Hunt Hoodie Western Country - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Dog_Hunt_Hoodie_Western_Country_-_2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/Dog_Hunt_Hoodie_Western_Country_-_2.jpg",
+      "upload_date": "2025-10-16T16:48:49.181145",
+      "file_size": 241380,
+      "tags": [],
+      "collection_id": 31,
+      "collection_name": "Dog Hunt Hoodie Western Country",
+      "image_position": 2,
+      "is_main": false
+    },
+    {
+      "id": 153,
+      "filename": "Dog_Hunt_Hoodie_Western_Country_-_3.jpg",
+      "original_filename": "Dog Hunt Hoodie Western Country - 3",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Dog_Hunt_Hoodie_Western_Country_-_3.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/Dog_Hunt_Hoodie_Western_Country_-_3.jpg",
+      "upload_date": "2025-10-16T16:48:51.656950",
+      "file_size": 344419,
+      "tags": [],
+      "collection_id": 31,
+      "collection_name": "Dog Hunt Hoodie Western Country",
+      "image_position": 3,
+      "is_main": false
+    }
+  ]
+}
