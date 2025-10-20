@@ -1,7 +1,7 @@
 {
   "listing_id": 19,
   "listing_name": "xz",
-  "count": 7,
+  "count": 8,
   "images": [
     {
       "id": 69,
@@ -99,6 +99,20 @@
       "collection_id": 19,
       "collection_name": "xz",
       "image_position": 5,
+      "is_main": false
+    },
+    {
+      "id": 75,
+      "filename": "xz_-_6-1.jpg",
+      "original_filename": "xz - 6",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/xz_-_6-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/xz_-_6-1.jpg",
+      "upload_date": "2025-10-20T11:41:45.543652",
+      "file_size": 1475469,
+      "tags": [],
+      "collection_id": 19,
+      "collection_name": "xz",
+      "image_position": 6,
       "is_main": false
     }
   ],
