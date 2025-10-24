@@ -1,0 +1,64 @@
+{
+  "listing_id": 101,
+  "listing_name": "MRS-CLA Mrs Claus",
+  "count": 4,
+  "enabled": false,
+  "images": [
+    {
+      "id": 444,
+      "filename": "MRS-CLA_Mrs_Claus_-_Main-1.jpg",
+      "original_filename": "MRS-CLA Mrs Claus - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/MRS-CLA_Mrs_Claus_-_Main-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/MRS-CLA_Mrs_Claus_-_Main-1.jpg",
+      "upload_date": "2025-10-24T13:51:31.350117",
+      "file_size": 363450,
+      "tags": [],
+      "collection_id": 101,
+      "collection_name": "MRS-CLA Mrs Claus",
+      "image_position": 1,
+      "is_main": true
+    },
+    {
+      "id": 441,
+      "filename": "MRS-CLA_Mrs_Claus_-_Main.jpg",
+      "original_filename": "MRS-CLA Mrs Claus - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/MRS-CLA_Mrs_Claus_-_Main.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/MRS-CLA_Mrs_Claus_-_Main.jpg",
+      "upload_date": "2025-10-24T13:51:23.852967",
+      "file_size": 388330,
+      "tags": [],
+      "collection_id": 101,
+      "collection_name": "MRS-CLA Mrs Claus",
+      "image_position": 1,
+      "is_main": false
+    },
+    {
+      "id": 442,
+      "filename": "MRS-CLA_Mrs_Claus_-_2.jpg",
+      "original_filename": "MRS-CLA Mrs Claus - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/MRS-CLA_Mrs_Claus_-_2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/MRS-CLA_Mrs_Claus_-_2.jpg",
+      "upload_date": "2025-10-24T13:51:25.602977",
+      "file_size": 470569,
+      "tags": [],
+      "collection_id": 101,
+      "collection_name": "MRS-CLA Mrs Claus",
+      "image_position": 2,
+      "is_main": false
+    },
+    {
+      "id": 443,
+      "filename": "MRS-CLA_Mrs_Claus_-_3.jpg",
+      "original_filename": "MRS-CLA Mrs Claus - 3",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/MRS-CLA_Mrs_Claus_-_3.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/MRS-CLA_Mrs_Claus_-_3.jpg",
+      "upload_date": "2025-10-24T13:51:27.559152",
+      "file_size": 423110,
+      "tags": [],
+      "collection_id": 101,
+      "collection_name": "MRS-CLA Mrs Claus",
+      "image_position": 3,
+      "is_main": false
+    }
+  ]
+}
