@@ -1,0 +1,64 @@
+{
+  "listing_id": 103,
+  "listing_name": "ONE-PAW-PER",
+  "count": 4,
+  "enabled": false,
+  "images": [
+    {
+      "id": 453,
+      "filename": "ONE-PAW-PER_-_Main.jpg",
+      "original_filename": "ONE-PAW-PER - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/ONE-PAW-PER_-_Main.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/ONE-PAW-PER_-_Main.jpg",
+      "upload_date": "2025-10-24T14:09:16.470892",
+      "file_size": 243208,
+      "tags": [],
+      "collection_id": 103,
+      "collection_name": "ONE-PAW-PER",
+      "image_position": 1,
+      "is_main": true
+    },
+    {
+      "id": 454,
+      "filename": "ONE-PAW-PER_-_Main-1.jpg",
+      "original_filename": "ONE-PAW-PER - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/ONE-PAW-PER_-_Main-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/ONE-PAW-PER_-_Main-1.jpg",
+      "upload_date": "2025-10-24T14:09:18.240785",
+      "file_size": 284366,
+      "tags": [],
+      "collection_id": 103,
+      "collection_name": "ONE-PAW-PER",
+      "image_position": 1,
+      "is_main": false
+    },
+    {
+      "id": 456,
+      "filename": "ONE-PAW-PER_-_2-1.jpg",
+      "original_filename": "ONE-PAW-PER - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/ONE-PAW-PER_-_2-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/ONE-PAW-PER_-_2-1.jpg",
+      "upload_date": "2025-10-24T14:09:20.607259",
+      "file_size": 307215,
+      "tags": [],
+      "collection_id": 103,
+      "collection_name": "ONE-PAW-PER",
+      "image_position": 2,
+      "is_main": false
+    },
+    {
+      "id": 455,
+      "filename": "ONE-PAW-PER_-_2.jpg",
+      "original_filename": "ONE-PAW-PER - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/ONE-PAW-PER_-_2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/ONE-PAW-PER_-_2.jpg",
+      "upload_date": "2025-10-24T14:09:18.877408",
+      "file_size": 300865,
+      "tags": [],
+      "collection_id": 103,
+      "collection_name": "ONE-PAW-PER",
+      "image_position": 2,
+      "is_main": false
+    }
+  ]
+}
