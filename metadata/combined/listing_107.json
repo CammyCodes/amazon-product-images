@@ -1,0 +1,64 @@
+{
+  "listing_id": 107,
+  "listing_name": "QUA-CHR Have a Quacking Christmas Jumper",
+  "count": 4,
+  "enabled": false,
+  "images": [
+    {
+      "id": 469,
+      "filename": "QUA-CHR_Have_a_Quacking_Christmas_Jumper_-_Main-2.jpg",
+      "original_filename": "QUA-CHR Have a Quacking Christmas Jumper - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/QUA-CHR_Have_a_Quacking_Christmas_Jumper_-_Main-2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/QUA-CHR_Have_a_Quacking_Christmas_Jumper_-_Main-2.jpg",
+      "upload_date": "2025-10-24T14:37:00.761604",
+      "file_size": 236036,
+      "tags": [],
+      "collection_id": 107,
+      "collection_name": "QUA-CHR Have a Quacking Christmas Jumper",
+      "image_position": 1,
+      "is_main": true
+    },
+    {
+      "id": 471,
+      "filename": "QUA-CHR_Have_a_Quacking_Christmas_Jumper_-_Main-4.jpg",
+      "original_filename": "QUA-CHR Have a Quacking Christmas Jumper - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/QUA-CHR_Have_a_Quacking_Christmas_Jumper_-_Main-4.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/QUA-CHR_Have_a_Quacking_Christmas_Jumper_-_Main-4.jpg",
+      "upload_date": "2025-10-24T14:37:04.463878",
+      "file_size": 260733,
+      "tags": [],
+      "collection_id": 107,
+      "collection_name": "QUA-CHR Have a Quacking Christmas Jumper",
+      "image_position": 1,
+      "is_main": false
+    },
+    {
+      "id": 470,
+      "filename": "QUA-CHR_Have_a_Quacking_Christmas_Jumper_-_Main-3.jpg",
+      "original_filename": "QUA-CHR Have a Quacking Christmas Jumper - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/QUA-CHR_Have_a_Quacking_Christmas_Jumper_-_Main-3.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/QUA-CHR_Have_a_Quacking_Christmas_Jumper_-_Main-3.jpg",
+      "upload_date": "2025-10-24T14:37:02.559912",
+      "file_size": 252152,
+      "tags": [],
+      "collection_id": 107,
+      "collection_name": "QUA-CHR Have a Quacking Christmas Jumper",
+      "image_position": 1,
+      "is_main": false
+    },
+    {
+      "id": 472,
+      "filename": "QUA-CHR_Have_a_Quacking_Christmas_Jumper_-_2-2.jpg",
+      "original_filename": "QUA-CHR Have a Quacking Christmas Jumper - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/QUA-CHR_Have_a_Quacking_Christmas_Jumper_-_2-2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/QUA-CHR_Have_a_Quacking_Christmas_Jumper_-_2-2.jpg",
+      "upload_date": "2025-10-24T14:37:05.275545",
+      "file_size": 270344,
+      "tags": [],
+      "collection_id": 107,
+      "collection_name": "QUA-CHR Have a Quacking Christmas Jumper",
+      "image_position": 2,
+      "is_main": false
+    }
+  ]
+}
