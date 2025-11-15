@@ -1,0 +1,94 @@
+{
+  "listing_id": 111,
+  "listing_name": "TAR-BON Tartan Bone",
+  "count": 4,
+  "images": [
+    {
+      "id": 485,
+      "filename": "TAR-BON_Tartan_Bone_-_Main.jpg",
+      "original_filename": "TAR-BON Tartan Bone - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/TAR-BON_Tartan_Bone_-_Main.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/TAR-BON_Tartan_Bone_-_Main.jpg",
+      "upload_date": "2025-10-24T15:14:01.228729",
+      "file_size": 242408,
+      "tags": [],
+      "collection_id": 111,
+      "collection_name": "TAR-BON Tartan Bone",
+      "image_position": 1,
+      "is_main": true
+    },
+    {
+      "id": 486,
+      "filename": "TAR-BON_Tartan_Bone_-_Main-1.jpg",
+      "original_filename": "TAR-BON Tartan Bone - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/TAR-BON_Tartan_Bone_-_Main-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/TAR-BON_Tartan_Bone_-_Main-1.jpg",
+      "upload_date": "2025-10-24T15:14:03.211230",
+      "file_size": 391833,
+      "tags": [],
+      "collection_id": 111,
+      "collection_name": "TAR-BON Tartan Bone",
+      "image_position": 1,
+      "is_main": false
+    },
+    {
+      "id": 488,
+      "filename": "TAR-BON_Tartan_Bone_-_2-1.jpg",
+      "original_filename": "TAR-BON Tartan Bone - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/TAR-BON_Tartan_Bone_-_2-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/TAR-BON_Tartan_Bone_-_2-1.jpg",
+      "upload_date": "2025-10-24T15:14:05.711556",
+      "file_size": 395388,
+      "tags": [],
+      "collection_id": 111,
+      "collection_name": "TAR-BON Tartan Bone",
+      "image_position": 2,
+      "is_main": false
+    },
+    {
+      "id": 487,
+      "filename": "TAR-BON_Tartan_Bone_-_2.jpg",
+      "original_filename": "TAR-BON Tartan Bone - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/TAR-BON_Tartan_Bone_-_2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/TAR-BON_Tartan_Bone_-_2.jpg",
+      "upload_date": "2025-10-24T15:14:03.936314",
+      "file_size": 395690,
+      "tags": [],
+      "collection_id": 111,
+      "collection_name": "TAR-BON Tartan Bone",
+      "image_position": 2,
+      "is_main": false
+    }
+  ],
+  "draft": {
+    "collection_id": 111,
+    "title": "SMARTYPANTS Personalised Dog Santa Sack - Custom Name Pet Christmas Gift Bag For Treats And Presents - Tartan Bone Design For Furry Friends - Small Reusable Holiday Sack For Your Puppy",
+    "description": "Make your furry friend the star of Christmas morning with a SMARTYPANTS <b>Personalised Dog Santa Sack</b>! There's no better way to include your beloved pet in the festive celebrations than with a sack filled with their very own presents and treats, all customised with their name. This isn't just a gift bag; it's a cherished keepsake that builds lasting holiday traditions.<br><br>Crafted from <b>durable and eco-friendly hessian fabric</b>, this sack is designed to last for many Christmases to come. The spacious interior is perfect for stuffing with toys, chews, and goodies, while the secure drawstring closure keeps inquisitive noses out until the big day. The <b>vibrant, fade-resistant print</b> featuring a festive tartan bone ensures it looks wonderful year after year, becoming a beautiful piece of your holiday decor under the tree.",
+    "keywords": "xmas sackful bagful parcel wrapping paper alternative hessian jute burlap canvas drawstring pouch holder container dogs pooch canine family animal lover owner mum dad kids children boy girl secret santa filler idea eve morning decoration decor ornament paw-liday plaid check pattern red green traditional cute charming special unique bespoke customised storage eco-friendly sustainable toys chews goodies accessories apparel personaliseddog customdog petgift doggift",
+    "bullets": [
+      "Perfect For Pets \u2013 Celebrate a 'Furry Christmas' with this charming tartan bone sack personalised with your dog's name- the ultimate festive treat for your beloved four-legged family member.",
+      "Premium Hessian Fabric \u2013 Crafted from high-quality durable hessian fabric this large sack features a secure drawstring closure to keep all your pet's Christmas presents and treats safely inside.",
+      "Reusable Festive Fun \u2013 An eco-friendly alternative to wrapping paper this spacious and sturdy sack can be used year after year creating a wonderful and sustainable holiday tradition for your pet.",
+      "Vibrant Custom Print \u2013 Our state-of-the-art printing process ensures the festive tartan design and your pet's custom name are displayed in vibrant fade-resistant colours for years to come.",
+      "Versatile Holiday Decor \u2013 Not just for gifts this beautiful sack doubles as charming Christmas decoration under the tree or a festive storage solution for your dog's toys throughout the season."
+    ],
+    "parent_sku": "TAR-BON-PER-PARENT",
+    "platform": "smartypants",
+    "handle_colors": [
+      "white"
+    ],
+    "variations": [
+      {
+        "ean": "5063040256856",
+        "title": "Christmas Tartan Dog Bone Personalised Pet Name NATURAL SANTA SACK - SMALL",
+        "sku": "TAR-BON-PER-SAN-NAT-S",
+        "price": "",
+        "color": "Natural",
+        "size": "s",
+        "lineNumber": 1
+      }
+    ],
+    "bulk_input": "5063040256856\tChristmas Tartan Dog Bone Personalised Pet Name NATURAL SANTA SACK - SMALL\t\tTAR-BON-PER-SAN-NAT-S",
+    "saved_at": "2025-10-24T15:18:26.318Z"
+  }
+}
