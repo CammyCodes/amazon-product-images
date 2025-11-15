@@ -1,0 +1,157 @@
+{
+  "listing_id": 71,
+  "listing_name": "MRY-BRT Merry and Bright - Black",
+  "count": 4,
+  "images": [
+    {
+      "id": 327,
+      "filename": "MRY-BRT_Merry_and_Bright_-_Main-1.jpg",
+      "original_filename": "MRY-BRT Merry and Bright - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/MRY-BRT_Merry_and_Bright_-_Main-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/MRY-BRT_Merry_and_Bright_-_Main-1.jpg",
+      "upload_date": "2025-10-21T11:20:03.904680",
+      "file_size": 149513,
+      "tags": [],
+      "collection_id": 71,
+      "collection_name": "MRY-BRT Merry and Bright - Black",
+      "image_position": 1,
+      "is_main": true
+    },
+    {
+      "id": 328,
+      "filename": "MRY-BRT_Merry_and_Bright_-_Main-2.jpg",
+      "original_filename": "MRY-BRT Merry and Bright - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/MRY-BRT_Merry_and_Bright_-_Main-2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/MRY-BRT_Merry_and_Bright_-_Main-2.jpg",
+      "upload_date": "2025-10-21T11:20:05.564256",
+      "file_size": 230815,
+      "tags": [],
+      "collection_id": 71,
+      "collection_name": "MRY-BRT Merry and Bright - Black",
+      "image_position": 1,
+      "is_main": false
+    },
+    {
+      "id": 326,
+      "filename": "MRY-BRT_Merry_and_Bright_-_Main.jpg",
+      "original_filename": "MRY-BRT Merry and Bright - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/MRY-BRT_Merry_and_Bright_-_Main.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/MRY-BRT_Merry_and_Bright_-_Main.jpg",
+      "upload_date": "2025-10-21T11:20:02.561345",
+      "file_size": 211212,
+      "tags": [],
+      "collection_id": 71,
+      "collection_name": "MRY-BRT Merry and Bright - Black",
+      "image_position": 1,
+      "is_main": false
+    },
+    {
+      "id": 329,
+      "filename": "MRY-BRT_Merry_and_Bright_-_2-1.jpg",
+      "original_filename": "MRY-BRT Merry and Bright - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/MRY-BRT_Merry_and_Bright_-_2-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/MRY-BRT_Merry_and_Bright_-_2-1.jpg",
+      "upload_date": "2025-10-21T11:20:06.986198",
+      "file_size": 244047,
+      "tags": [],
+      "collection_id": 71,
+      "collection_name": "MRY-BRT Merry and Bright - Black",
+      "image_position": 2,
+      "is_main": false
+    }
+  ],
+  "draft": {
+    "collection_id": 71,
+    "title": "SMARTYPANTS Merry And Bright Sweatshirt - Festive Christmas Jumper Top For Men Women | Neon Colours Retro Holiday Pullover | Funny Novelty Slogan Xmas Gift Idea For Adults | Warm Winter Apparel",
+    "description": "Embrace the festive season with a splash of colour! Our <b>Merry and Bright Sweatshirt</b> offers a modern twist on the classic Christmas jumper. Featuring a vibrant, retro-inspired neon design on a classic black base, it's the perfect way to show your holiday spirit without the itch of traditional woolly knits.<br><br>Made from a <b>premium soft cotton blend</b>, this pullover is designed for all-day comfort, whether you're at a Christmas market, the office party, or relaxing at home. The durable, high-quality print ensures the design stays bright and cheerful year after year. It's the <b>perfect festive gift</b> for friends, family, or even as a treat for yourself!",
+    "keywords": "sweater garment clothes long sleeve crewneck fleece black man woman him her mum dad mother father brother sister son daughter colleague friend boyfriend girlfriend husband wife unisex present birthday secret santa stocking filler work party office celebration december yuletide season greetings colourful vibrant 80s 90s style graphic text quote saying humorous joke cool modern trendy casual wear loungewear comfort cosy clothing cotton blend",
+    "bullets": [
+      "Modern Festive Design \u2013 Stand out from the crowd with this vibrant 'Merry And Bright' slogan in a cool retro neon style, making it the perfect Christmas jumper gift for friends and family.",
+      "Premium Cosy Fabric \u2013 Crafted from a superior soft cotton blend, this sweatshirt offers a cosy fleece interior for ultimate warmth and comfort throughout the chilly festive season.",
+      "Everyday Practical Wear \u2013 Designed for durability and convenience, this top is fully machine washable and versatile enough for Christmas parties, casual outings, or simply lounging at home.",
+      "Vibrant Lasting Print \u2013 Our high-quality printing process ensures the neon colours remain sharp and vivid, resisting fading wash after wash so you can wear it for many Christmases to come.",
+      "Perfect Gifting Choice \u2013 An ideal choice for Secret Santa or a stocking filler, this jumper is a fantastic alternative to traditional designs and great for Christmas Jumper Day at the office."
+    ],
+    "parent_sku": "MYR-BRT-PARENT",
+    "platform": "smartypants",
+    "handle_colors": [
+      "white"
+    ],
+    "variations": [
+      {
+        "color": "Black",
+        "ean": "5063040266220",
+        "lineNumber": 1,
+        "price": "",
+        "size": "S",
+        "sku": "MRY-BRT-JUM-BLK-S-C2400",
+        "title": "Merry And Bright Neon Lights Abstract BLACK JUMPER - S"
+      },
+      {
+        "color": "Black",
+        "ean": "5063040266237",
+        "lineNumber": 2,
+        "price": "",
+        "size": "M",
+        "sku": "MRY-BRT-JUM-BLK-M-C2400",
+        "title": "Merry And Bright Neon Lights Abstract BLACK JUMPER - M"
+      },
+      {
+        "color": "Black",
+        "ean": "5063040266244",
+        "lineNumber": 3,
+        "price": "",
+        "size": "L",
+        "sku": "MRY-BRT-JUM-BLK-L-C2400",
+        "title": "Merry And Bright Neon Lights Abstract BLACK JUMPER - L"
+      },
+      {
+        "color": "Black",
+        "ean": "5063040266251",
+        "lineNumber": 4,
+        "price": "",
+        "size": "XL",
+        "sku": "MRY-BRT-JUM-BLK-XL-C2400",
+        "title": "Merry And Bright Neon Lights Abstract BLACK JUMPER - XL"
+      },
+      {
+        "color": "Black",
+        "ean": "5063040266268",
+        "lineNumber": 5,
+        "price": "",
+        "size": "2XL",
+        "sku": "MRY-BRT-JUM-BLK-2XL-C2400",
+        "title": "Merry And Bright Neon Lights Abstract BLACK JUMPER - 2XL"
+      },
+      {
+        "color": "Black",
+        "ean": "5063040266275",
+        "lineNumber": 6,
+        "price": "",
+        "size": "3XL",
+        "sku": "MRY-BRT-JUM-BLK-3XL-C2400",
+        "title": "Merry And Bright Neon Lights Abstract BLACK JUMPER - 3XL"
+      },
+      {
+        "color": "Black",
+        "ean": "5063040266282",
+        "lineNumber": 7,
+        "price": "",
+        "size": "4XL",
+        "sku": "MRY-BRT-JUM-BLK-4XL-C2400",
+        "title": "Merry And Bright Neon Lights Abstract BLACK JUMPER - 4XL"
+      },
+      {
+        "color": "Black",
+        "ean": "5063040266299",
+        "lineNumber": 8,
+        "price": "",
+        "size": "5XL",
+        "sku": "MRY-BRT-JUM-BLK-5XL-C2400",
+        "title": "Merry And Bright Neon Lights Abstract BLACK JUMPER - 5XL"
+      }
+    ],
+    "bulk_input": "5063040266220\tMerry And Bright Neon Lights Abstract BLACK JUMPER - S\t\tMRY-BRT-JUM-BLK-S-C2400\n5063040266237\tMerry And Bright Neon Lights Abstract BLACK JUMPER - M\t\tMRY-BRT-JUM-BLK-M-C2400\n5063040266244\tMerry And Bright Neon Lights Abstract BLACK JUMPER - L\t\tMRY-BRT-JUM-BLK-L-C2400\n5063040266251\tMerry And Bright Neon Lights Abstract BLACK JUMPER - XL\t\tMRY-BRT-JUM-BLK-XL-C2400\n5063040266268\tMerry And Bright Neon Lights Abstract BLACK JUMPER - 2XL\t\tMRY-BRT-JUM-BLK-2XL-C2400\n5063040266275\tMerry And Bright Neon Lights Abstract BLACK JUMPER - 3XL\t\tMRY-BRT-JUM-BLK-3XL-C2400\n5063040266282\tMerry And Bright Neon Lights Abstract BLACK JUMPER - 4XL\t\tMRY-BRT-JUM-BLK-4XL-C2400\n5063040266299\tMerry And Bright Neon Lights Abstract BLACK JUMPER - 5XL\t\tMRY-BRT-JUM-BLK-5XL-C2400",
+    "saved_at": "2025-10-21T11:24:31.914Z"
+  }
+}
