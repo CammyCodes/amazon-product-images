@@ -1,6 +1,6 @@
 {
   "listing_id": 20,
-  "listing_name": "Life of a Showgirl",
+  "listing_name": "LSG-PNK Life of a Showgirl",
   "count": 7,
   "images": [
     {
@@ -13,7 +13,7 @@
       "file_size": 120386,
       "tags": [],
       "collection_id": 20,
-      "collection_name": "Life of a Showgirl",
+      "collection_name": "LSG-PNK Life of a Showgirl",
       "image_position": 1,
       "is_main": true
     },
@@ -27,7 +27,7 @@
       "file_size": 158726,
       "tags": [],
       "collection_id": 20,
-      "collection_name": "Life of a Showgirl",
+      "collection_name": "LSG-PNK Life of a Showgirl",
       "image_position": 2,
       "is_main": false
     },
@@ -41,7 +41,7 @@
       "file_size": 156026,
       "tags": [],
       "collection_id": 20,
-      "collection_name": "Life of a Showgirl",
+      "collection_name": "LSG-PNK Life of a Showgirl",
       "image_position": 2,
       "is_main": false
     },
@@ -55,7 +55,7 @@
       "file_size": 205706,
       "tags": [],
       "collection_id": 20,
-      "collection_name": "Life of a Showgirl",
+      "collection_name": "LSG-PNK Life of a Showgirl",
       "image_position": 3,
       "is_main": false
     },
@@ -69,7 +69,7 @@
       "file_size": 228152,
       "tags": [],
       "collection_id": 20,
-      "collection_name": "Life of a Showgirl",
+      "collection_name": "LSG-PNK Life of a Showgirl",
       "image_position": 3,
       "is_main": false
     },
@@ -83,7 +83,7 @@
       "file_size": 211885,
       "tags": [],
       "collection_id": 20,
-      "collection_name": "Life of a Showgirl",
+      "collection_name": "LSG-PNK Life of a Showgirl",
       "image_position": 4,
       "is_main": false
     },
@@ -97,24 +97,24 @@
       "file_size": 206253,
       "tags": [],
       "collection_id": 20,
-      "collection_name": "Life of a Showgirl",
+      "collection_name": "LSG-PNK Life of a Showgirl",
       "image_position": 5,
       "is_main": false
     }
   ],
   "draft": {
     "collection_id": 20,
-    "title": "Willow Gifts Premium Showgirl Era Glam Coffee Mug, 11oz Two-Tone Ceramic Cup with Black Handle Ceramic Mug - Perfect Gift for Coffee Tea Lovers Daily Use Kitchen Home Office Novelty Present",
-    "description": "Transform your daily coffee or tea ritual with this thoughtfully designed ceramic mug that combines quality craftsmanship with distinctive style. Whether you're enjoying your morning brew at home, taking a well-deserved break at the office, or relaxing with friends at a caf\u00e9, this mug delivers both functionality and personality. The premium ceramic construction ensures optimal heat retention whilst the ergonomic design provides comfortable handling for extended use.",
-    "keywords": "ceramic mug coffee tea cup gift present birthday christmas novelty funny kitchen drinkware home office cafe workplace morning breakfast beverage hot drinks quality premium durable microwave dishwasher safe white design printed personalised unique special occasion daily use comfort ergonomic handle heat retention",
+    "title": "Willow Gifts Vintage Showgirl Mug - Art Deco Style Pink Coffee Cup For Women - Fun Retro Music Fan Drinkware - Perfect Birthday Or Christmas Present For Her - 11oz Ceramic Tea Novelty Gift",
+    "description": "Step into the spotlight with our 'Life of a Showgirl' mug! This stunning piece features a <b>bold Art Deco design</b> in vibrant pink and black, capturing a vintage theatrical spirit. It's the perfect way to celebrate your favourite music eras and add a dash of glamour to your morning routine.<br><br>Made from <b>premium quality ceramic</b> with a contrasting black handle and rim, this 11oz mug is as durable as it is stylish. It\u2019s both <b>dishwasher and microwave safe</b>, making it a practical choice for everyday use. Whether you're buying for yourself or looking for the <b>perfect gift for a fellow fan</b>, this mug is sure to delight.",
+    "keywords": "swiftie eras tour tortured poets department album singer songwriter lyrics lover reputation folklore evermore midnights friendship bracelet teacup beverage hot drinks morning breakfast kitchen home office workplace desk accessory mum sister daughter friend colleague boss girlfriend wife student teenager secret santa stocking filler leaving work mothers day valentines day anniversary congratulations thank you theatre musical burlesque dancer performer glamourous twenties 20s gatsby",
     "bullets": [
-      "Perfect gift for coffee and tea enthusiasts who appreciate quality drinkware and unique designs for birthdays, Christmas, or any special occasion.",
-      "Premium ceramic construction with 11oz capacity, featuring durable glazed finish that maintains its appearance through countless washes and daily use.",
-      "Completely dishwasher and microwave safe for ultimate convenience, allowing easy cleaning and reheating without compromising the design integrity.",
-      "Professional sublimation printing technology ensures vibrant, fade-resistant colours that won't peel, crack, or deteriorate over time with regular use.",
-      "Arrives in protective smash-proof packaging, making it ready for gifting and perfect for home, office, caf\u00e9, or workplace use by anyone."
+      "Chic Retro Design \u2013 Embrace vintage glamour with this Art Deco inspired 'Life of a Showgirl' design- a perfect gift for music lovers and fans of iconic pop eras and tours.",
+      "Premium Ceramic Quality \u2013 Crafted from high-grade ceramic this durable 11oz mug features a stylish black rim and handle providing a comfortable and sturdy feel for every sip.",
+      "Effortless Daily Use \u2013 Designed for your convenience this cup is completely dishwasher and microwave safe making it the ideal choice for your daily tea coffee or hot chocolate.",
+      "Vibrant Lasting Print \u2013 Our expert printing process ensures the pink and black Art Deco graphics remain sharp and vibrant wash after wash promising a design that will not fade.",
+      "Versatile Gift Idea \u2013 Arriving securely packaged this mug is ready for gifting and is perfect for adding a touch of personality to any home office desk or kitchen setting."
     ],
-    "parent_sku": "LSG-TAY-MUG-BLK-SUB1968",
+    "parent_sku": "LSG-PNK-PARENT",
     "platform": "willow",
     "handle_colors": [
       "white"
@@ -130,6 +130,6 @@
       }
     ],
     "bulk_input": "5056634372568\t\tLife Of A Showgirl Vintage Show Sign Popstar Signer Classic Colours Design BLACK MUG\t\tLSG-TAY-MUG-BLK-SUB1968",
-    "saved_at": "2025-10-15T14:22:32.803Z"
+    "saved_at": "2025-10-20T13:01:04.492Z"
   }
 }
