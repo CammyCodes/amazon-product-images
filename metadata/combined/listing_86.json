@@ -1,0 +1,143 @@
+{
+  "listing_id": 86,
+  "listing_name": "FRA-HOM Frankenstein Homer - T-shirt Black",
+  "count": 3,
+  "images": [
+    {
+      "id": 384,
+      "filename": "FRA-HOM_Frankenstein_Homer_-_T-shirt_Black_-_Main.jpg",
+      "original_filename": "FRA-HOM Frankenstein Homer - T-shirt Black - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/FRA-HOM_Frankenstein_Homer_-_T-shirt_Black_-_Main.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/FRA-HOM_Frankenstein_Homer_-_T-shirt_Black_-_Main.jpg",
+      "upload_date": "2025-10-21T13:05:35.701490",
+      "file_size": 154942,
+      "tags": [],
+      "collection_id": 86,
+      "collection_name": "FRA-HOM Frankenstein Homer - T-shirt Black",
+      "image_position": 1,
+      "is_main": true
+    },
+    {
+      "id": 385,
+      "filename": "FRA-HOM_Frankenstein_Homer_-_T-shirt_Black_-_Main-1.jpg",
+      "original_filename": "FRA-HOM Frankenstein Homer - T-shirt Black - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/FRA-HOM_Frankenstein_Homer_-_T-shirt_Black_-_Main-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/FRA-HOM_Frankenstein_Homer_-_T-shirt_Black_-_Main-1.jpg",
+      "upload_date": "2025-10-21T13:05:37.420057",
+      "file_size": 176004,
+      "tags": [],
+      "collection_id": 86,
+      "collection_name": "FRA-HOM Frankenstein Homer - T-shirt Black",
+      "image_position": 1,
+      "is_main": false
+    },
+    {
+      "id": 386,
+      "filename": "FRA-HOM_Frankenstein_Homer_-_T-shirt_Black_-_2.jpg",
+      "original_filename": "FRA-HOM Frankenstein Homer - T-shirt Black - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/FRA-HOM_Frankenstein_Homer_-_T-shirt_Black_-_2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/FRA-HOM_Frankenstein_Homer_-_T-shirt_Black_-_2.jpg",
+      "upload_date": "2025-10-21T13:05:38.359044",
+      "file_size": 272181,
+      "tags": [],
+      "collection_id": 86,
+      "collection_name": "FRA-HOM Frankenstein Homer - T-shirt Black",
+      "image_position": 2,
+      "is_main": false
+    }
+  ],
+  "draft": {
+    "collection_id": 86,
+    "title": "Willow Gifts Funny Monster T-Shirt for Men - Humorous Slogan Couch Potato Graphic Tee Halloween Costume Top Pop Culture Parody Birthday Present for Him Dad Brother Friend",
+    "description": "Embrace your inner monster of relaxation with this hilarious graphic tee! Featuring a clever parody of a beloved cartoon character reimagined as a classic horror icon, this t-shirt is a must-have for anyone who believes their best work is done on the couch. The witty slogan, <b>'Created in a lab, Perfected on the Couch'</b>, is printed in a spooky, eye-catching font, making it a fantastic conversation starter.<br><br>Made from high-quality, soft cotton, this top offers both superior comfort and lasting durability. It's the perfect choice for casual outings, lazy weekends, or even as a simple and funny Halloween costume. Whether you're buying for yourself or looking for the <b>perfect novelty gift</b> for a friend, brother, or partner, this t-shirt is sure to bring a smile and become a wardrobe favourite.",
+    "keywords": "tee-shirt apparel garment clothing novelty joke sarcastic lazy loungewear man male husband boyfriend son colleague boss student gamer geek nerd christmas xmas secret santa stocking filler fathers day leaving work idea presents ideas frankenstein horror movie film tv show cartoon animation yellow character created lab perfected sofa relax chilling television watcher binge watching retro vintage classic mashup spooky scary blood drip quality premium soft cotton comfortable breathable",
+    "bullets": [
+      "Hilarious Graphic Tee \u2013 A perfect gift for fans of classic cartoons and horror movies- this funny monster design is ideal for birthdays- Halloween- or just celebrating a love for the sofa.",
+      "Premium Cotton Fabric \u2013 Expertly crafted from 100% soft-spun cotton for a breathable and comfortable fit that feels great against the skin and holds its shape wash after wash.",
+      "Durable Everyday Wear \u2013 Featuring a classic crew neck and robust twin-needle stitching- this t-shirt is built for daily comfort- whether you're lounging at home or out with friends.",
+      "Vibrant Lasting Print \u2013 We use advanced printing technology to ensure the 'Created in a lab' design has vivid colours and a crack-resistant finish that will not fade over time.",
+      "Ideal Gift For Him \u2013 A fantastic present for a dad- brother- husband- or friend- this top is a great choice for Secret Santa- a stocking filler- or a unique novelty surprise."
+    ],
+    "parent_sku": "FRA-HOM-PARENT",
+    "platform": "willow",
+    "handle_colors": [
+      "white"
+    ],
+    "variations": [
+      {
+        "color": "Black",
+        "ean": "5063040258591",
+        "lineNumber": 1,
+        "price": "",
+        "size": "S",
+        "sku": "FRA-HOM-TSH-BLK-S-SS030",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid BLACK T-SHIRT - S"
+      },
+      {
+        "color": "Black",
+        "ean": "5063040258607",
+        "lineNumber": 2,
+        "price": "",
+        "size": "M",
+        "sku": "FRA-HOM-TSH-BLK-M",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid BLACK T-SHIRT - M"
+      },
+      {
+        "color": "Black",
+        "ean": "5063040258614",
+        "lineNumber": 3,
+        "price": "",
+        "size": "L",
+        "sku": "FRA-HOM-TSH-BLK-L",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid BLACK T-SHIRT - L"
+      },
+      {
+        "color": "Black",
+        "ean": "5063040258621",
+        "lineNumber": 4,
+        "price": "",
+        "size": "XL",
+        "sku": "FRA-HOM-TSH-BLK-XL",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid BLACK T-SHIRT - XL"
+      },
+      {
+        "color": "Black",
+        "ean": "5063040258638",
+        "lineNumber": 5,
+        "price": "",
+        "size": "2XL",
+        "sku": "FRA-HOM-TSH-BLK-2XL",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid BLACK T-SHIRT - 2XL"
+      },
+      {
+        "color": "Black",
+        "ean": "5063040258645",
+        "lineNumber": 6,
+        "price": "",
+        "size": "3XL",
+        "sku": "FRA-HOM-TSH-BLK-3XL",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid BLACK T-SHIRT - 3XL"
+      },
+      {
+        "color": "Black",
+        "ean": "5063040258652",
+        "lineNumber": 7,
+        "price": "",
+        "size": "4XL",
+        "sku": "FRA-HOM-TSH-BLK-4XL",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid BLACK T-SHIRT - 4XL"
+      },
+      {
+        "color": "Black",
+        "ean": "5063040258669",
+        "lineNumber": 8,
+        "price": "",
+        "size": "5XL",
+        "sku": "FRA-HOM-TSH-BLK-5XL",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid BLACK T-SHIRT - 5XL"
+      }
+    ],
+    "bulk_input": "5063040258591\tStitched-up, Dopey Monster-dad Hybrid BLACK T-SHIRT - S\t\tFRA-HOM-TSH-BLK-S-SS030\n5063040258607\tStitched-up, Dopey Monster-dad Hybrid BLACK T-SHIRT - M\t\tFRA-HOM-TSH-BLK-M\n5063040258614\tStitched-up, Dopey Monster-dad Hybrid BLACK T-SHIRT - L\t\tFRA-HOM-TSH-BLK-L\n5063040258621\tStitched-up, Dopey Monster-dad Hybrid BLACK T-SHIRT - XL\t\tFRA-HOM-TSH-BLK-XL\n5063040258638\tStitched-up, Dopey Monster-dad Hybrid BLACK T-SHIRT - 2XL\t\tFRA-HOM-TSH-BLK-2XL\n5063040258645\tStitched-up, Dopey Monster-dad Hybrid BLACK T-SHIRT - 3XL\t\tFRA-HOM-TSH-BLK-3XL\n5063040258652\tStitched-up, Dopey Monster-dad Hybrid BLACK T-SHIRT - 4XL\t\tFRA-HOM-TSH-BLK-4XL\n5063040258669\tStitched-up, Dopey Monster-dad Hybrid BLACK T-SHIRT - 5XL\t\tFRA-HOM-TSH-BLK-5XL",
+    "saved_at": "2025-10-21T13:19:39.345Z"
+  }
+}
