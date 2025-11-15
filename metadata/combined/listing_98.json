@@ -1,0 +1,84 @@
+{
+  "listing_id": 98,
+  "listing_name": "TEST",
+  "count": 4,
+  "images": [
+    {
+      "id": 428,
+      "filename": "PER-SPO_Personalised_Date_spooky_family_-_Green_-_Main.jpg",
+      "original_filename": "PER-SPO Personalised Date spooky family - Green - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/PER-SPO_Personalised_Date_spooky_family_-_Green_-_Main.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/PER-SPO_Personalised_Date_spooky_family_-_Green_-_Main.jpg",
+      "upload_date": "2025-10-23T08:41:09.604016",
+      "file_size": 365072,
+      "tags": [],
+      "collection_id": 98,
+      "collection_name": "TEST",
+      "image_position": 1,
+      "is_main": true
+    },
+    {
+      "id": 429,
+      "filename": "PER-SPO_Personalised_Date_spooky_family_-_Green_-_Main-1.jpg",
+      "original_filename": "PER-SPO Personalised Date spooky family - Green - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/PER-SPO_Personalised_Date_spooky_family_-_Green_-_Main-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/PER-SPO_Personalised_Date_spooky_family_-_Green_-_Main-1.jpg",
+      "upload_date": "2025-10-23T08:41:11.266253",
+      "file_size": 350508,
+      "tags": [],
+      "collection_id": 98,
+      "collection_name": "TEST",
+      "image_position": 1,
+      "is_main": false
+    },
+    {
+      "id": 431,
+      "filename": "PER-SPO_Personalised_Date_spooky_family_-_Green_-_2-1.jpg",
+      "original_filename": "PER-SPO Personalised Date spooky family - Green - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/PER-SPO_Personalised_Date_spooky_family_-_Green_-_2-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/PER-SPO_Personalised_Date_spooky_family_-_Green_-_2-1.jpg",
+      "upload_date": "2025-10-23T08:41:14.015406",
+      "file_size": 400129,
+      "tags": [],
+      "collection_id": 98,
+      "collection_name": "TEST",
+      "image_position": 2,
+      "is_main": false
+    },
+    {
+      "id": 430,
+      "filename": "PER-SPO_Personalised_Date_spooky_family_-_Green_-_2.jpg",
+      "original_filename": "PER-SPO Personalised Date spooky family - Green - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/PER-SPO_Personalised_Date_spooky_family_-_Green_-_2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/PER-SPO_Personalised_Date_spooky_family_-_Green_-_2.jpg",
+      "upload_date": "2025-10-23T08:41:12.246015",
+      "file_size": 367012,
+      "tags": [],
+      "collection_id": 98,
+      "collection_name": "TEST",
+      "image_position": 2,
+      "is_main": false
+    }
+  ],
+  "draft": {
+    "collection_id": 98,
+    "title": "SMARTYPANTS Premium Design Sweatshirt - Comfortable Cotton Blend Perfect Gift for Fashion Lovers Casual Wear Daily Style Clothing Apparel",
+    "description": "Elevate your casual wardrobe with this thoughtfully designed sweatshirt that combines comfort with distinctive style. Whether you're layering for different seasons, relaxing at home, or creating effortless casual looks, this sweatshirt delivers both comfort and personality. The premium cotton blend ensures breathability whilst the quality fit provides all-day comfort.",
+    "keywords": "sweatshirt pullover clothing apparel casual wear gift present birthday fashion style comfortable unisex adult cotton blend machine washable fade resistant printed design unique special occasion daily wear soft versatile layering",
+    "bullets": [
+      "Perfect gift for comfort enthusiasts who appreciate versatile, stylish clothing and unique designs for birthdays, celebrations, or any special occasion.",
+      "Premium cotton blend construction with soft interior, featuring quality stitching that maintains its shape through countless washes and regular wear.",
+      "Machine washable for ultimate convenience with fade-resistant printing that maintains vibrant colours and design integrity over time with regular use.",
+      "Professional printing technology ensures crisp, long-lasting graphics that won't crack, peel, or deteriorate even after extended washing cycles.",
+      "Available in multiple sizes with comfortable unisex fit, perfect for layering, casual wear, gifts, or everyday comfort and versatile styling."
+    ],
+    "parent_sku": "PER-SPO-PARENT",
+    "platform": "smartypants",
+    "handle_colors": [
+      "white"
+    ],
+    "variations": [],
+    "bulk_input": "",
+    "saved_at": "2025-10-23T08:41:40.354Z"
+  }
+}
