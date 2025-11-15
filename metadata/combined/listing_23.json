@@ -1,7 +1,7 @@
 {
   "listing_id": 23,
-  "listing_name": "Three Ghosts and Plants",
-  "count": 6,
+  "listing_name": "THR-GHO Three Ghosts and Plants - Classic Olive",
+  "count": 3,
   "images": [
     {
       "id": 141,
@@ -13,37 +13,9 @@
       "file_size": 160535,
       "tags": [],
       "collection_id": 23,
-      "collection_name": "Three Ghosts and Plants",
+      "collection_name": "THR-GHO Three Ghosts and Plants - Classic Olive",
       "image_position": 4,
       "is_main": true
-    },
-    {
-      "id": 136,
-      "filename": "Three_Ghosts_and_Plants_-_Main.jpg",
-      "original_filename": "Three Ghosts and Plants - Main",
-      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Three_Ghosts_and_Plants_-_Main.jpg",
-      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/Three_Ghosts_and_Plants_-_Main.jpg",
-      "upload_date": "2025-10-16T14:19:00.230622",
-      "file_size": 137653,
-      "tags": [],
-      "collection_id": 23,
-      "collection_name": "Three Ghosts and Plants",
-      "image_position": 1,
-      "is_main": false
-    },
-    {
-      "id": 138,
-      "filename": "Three_Ghosts_and_Plants_-_2-1.jpg",
-      "original_filename": "Three Ghosts and Plants - 2",
-      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Three_Ghosts_and_Plants_-_2-1.jpg",
-      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/Three_Ghosts_and_Plants_-_2-1.jpg",
-      "upload_date": "2025-10-16T14:19:03.982714",
-      "file_size": 293566,
-      "tags": [],
-      "collection_id": 23,
-      "collection_name": "Three Ghosts and Plants",
-      "image_position": 2,
-      "is_main": false
     },
     {
       "id": 137,
@@ -55,22 +27,8 @@
       "file_size": 171766,
       "tags": [],
       "collection_id": 23,
-      "collection_name": "Three Ghosts and Plants",
+      "collection_name": "THR-GHO Three Ghosts and Plants - Classic Olive",
       "image_position": 2,
-      "is_main": false
-    },
-    {
-      "id": 139,
-      "filename": "Three_Ghosts_and_Plants_-_3.jpg",
-      "original_filename": "Three Ghosts and Plants - 3",
-      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Three_Ghosts_and_Plants_-_3.jpg",
-      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/Three_Ghosts_and_Plants_-_3.jpg",
-      "upload_date": "2025-10-16T14:19:05.551225",
-      "file_size": 242595,
-      "tags": [],
-      "collection_id": 23,
-      "collection_name": "Three Ghosts and Plants",
-      "image_position": 3,
       "is_main": false
     },
     {
@@ -83,7 +41,7 @@
       "file_size": 191698,
       "tags": [],
       "collection_id": 23,
-      "collection_name": "Three Ghosts and Plants",
+      "collection_name": "THR-GHO Three Ghosts and Plants - Classic Olive",
       "image_position": 4,
       "is_main": false
     }
@@ -100,174 +58,86 @@
       "Vibrant Graphic Print \u2013 Utilising advanced printing technology- the quirky ghost design boasts sharp details and vivid colours that are highly resistant to fading after washing.",
       "Versatile Wardrobe Staple \u2013 Ideal for casual outings- Halloween parties or simply lounging at home- this unique tee arrives ready to gift and adds a touch of fun to any outfit."
     ],
-    "parent_sku": "THR-GHO-TSH-PARENT",
+    "parent_sku": "THR-GHO-PARENT",
     "platform": "smartypants",
     "handle_colors": [
       "white"
     ],
     "variations": [
       {
-        "ean": "5063040261799",
-        "title": "Three Cute Ghosts Plants NATURAL T-SHIRT - S",
-        "sku": "THR-GHO-TSH-NAT-S-SS030",
-        "color": "Unknown",
-        "size": "S",
-        "lineNumber": 1
-      },
-      {
-        "ean": "5063040261805",
-        "title": "Three Cute Ghosts Plants NATURAL T-SHIRT - M",
-        "sku": "THR-GHO-TSH-NAT-M",
-        "color": "Unknown",
-        "size": "M",
-        "lineNumber": 2
-      },
-      {
-        "ean": "5063040261812",
-        "title": "Three Cute Ghosts Plants NATURAL T-SHIRT - L",
-        "sku": "THR-GHO-TSH-NAT-L",
-        "color": "Unknown",
-        "size": "L",
-        "lineNumber": 3
-      },
-      {
-        "ean": "5063040261829",
-        "title": "Three Cute Ghosts Plants NATURAL T-SHIRT - XL",
-        "sku": "THR-GHO-TSH-NAT-XL",
-        "color": "Unknown",
-        "size": "XL",
-        "lineNumber": 4
-      },
-      {
-        "ean": "5063040261836",
-        "title": "Three Cute Ghosts Plants NATURAL T-SHIRT - 2XL",
-        "sku": "THR-GHO-TSH-NAT-2XL",
-        "color": "Unknown",
-        "size": "2XL",
-        "lineNumber": 5
-      },
-      {
-        "ean": "5063040261843",
-        "title": "Three Cute Ghosts Plants NATURAL T-SHIRT - 3XL",
-        "sku": "THR-GHO-TSH-NAT-3XL",
-        "color": "Unknown",
-        "size": "3XL",
-        "lineNumber": 6
-      },
-      {
-        "ean": "5063040261850",
-        "title": "Three Cute Ghosts Plants NATURAL T-SHIRT - 4XL",
-        "sku": "THR-GHO-TSH-NAT-4XL",
-        "color": "Unknown",
-        "size": "4XL",
-        "lineNumber": 7
-      },
-      {
-        "ean": "5063040261867",
-        "title": "Three Cute Ghosts Plants NATURAL T-SHIRT - 5XL",
-        "sku": "THR-GHO-TSH-NAT-5XL",
-        "color": "Unknown",
-        "size": "5XL",
-        "lineNumber": 8
-      },
-      {
-        "ean": "5063040261874",
-        "title": "Three Cute Ghosts Plants NATURAL T-SHIRT - 5-6Y",
-        "sku": "THR-GHO-TSH-NAT-5-6Y-SS031",
-        "color": "Unknown",
-        "size": "5-6Y",
-        "lineNumber": 9
-      },
-      {
-        "ean": "5063040261881",
-        "title": "Three Cute Ghosts Plants NATURAL T-SHIRT - 7-8Y",
-        "sku": "THR-GHO-TSH-NAT-7-8Y",
-        "color": "Unknown",
-        "size": "7-8Y",
-        "lineNumber": 10
-      },
-      {
-        "ean": "5063040261898",
-        "title": "Three Cute Ghosts Plants NATURAL T-SHIRT - 9-11Y",
-        "sku": "THR-GHO-TSH-NAT-9-11Y",
-        "color": "Unknown",
-        "size": "9-11Y",
-        "lineNumber": 11
-      },
-      {
-        "ean": "5063040261904",
-        "title": "Three Cute Ghosts Plants NATURAL T-SHIRT - 12-14Y",
-        "sku": "THR-GHO-TSH-NAT-12-14Y",
-        "color": "Unknown",
-        "size": "12-14Y",
-        "lineNumber": 12
-      },
-      {
         "ean": "5063040261911",
         "title": "Three Cute Ghosts Plants CLASSIC OLIVE T-SHIRT - S",
         "sku": "THR-GHO-TSH-CLA-S-SS030",
-        "color": "Unknown",
+        "price": "",
+        "color": "Classic Olive",
         "size": "S",
-        "lineNumber": 13
+        "lineNumber": 1
       },
       {
         "ean": "5063040261928",
         "title": "Three Cute Ghosts Plants CLASSIC OLIVE T-SHIRT - M",
         "sku": "THR-GHO-TSH-CLA-M",
-        "color": "Unknown",
+        "price": "",
+        "color": "Classic Olive",
         "size": "M",
-        "lineNumber": 14
+        "lineNumber": 2
       },
       {
         "ean": "5063040261935",
         "title": "Three Cute Ghosts Plants CLASSIC OLIVE T-SHIRT - L",
         "sku": "THR-GHO-TSH-CLA-L",
-        "color": "Unknown",
+        "price": "",
+        "color": "Classic Olive",
         "size": "L",
-        "lineNumber": 15
+        "lineNumber": 3
       },
       {
         "ean": "5063040261942",
         "title": "Three Cute Ghosts Plants CLASSIC OLIVE T-SHIRT - XL",
         "sku": "THR-GHO-TSH-CLA-XL",
-        "color": "Unknown",
+        "price": "",
+        "color": "Classic Olive",
         "size": "XL",
-        "lineNumber": 16
+        "lineNumber": 4
       },
       {
         "ean": "5063040261959",
         "title": "Three Cute Ghosts Plants CLASSIC OLIVE T-SHIRT - 2XL",
         "sku": "THR-GHO-TSH-CLA-2XL",
-        "color": "Unknown",
+        "price": "",
+        "color": "Classic Olive",
         "size": "2XL",
-        "lineNumber": 17
+        "lineNumber": 5
       },
       {
         "ean": "5063040261966",
         "title": "Three Cute Ghosts Plants CLASSIC OLIVE T-SHIRT - 3XL",
         "sku": "THR-GHO-TSH-CLA-3XL",
-        "color": "Unknown",
+        "price": "",
+        "color": "Classic Olive",
         "size": "3XL",
-        "lineNumber": 18
+        "lineNumber": 6
       },
       {
         "ean": "5063040261973",
         "title": "Three Cute Ghosts Plants CLASSIC OLIVE T-SHIRT - 4XL",
         "sku": "THR-GHO-TSH-CLA-4XL",
-        "color": "Unknown",
+        "price": "",
+        "color": "Classic Olive",
         "size": "4XL",
-        "lineNumber": 19
+        "lineNumber": 7
       },
       {
         "ean": "5063040261980",
         "title": "Three Cute Ghosts Plants CLASSIC OLIVE T-SHIRT - 5XL",
         "sku": "THR-GHO-TSH-CLA-5XL",
-        "color": "Unknown",
+        "price": "",
+        "color": "Classic Olive",
         "size": "5XL",
-        "lineNumber": 20
+        "lineNumber": 8
       }
     ],
-    "bulk_input": "5063040261799\tThree Cute Ghosts Plants NATURAL T-SHIRT - S\t\tTHR-GHO-TSH-NAT-S-SS030\n5063040261805\tThree Cute Ghosts Plants NATURAL T-SHIRT - M\t\tTHR-GHO-TSH-NAT-M\n5063040261812\tThree Cute Ghosts Plants NATURAL T-SHIRT - L\t\tTHR-GHO-TSH-NAT-L\n5063040261829\tThree Cute Ghosts Plants NATURAL T-SHIRT - XL\t\tTHR-GHO-TSH-NAT-XL\n5063040261836\tThree Cute Ghosts Plants NATURAL T-SHIRT - 2XL\t\tTHR-GHO-TSH-NAT-2XL\n5063040261843\tThree Cute Ghosts Plants NATURAL T-SHIRT - 3XL\t\tTHR-GHO-TSH-NAT-3XL\n5063040261850\tThree Cute Ghosts Plants NATURAL T-SHIRT - 4XL\t\tTHR-GHO-TSH-NAT-4XL\n5063040261867\tThree Cute Ghosts Plants NATURAL T-SHIRT - 5XL\t\tTHR-GHO-TSH-NAT-5XL\n5063040261874\tThree Cute Ghosts Plants NATURAL T-SHIRT - 5-6Y\t\tTHR-GHO-TSH-NAT-5-6Y-SS031\n5063040261881\tThree Cute Ghosts Plants NATURAL T-SHIRT - 7-8Y\t\tTHR-GHO-TSH-NAT-7-8Y\n5063040261898\tThree Cute Ghosts Plants NATURAL T-SHIRT - 9-11Y\t\tTHR-GHO-TSH-NAT-9-11Y\n5063040261904\tThree Cute Ghosts Plants NATURAL T-SHIRT - 12-14Y\t\tTHR-GHO-TSH-NAT-12-14Y\n5063040261911\tThree Cute Ghosts Plants CLASSIC OLIVE T-SHIRT - S\t\tTHR-GHO-TSH-CLA-S-SS030\n5063040261928\tThree Cute Ghosts Plants CLASSIC OLIVE T-SHIRT - M\t\tTHR-GHO-TSH-CLA-M\n5063040261935\tThree Cute Ghosts Plants CLASSIC OLIVE T-SHIRT - L\t\tTHR-GHO-TSH-CLA-L\n5063040261942\tThree Cute Ghosts Plants CLASSIC OLIVE T-SHIRT - XL\t\tTHR-GHO-TSH-CLA-XL\n5063040261959\tThree Cute Ghosts Plants CLASSIC OLIVE T-SHIRT - 2XL\t\tTHR-GHO-TSH-CLA-2XL\n5063040261966\tThree Cute Ghosts Plants CLASSIC OLIVE T-SHIRT - 3XL\t\tTHR-GHO-TSH-CLA-3XL\n5063040261973\tThree Cute Ghosts Plants CLASSIC OLIVE T-SHIRT - 4XL\t\tTHR-GHO-TSH-CLA-4XL\n5063040261980\tThree Cute Ghosts Plants CLASSIC OLIVE T-SHIRT - 5XL\t\tTHR-GHO-TSH-CLA-5XL",
-    "saved_at": "2025-10-16T14:22:06.457Z"
+    "bulk_input": "5063040261911\tThree Cute Ghosts Plants CLASSIC OLIVE T-SHIRT - S\t\tTHR-GHO-TSH-CLA-S-SS030\n5063040261928\tThree Cute Ghosts Plants CLASSIC OLIVE T-SHIRT - M\t\tTHR-GHO-TSH-CLA-M\n5063040261935\tThree Cute Ghosts Plants CLASSIC OLIVE T-SHIRT - L\t\tTHR-GHO-TSH-CLA-L\n5063040261942\tThree Cute Ghosts Plants CLASSIC OLIVE T-SHIRT - XL\t\tTHR-GHO-TSH-CLA-XL\n5063040261959\tThree Cute Ghosts Plants CLASSIC OLIVE T-SHIRT - 2XL\t\tTHR-GHO-TSH-CLA-2XL\n5063040261966\tThree Cute Ghosts Plants CLASSIC OLIVE T-SHIRT - 3XL\t\tTHR-GHO-TSH-CLA-3XL\n5063040261973\tThree Cute Ghosts Plants CLASSIC OLIVE T-SHIRT - 4XL\t\tTHR-GHO-TSH-CLA-4XL\n5063040261980\tThree Cute Ghosts Plants CLASSIC OLIVE T-SHIRT - 5XL\t\tTHR-GHO-TSH-CLA-5XL",
+    "saved_at": "2025-10-20T13:06:14.665Z"
   }
 }
