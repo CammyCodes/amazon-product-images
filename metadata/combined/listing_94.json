@@ -1,0 +1,139 @@
+{
+  "listing_id": 94,
+  "listing_name": "DOG-HNT This dog wont hunt",
+  "count": 4,
+  "images": [
+    {
+      "id": 412,
+      "filename": "DOG-HNT_This_dog_wont_hunt_-_Main.jpg",
+      "original_filename": "DOG-HNT This dog wont hunt - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/DOG-HNT_This_dog_wont_hunt_-_Main.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/DOG-HNT_This_dog_wont_hunt_-_Main.jpg",
+      "upload_date": "2025-10-21T15:53:24.432976",
+      "file_size": 110782,
+      "tags": [],
+      "collection_id": 94,
+      "collection_name": "DOG-HNT This dog wont hunt",
+      "image_position": 1,
+      "is_main": true
+    },
+    {
+      "id": 413,
+      "filename": "DOG-HNT_This_dog_wont_hunt_-_Main-1.jpg",
+      "original_filename": "DOG-HNT This dog wont hunt - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/DOG-HNT_This_dog_wont_hunt_-_Main-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/DOG-HNT_This_dog_wont_hunt_-_Main-1.jpg",
+      "upload_date": "2025-10-21T15:53:26.778408",
+      "file_size": 348416,
+      "tags": [],
+      "collection_id": 94,
+      "collection_name": "DOG-HNT This dog wont hunt",
+      "image_position": 1,
+      "is_main": false
+    },
+    {
+      "id": 415,
+      "filename": "DOG-HNT_This_dog_wont_hunt_-_2-1.jpg",
+      "original_filename": "DOG-HNT This dog wont hunt - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/DOG-HNT_This_dog_wont_hunt_-_2-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/DOG-HNT_This_dog_wont_hunt_-_2-1.jpg",
+      "upload_date": "2025-10-21T15:53:28.628069",
+      "file_size": 268345,
+      "tags": [],
+      "collection_id": 94,
+      "collection_name": "DOG-HNT This dog wont hunt",
+      "image_position": 2,
+      "is_main": false
+    },
+    {
+      "id": 414,
+      "filename": "DOG-HNT_This_dog_wont_hunt_-_2.jpg",
+      "original_filename": "DOG-HNT This dog wont hunt - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/DOG-HNT_This_dog_wont_hunt_-_2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/DOG-HNT_This_dog_wont_hunt_-_2.jpg",
+      "upload_date": "2025-10-21T15:53:27.755565",
+      "file_size": 340389,
+      "tags": [],
+      "collection_id": 94,
+      "collection_name": "DOG-HNT This dog wont hunt",
+      "image_position": 2,
+      "is_main": false
+    }
+  ],
+  "draft": {
+    "collection_id": 94,
+    "title": "SMARTYPANTS This Dog Won't Hunt Illustration Western Saying Cowboy Dog Design Product - High Quality Item Perfect Gift for Special Occasions Daily Use Functional Lifestyle Accessory (Standard)",
+    "description": "Enhance your daily routine with this thoughtfully designed product that combines quality craftsmanship with distinctive style. Whether you're using it for everyday purposes, special occasions, or gifting to someone special, this item delivers both functionality and appeal. The premium construction ensures reliable performance whilst the thoughtful design adds personality to any use.",
+    "keywords": "gift present quality functional durable useful everyday lifestyle premium construction design unique special occasion daily use versatile thoughtful craftsmanship reliable performance attention detail",
+    "bullets": [
+      "Perfect gift for those who appreciate quality items and unique designs for birthdays, celebrations, or any special occasion that calls for something special.",
+      "Premium construction with quality materials, featuring durable design that maintains its appearance and functionality through regular use and handling.",
+      "Built to last with careful attention to detail, ensuring long-lasting performance that maintains its integrity over time with proper care and use.",
+      "Professional manufacturing standards deliver excellent quality results with attention to every detail that showcases the thoughtful design and craftsmanship.",
+      "Versatile and functional design makes it perfect for everyday use, special occasions, gifting, or as a thoughtful addition to any lifestyle or routine."
+    ],
+    "parent_sku": "DOG-HNT-PARENT",
+    "platform": "smartypants",
+    "handle_colors": [
+      "white"
+    ],
+    "variations": [
+      {
+        "color": "Desert Sand",
+        "ean": "5063040264509",
+        "lineNumber": 1,
+        "price": "",
+        "size": "S",
+        "sku": "DOG-HNT-OVE-DES-S",
+        "title": "This Dog Won't Hunt Illustration Western Saying Cowboy Dog DESERT SAND OVERSIZED TSHIRT - S"
+      },
+      {
+        "color": "Desert Sand",
+        "ean": "5063040264516",
+        "lineNumber": 2,
+        "price": "",
+        "size": "M",
+        "sku": "DOG-HNT-OVE-DES-M",
+        "title": "This Dog Won't Hunt Illustration Western Saying Cowboy Dog DESERT SAND OVERSIZED TSHIRT - M"
+      },
+      {
+        "color": "Desert Sand",
+        "ean": "5063040264523",
+        "lineNumber": 3,
+        "price": "",
+        "size": "L",
+        "sku": "DOG-HNT-OVE-DES-L",
+        "title": "This Dog Won't Hunt Illustration Western Saying Cowboy Dog DESERT SAND OVERSIZED TSHIRT - L"
+      },
+      {
+        "color": "Desert Sand",
+        "ean": "5063040264530",
+        "lineNumber": 4,
+        "price": "",
+        "size": "XL",
+        "sku": "DOG-HNT-OVE-DES-XL",
+        "title": "This Dog Won't Hunt Illustration Western Saying Cowboy Dog DESERT SAND OVERSIZED TSHIRT - XL"
+      },
+      {
+        "color": "Desert Sand",
+        "ean": "5063040264547",
+        "lineNumber": 5,
+        "price": "",
+        "size": "2XL",
+        "sku": "DOG-HNT-OVE-DES-2XL",
+        "title": "This Dog Won't Hunt Illustration Western Saying Cowboy Dog DESERT SAND OVERSIZED TSHIRT - 2XL"
+      },
+      {
+        "color": "Desert Sand",
+        "ean": "5063040264554",
+        "lineNumber": 6,
+        "price": "",
+        "size": "3XL",
+        "sku": "DOG-HNT-OVE-DES-3XL",
+        "title": "This Dog Won't Hunt Illustration Western Saying Cowboy Dog DESERT SAND OVERSIZED TSHIRT - 3XL"
+      }
+    ],
+    "bulk_input": "5063040264509\tThis Dog Won't Hunt Illustration Western Saying Cowboy Dog DESERT SAND OVERSIZED TSHIRT - S\t\tDOG-HNT-OVE-DES-S\n5063040264516\tThis Dog Won't Hunt Illustration Western Saying Cowboy Dog DESERT SAND OVERSIZED TSHIRT - M\t\tDOG-HNT-OVE-DES-M\n5063040264523\tThis Dog Won't Hunt Illustration Western Saying Cowboy Dog DESERT SAND OVERSIZED TSHIRT - L\t\tDOG-HNT-OVE-DES-L\n5063040264530\tThis Dog Won't Hunt Illustration Western Saying Cowboy Dog DESERT SAND OVERSIZED TSHIRT - XL\t\tDOG-HNT-OVE-DES-XL\n5063040264547\tThis Dog Won't Hunt Illustration Western Saying Cowboy Dog DESERT SAND OVERSIZED TSHIRT - 2XL\t\tDOG-HNT-OVE-DES-2XL\n5063040264554\tThis Dog Won't Hunt Illustration Western Saying Cowboy Dog DESERT SAND OVERSIZED TSHIRT - 3XL\t\tDOG-HNT-OVE-DES-3XL",
+    "saved_at": "2025-10-21T16:06:56.085Z"
+  }
+}
