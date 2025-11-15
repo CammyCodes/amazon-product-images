@@ -1,0 +1,143 @@
+{
+  "listing_id": 88,
+  "listing_name": "FRA-HOM Frankenstein Homer - Natural T-shirt",
+  "count": 3,
+  "images": [
+    {
+      "id": 390,
+      "filename": "FRA-HOM_Frankenstein_Homer_-_Natural_T-shirt_-_Main.jpg",
+      "original_filename": "FRA-HOM Frankenstein Homer - Natural T-shirt - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/FRA-HOM_Frankenstein_Homer_-_Natural_T-shirt_-_Main.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/FRA-HOM_Frankenstein_Homer_-_Natural_T-shirt_-_Main.jpg",
+      "upload_date": "2025-10-21T13:06:30.981941",
+      "file_size": 157984,
+      "tags": [],
+      "collection_id": 88,
+      "collection_name": "FRA-HOM Frankenstein Homer - Natural T-shirt",
+      "image_position": 1,
+      "is_main": true
+    },
+    {
+      "id": 391,
+      "filename": "FRA-HOM_Frankenstein_Homer_-_Natural_T-shirt_-_Main-1.jpg",
+      "original_filename": "FRA-HOM Frankenstein Homer - Natural T-shirt - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/FRA-HOM_Frankenstein_Homer_-_Natural_T-shirt_-_Main-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/FRA-HOM_Frankenstein_Homer_-_Natural_T-shirt_-_Main-1.jpg",
+      "upload_date": "2025-10-21T13:06:33.194099",
+      "file_size": 483506,
+      "tags": [],
+      "collection_id": 88,
+      "collection_name": "FRA-HOM Frankenstein Homer - Natural T-shirt",
+      "image_position": 1,
+      "is_main": false
+    },
+    {
+      "id": 392,
+      "filename": "FRA-HOM_Frankenstein_Homer_-_Natural_T-shirt_-_2.jpg",
+      "original_filename": "FRA-HOM Frankenstein Homer - Natural T-shirt - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/FRA-HOM_Frankenstein_Homer_-_Natural_T-shirt_-_2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/FRA-HOM_Frankenstein_Homer_-_Natural_T-shirt_-_2.jpg",
+      "upload_date": "2025-10-21T13:06:33.696504",
+      "file_size": 269005,
+      "tags": [],
+      "collection_id": 88,
+      "collection_name": "FRA-HOM Frankenstein Homer - Natural T-shirt",
+      "image_position": 2,
+      "is_main": false
+    }
+  ],
+  "draft": {
+    "collection_id": 88,
+    "title": "Willow Gifts Funny Couch Monster T-Shirt for Men - Humorous Simpsons Parody Graphic Tee with Frankenstein Homer Slogan Top - Novelty Birthday Gift Idea for Dad Him Brother Husband Boyfriend",
+    "description": "Unleash your inner couch monster with this hilarious parody t-shirt from Willow Gifts! Combining two pop culture icons into one brilliantly lazy creature, this design is for anyone who believes their true potential is realised on the sofa. The slogan, <b>\"Created in a lab, Perfected on the Couch\"</b>, is a funny tribute to the art of relaxation.<br><br>Crafted from wonderfully soft and breathable cotton, this tee isn't just a novelty item \u2013 it's a high-quality garment designed for <b>maximum comfort and durability</b>. The vibrant, professional print is made to last, ensuring the joke never fades. Whether you're buying for yourself or looking for the <b>perfect funny gift</b> for a husband, boyfriend, brother, or dad, this t-shirt is sure to be a massive hit for birthdays, Christmas, or any occasion that calls for a good laugh.",
+    "keywords": "apparel garment clothing clothes topwear casual lounge tee-shirt man male guys adult son friend colleague workmate boss father grandad uncle pop christmas xmas secret santa stocking filler presents fathers day leaving work retirement party anniversary valentine's joke sarcastic lazy potato tv television film movie horror character animation retro vintage pop-culture geek nerd gamer relaxing chilling lounging sofa settee homebody created lab perfected quality premium cotton soft",
+    "bullets": [
+      "Hilarious Parody Design \u2013 A brilliant gift for fans of classic cartoons and horror, this tee features a funny monster parody with a relatable \"Perfected on the Couch\" slogan.",
+      "Premium Cotton Comfort \u2013 Expertly crafted from soft, breathable 100% cotton, this t-shirt offers superior comfort and a quality feel for all-day wear, from the sofa to the shops.",
+      "Durable Everyday Wear \u2013 Featuring a classic crew neck and a robust twin-needle stitch finish, this top is built to last through countless washes while maintaining its original shape.",
+      "Vibrant Graphic Print \u2013 We use advanced printing technology to ensure the cartoon graphic and bloody text are sharp, vivid, and highly resistant to fading for long-lasting humour.",
+      "Perfect Novelty Gift \u2013 An ideal present for a birthday, Christmas, or Father's Day, this shirt is a guaranteed laugh for the man in your life who has mastered the art of relaxing."
+    ],
+    "parent_sku": "FRA-HOM-PARENT",
+    "platform": "willow",
+    "handle_colors": [
+      "white"
+    ],
+    "variations": [
+      {
+        "ean": "5063040258683",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid NATURAL T-SHIRT - S",
+        "sku": "FRA-HOM-TSH-NAT-S-SS030",
+        "price": "",
+        "color": "Natural",
+        "size": "S",
+        "lineNumber": 1
+      },
+      {
+        "ean": "5063040258690",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid NATURAL T-SHIRT - M",
+        "sku": "FRA-HOM-TSH-NAT-M",
+        "price": "",
+        "color": "Natural",
+        "size": "M",
+        "lineNumber": 2
+      },
+      {
+        "ean": "5063040258706",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid NATURAL T-SHIRT - L",
+        "sku": "FRA-HOM-TSH-NAT-L",
+        "price": "",
+        "color": "Natural",
+        "size": "L",
+        "lineNumber": 3
+      },
+      {
+        "ean": "5063040258713",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid NATURAL T-SHIRT - XL",
+        "sku": "FRA-HOM-TSH-NAT-XL",
+        "price": "",
+        "color": "Natural",
+        "size": "XL",
+        "lineNumber": 4
+      },
+      {
+        "ean": "5063040258720",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid NATURAL T-SHIRT - 2XL",
+        "sku": "FRA-HOM-TSH-NAT-2XL",
+        "price": "",
+        "color": "Natural",
+        "size": "2XL",
+        "lineNumber": 5
+      },
+      {
+        "ean": "5063040258737",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid NATURAL T-SHIRT - 3XL",
+        "sku": "FRA-HOM-TSH-NAT-3XL",
+        "price": "",
+        "color": "Natural",
+        "size": "3XL",
+        "lineNumber": 6
+      },
+      {
+        "ean": "5063040258744",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid NATURAL T-SHIRT - 4XL",
+        "sku": "FRA-HOM-TSH-NAT-4XL",
+        "price": "",
+        "color": "Natural",
+        "size": "4XL",
+        "lineNumber": 7
+      },
+      {
+        "ean": "5063040258751",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid NATURAL T-SHIRT - 5XL",
+        "sku": "FRA-HOM-TSH-NAT-5XL",
+        "price": "",
+        "color": "Natural",
+        "size": "5XL",
+        "lineNumber": 8
+      }
+    ],
+    "bulk_input": "5063040258683\tStitched-up, Dopey Monster-dad Hybrid NATURAL T-SHIRT - S\t\tFRA-HOM-TSH-NAT-S-SS030\n5063040258690\tStitched-up, Dopey Monster-dad Hybrid NATURAL T-SHIRT - M\t\tFRA-HOM-TSH-NAT-M\n5063040258706\tStitched-up, Dopey Monster-dad Hybrid NATURAL T-SHIRT - L\t\tFRA-HOM-TSH-NAT-L\n5063040258713\tStitched-up, Dopey Monster-dad Hybrid NATURAL T-SHIRT - XL\t\tFRA-HOM-TSH-NAT-XL\n5063040258720\tStitched-up, Dopey Monster-dad Hybrid NATURAL T-SHIRT - 2XL\t\tFRA-HOM-TSH-NAT-2XL\n5063040258737\tStitched-up, Dopey Monster-dad Hybrid NATURAL T-SHIRT - 3XL\t\tFRA-HOM-TSH-NAT-3XL\n5063040258744\tStitched-up, Dopey Monster-dad Hybrid NATURAL T-SHIRT - 4XL\t\tFRA-HOM-TSH-NAT-4XL\n5063040258751\tStitched-up, Dopey Monster-dad Hybrid NATURAL T-SHIRT - 5XL\t\tFRA-HOM-TSH-NAT-5XL",
+    "saved_at": "2025-10-21T13:19:13.136Z"
+  }
+}
