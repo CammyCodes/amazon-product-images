@@ -1,6 +1,6 @@
 {
   "listing_id": 31,
-  "listing_name": "Dog Hunt Hoodie Western Country",
+  "listing_name": "DOG-HNT Dog Hunt Hoodie Western Country",
   "count": 4,
   "images": [
     {
@@ -13,7 +13,7 @@
       "file_size": 162390,
       "tags": [],
       "collection_id": 31,
-      "collection_name": "Dog Hunt Hoodie Western Country",
+      "collection_name": "DOG-HNT Dog Hunt Hoodie Western Country",
       "image_position": 1,
       "is_main": true
     },
@@ -27,7 +27,7 @@
       "file_size": 185910,
       "tags": [],
       "collection_id": 31,
-      "collection_name": "Dog Hunt Hoodie Western Country",
+      "collection_name": "DOG-HNT Dog Hunt Hoodie Western Country",
       "image_position": 2,
       "is_main": false
     },
@@ -41,7 +41,7 @@
       "file_size": 241380,
       "tags": [],
       "collection_id": 31,
-      "collection_name": "Dog Hunt Hoodie Western Country",
+      "collection_name": "DOG-HNT Dog Hunt Hoodie Western Country",
       "image_position": 2,
       "is_main": false
     },
@@ -55,9 +55,85 @@
       "file_size": 344419,
       "tags": [],
       "collection_id": 31,
-      "collection_name": "Dog Hunt Hoodie Western Country",
+      "collection_name": "DOG-HNT Dog Hunt Hoodie Western Country",
       "image_position": 3,
       "is_main": false
     }
-  ]
+  ],
+  "draft": {
+    "collection_id": 31,
+    "title": "SMARTYPANTS This Dog Wont Hunt Hoodie - Funny Country Western Pullover With Cowboy Hat Graphic - Novelty Slogan Jumper For Men And Women - Humorous Animal Themed Gift For Dog Lovers",
+    "description": "Embrace your inner cowboy with a touch of wry humour in the SMARTYPANTS 'This Dog Won't Hunt' hoodie. This isn't just a piece of clothing; it's a <b>statement piece for lovers of country charm</b> and clever wordplay. Featuring a minimalist yet expressive dog in a cowboy hat on both the front pocket and the back, it's a guaranteed conversation starter.<br><br>Crafted from a <b>premium cotton-blend fleece</b>, this pullover offers superior warmth and a soft-to-the-touch feel, perfect for brisk evenings or simply relaxing in style. The high-quality print ensures the design remains sharp and vibrant, wash after wash. It's the <b>perfect gift for the dog lover</b> or country music fan in your life, or a brilliant way to add some personality to your own wardrobe.",
+    "keywords": "hooded sweatshirt top fleece apparel clothing garment casual wear outerwear dad mum brother sister friend colleague husband wife adult unisex birthday present christmas idea stocking filler secret santa fathers mothers day leaving work southern american usa texas nashville music line dancing pet puppy pooch hound canine joke sarcastic witty saying phrase idiom retro vintage minimalist art warm comfort cosy pocket drawstring",
+    "bullets": [
+      "Quirky Western Humour \u2013 A perfect gift for country music fans or dog lovers with a dry sense of humour featuring the classic idiom 'This Dog Won't Hunt' and a charming cowboy design.",
+      "Premium Cosy Fleece \u2013 Expertly crafted from a soft and durable cotton blend fleece this premium hoodie provides exceptional warmth and comfort with quality-stitched seams for longevity.",
+      "Everyday Comfort And Care \u2013 Designed for your convenience this comfortable pullover is fully machine washable retaining its shape and soft feel making it an effortless and durable wardrobe staple.",
+      "Lasting Graphic Print \u2013 Utilising advanced printing technology the front and back graphics boast crisp lines and rich colour that are designed to resist fading and cracking over many washes.",
+      "Versatile Casual Wear \u2013 Arrives ready for gifting and is ideal for casual outings lounging at home or staying warm on chilly days making it a versatile addition to any casual wardrobe."
+    ],
+    "parent_sku": "DOH-HNT-PARENT",
+    "platform": "smartypants",
+    "handle_colors": [
+      "white"
+    ],
+    "variations": [
+      {
+        "ean": "5063040264370",
+        "title": "This Dog Won't Hunt Illustration Western Saying Cowboy Dog DESERT SAND HOODIE - S",
+        "sku": "DOG-HNT-HDI-DES-S",
+        "price": "",
+        "color": "Desert Sand",
+        "size": "S",
+        "lineNumber": 1
+      },
+      {
+        "ean": "5063040264387",
+        "title": "This Dog Won't Hunt Illustration Western Saying Cowboy Dog DESERT SAND HOODIE - M",
+        "sku": "DOG-HNT-HDI-DES-M",
+        "price": "",
+        "color": "Desert Sand",
+        "size": "M",
+        "lineNumber": 2
+      },
+      {
+        "ean": "5063040264394",
+        "title": "This Dog Won't Hunt Illustration Western Saying Cowboy Dog DESERT SAND HOODIE - L",
+        "sku": "DOG-HNT-HDI-DES-L",
+        "price": "",
+        "color": "Desert Sand",
+        "size": "L",
+        "lineNumber": 3
+      },
+      {
+        "ean": "5063040264400",
+        "title": "This Dog Won't Hunt Illustration Western Saying Cowboy Dog DESERT SAND HOODIE - XL",
+        "sku": "DOG-HNT-HDI-DES-XL",
+        "price": "",
+        "color": "Desert Sand",
+        "size": "XL",
+        "lineNumber": 4
+      },
+      {
+        "ean": "5063040264417",
+        "title": "This Dog Won't Hunt Illustration Western Saying Cowboy Dog DESERT SAND HOODIE - 2XL",
+        "sku": "DOG-HNT-HDI-DES-2XL",
+        "price": "",
+        "color": "Desert Sand",
+        "size": "2XL",
+        "lineNumber": 5
+      },
+      {
+        "ean": "5063040264424",
+        "title": "This Dog Won't Hunt Illustration Western Saying Cowboy Dog DESERT SAND HOODIE - 3XL",
+        "sku": "DOG-HNT-HDI-DES-3XL",
+        "price": "",
+        "color": "Desert Sand",
+        "size": "3XL",
+        "lineNumber": 6
+      }
+    ],
+    "bulk_input": "5063040264370\tThis Dog Won't Hunt Illustration Western Saying Cowboy Dog DESERT SAND HOODIE - S\t\tDOG-HNT-HDI-DES-S\n5063040264387\tThis Dog Won't Hunt Illustration Western Saying Cowboy Dog DESERT SAND HOODIE - M\t\tDOG-HNT-HDI-DES-M\n5063040264394\tThis Dog Won't Hunt Illustration Western Saying Cowboy Dog DESERT SAND HOODIE - L\t\tDOG-HNT-HDI-DES-L\n5063040264400\tThis Dog Won't Hunt Illustration Western Saying Cowboy Dog DESERT SAND HOODIE - XL\t\tDOG-HNT-HDI-DES-XL\n5063040264417\tThis Dog Won't Hunt Illustration Western Saying Cowboy Dog DESERT SAND HOODIE - 2XL\t\tDOG-HNT-HDI-DES-2XL\n5063040264424\tThis Dog Won't Hunt Illustration Western Saying Cowboy Dog DESERT SAND HOODIE - 3XL\t\tDOG-HNT-HDI-DES-3XL",
+    "saved_at": "2025-10-20T14:08:47.126Z"
+  }
 }
