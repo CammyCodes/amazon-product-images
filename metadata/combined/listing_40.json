@@ -1,0 +1,94 @@
+{
+  "listing_id": 40,
+  "listing_name": "HAP-SHO Happy Birthday Shorty",
+  "count": 4,
+  "images": [
+    {
+      "id": 203,
+      "filename": "HAP-SHO_Happy_Birthday_Shorty_-_Main.jpg",
+      "original_filename": "HAP-SHO Happy Birthday Shorty - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/HAP-SHO_Happy_Birthday_Shorty_-_Main.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/HAP-SHO_Happy_Birthday_Shorty_-_Main.jpg",
+      "upload_date": "2025-10-20T15:43:28.349207",
+      "file_size": 242245,
+      "tags": [],
+      "collection_id": 40,
+      "collection_name": "HAP-SHO Happy Birthday Shorty",
+      "image_position": 1,
+      "is_main": true
+    },
+    {
+      "id": 204,
+      "filename": "HAP-SHO_Happy_Birthday_Shorty_-_Main-1.jpg",
+      "original_filename": "HAP-SHO Happy Birthday Shorty - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/HAP-SHO_Happy_Birthday_Shorty_-_Main-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/HAP-SHO_Happy_Birthday_Shorty_-_Main-1.jpg",
+      "upload_date": "2025-10-20T15:43:30.077707",
+      "file_size": 308952,
+      "tags": [],
+      "collection_id": 40,
+      "collection_name": "HAP-SHO Happy Birthday Shorty",
+      "image_position": 1,
+      "is_main": false
+    },
+    {
+      "id": 206,
+      "filename": "HAP-SHO_Happy_Birthday_Shorty_-_2-1.jpg",
+      "original_filename": "HAP-SHO Happy Birthday Shorty - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/HAP-SHO_Happy_Birthday_Shorty_-_2-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/HAP-SHO_Happy_Birthday_Shorty_-_2-1.jpg",
+      "upload_date": "2025-10-20T15:43:32.552005",
+      "file_size": 487778,
+      "tags": [],
+      "collection_id": 40,
+      "collection_name": "HAP-SHO Happy Birthday Shorty",
+      "image_position": 2,
+      "is_main": false
+    },
+    {
+      "id": 205,
+      "filename": "HAP-SHO_Happy_Birthday_Shorty_-_2.jpg",
+      "original_filename": "HAP-SHO Happy Birthday Shorty - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/HAP-SHO_Happy_Birthday_Shorty_-_2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/HAP-SHO_Happy_Birthday_Shorty_-_2.jpg",
+      "upload_date": "2025-10-20T15:43:30.945551",
+      "file_size": 301102,
+      "tags": [],
+      "collection_id": 40,
+      "collection_name": "HAP-SHO Happy Birthday Shorty",
+      "image_position": 2,
+      "is_main": false
+    }
+  ],
+  "draft": {
+    "collection_id": 40,
+    "title": "SMARTYPANTS Funny Giraffe Birthday Card for Shorty - Humorous Animal Greeting for Friend Bestie Brother Sister - Cheeky Joke Present for Him Her Men Women - Includes Quality Kraft Envelope",
+    "description": "Looking for a birthday card that\u2019s a bit different? Our <b>hilarious giraffe 'Shorty' card</b> is the perfect way to poke some good-natured fun at your friend brother sister or partner on their special day. The vibrant cartoon design featuring two cheeky giraffes sharing headphones is guaranteed to stand out from the crowd and bring a huge smile to their face.<br><br>Made with care in the UK this card is printed on <b>premium-quality 350gsm card stock</b> with a beautiful matte finish. It\u2019s left blank inside giving you plenty of room to write your own personal message. Each card comes with a <b>stylish rustic kraft envelope</b> so it's ready for you to sign seal and deliver a dose of birthday laughter.<br><br>Forget boring generic cards. Choose a greeting that reflects your fun relationship and creates a memorable moment. It's the ideal choice for anyone who loves a good joke animals or just a <b>truly unique birthday greeting</b>.",
+    "keywords": "greetings message note wishes novelty quirky cool modern unique illustrated cartoon art design blank inside square cards stationery supplies paper goods boyfriend girlfriend husband wife partner mate pal colleague workmate son daughter teenager adult young person mum dad family relative celebration special occasion bday happy party gift ideas presents gifts for her gifts for him safari jungle zoo animals music headphones tunes sound audio lover height small little petite person banter",
+    "bullets": [
+      "Cheeky Giraffe Humour \u2013 Perfect for a friend or loved one with a great sense of humour this card features two quirky giraffes and a playful 'shorty' joke to make them smile.",
+      "Premium Card Stock \u2013 Crafted from high-quality 350gsm card for a sturdy feel and a luxurious matte finish that makes the vibrant colours of the design truly pop.",
+      "Write Your Message \u2013 The uncoated interior offers a smooth surface perfect for writing a heartfelt or hilarious personal message without any smudging or ink bleed.",
+      "Vibrant Print Quality \u2013 Our professional printing process ensures the quirky giraffe illustration is sharp with rich fade-resistant colours that look fantastic from every angle.",
+      "Gift Ready Envelope \u2013 Comes complete with a high-quality rustic brown kraft envelope making it ready to send or gift to your favourite 'shorty' for their special day."
+    ],
+    "parent_sku": "HAP-SHO-PARENT",
+    "platform": "smartypants",
+    "handle_colors": [
+      "white"
+    ],
+    "variations": [
+      {
+        "ean": "5063040251820",
+        "title": "Happy Birthday Shorty - Funny Giraffe Birthday Celebration Sister Friend Partner Jungle Quirky Silly Headphones Music Safari WHITE CARD",
+        "sku": "HAP-SHO-CAR-WHT-ONESIZE",
+        "price": "",
+        "color": "White",
+        "size": "N/A",
+        "lineNumber": 1
+      }
+    ],
+    "bulk_input": "5063040251820\tHappy Birthday Shorty - Funny Giraffe Birthday Celebration Sister Friend Partner Jungle Quirky Silly Headphones Music Safari WHITE CARD\t\tHAP-SHO-CAR-WHT-ONESIZE",
+    "saved_at": "2025-10-20T15:45:22.056Z"
+  }
+}
