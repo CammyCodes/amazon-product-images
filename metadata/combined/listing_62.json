@@ -1,0 +1,80 @@
+{
+  "listing_id": 62,
+  "listing_name": "PET-PAR Official Santa Paws - Small",
+  "count": 3,
+  "images": [
+    {
+      "id": 293,
+      "filename": "PET-PAR_Official_Santa_Paws_-_Main.jpg",
+      "original_filename": "PET-PAR Official Santa Paws - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/PET-PAR_Official_Santa_Paws_-_Main.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/PET-PAR_Official_Santa_Paws_-_Main.jpg",
+      "upload_date": "2025-10-21T09:59:33.614930",
+      "file_size": 239409,
+      "tags": [],
+      "collection_id": 62,
+      "collection_name": "PET-PAR Official Santa Paws - Small",
+      "image_position": 1,
+      "is_main": true
+    },
+    {
+      "id": 294,
+      "filename": "PET-PAR_Official_Santa_Paws_-_Main-1.jpg",
+      "original_filename": "PET-PAR Official Santa Paws - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/PET-PAR_Official_Santa_Paws_-_Main-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/PET-PAR_Official_Santa_Paws_-_Main-1.jpg",
+      "upload_date": "2025-10-21T09:59:35.311533",
+      "file_size": 337395,
+      "tags": [],
+      "collection_id": 62,
+      "collection_name": "PET-PAR Official Santa Paws - Small",
+      "image_position": 1,
+      "is_main": false
+    },
+    {
+      "id": 295,
+      "filename": "PET-PAR_Official_Santa_Paws_-_2.jpg",
+      "original_filename": "PET-PAR Official Santa Paws - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/PET-PAR_Official_Santa_Paws_-_2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/PET-PAR_Official_Santa_Paws_-_2.jpg",
+      "upload_date": "2025-10-21T09:59:36.172950",
+      "file_size": 355613,
+      "tags": [],
+      "collection_id": 62,
+      "collection_name": "PET-PAR Official Santa Paws - Small",
+      "image_position": 2,
+      "is_main": false
+    }
+  ],
+  "draft": {
+    "collection_id": 62,
+    "title": "SMARTYPANTS Personalised Dog Santa Sack - Santa Paws Christmas Present Bag For Pets | Large Hessian Xmas Sack For Dog Treats And Toys With Drawstring | Very Good Dog Festive Holiday Gift Bag",
+    "description": "Make your beloved pet the star of Christmas morning with the SMARTYPANTS Santa Paws Delivery Sack! This beautifully designed sack is the perfect way to show your four-legged friend just how much they mean to the family. Featuring a <b>charming North Pole delivery theme</b> complete with a 'Very Good Dog' seal of approval, it\u2019s guaranteed to bring smiles and wagging tails.<br><br>Crafted from <b>durable and eco-friendly hessian fabric</b>, this sack is not only stylish but also practical and reusable year after year. The generous size provides ample space for all their favourite toys, treats, and surprises, while the secure drawstring closure keeps the contents hidden until the big reveal. It's more than just a gift bag; it's a <b>wonderful festive tradition</b> and a charming piece of holiday decoration to place proudly under your tree.",
+    "keywords": "stocking presents gifts wrapping decoration mail delivery north pole canine puppy pooch pet supplies accessories holder container pouch parcel owner owners family families friend friends mum dad kids children boy girl man woman morning celebration tradition secret santa stocking filler eve presents cocker spaniel breed specific custom name named special unique funny cute charming rustic natural eco friendly reusable sustainable storage decorations home decor under tree fireplace mantle",
+    "bullets": [
+      "Perfect For Pets \u2013 Celebrate your furry friend's Christmas with this charming Santa Paws sack featuring a fun 'Very Good Dog' checkmark and a classic festive delivery design.",
+      "Premium Hessian Fabric \u2013 Crafted from durable high-quality hessian material this reusable sack is built to last for many Christmases and includes a strong drawstring closure.",
+      "Spacious And Reusable \u2013 Generously sized to hold plenty of toys treats and surprises this eco-friendly bag is a wonderful sustainable alternative to disposable wrapping paper.",
+      "Vibrant Lasting Print \u2013 Features a high-definition print with rich festive colours that are designed to resist fading ensuring it remains a treasured part of your holiday decor.",
+      "Ultimate Christmas Accessory \u2013 The ideal way to present your dog's gifts on Christmas morning this sack also doubles as a lovely festive decoration to place under the tree."
+    ],
+    "parent_sku": "PET-PAR-PARENT",
+    "platform": "smartypants",
+    "handle_colors": [
+      "white"
+    ],
+    "variations": [
+      {
+        "ean": "5063040272962",
+        "title": "Official Santa Paws Delivery Small Santa Sack NATURAL SANTA SACK",
+        "sku": "PET-PAR-SAN-NAT",
+        "price": "",
+        "color": "Unknown",
+        "size": "N/A",
+        "lineNumber": 1
+      }
+    ],
+    "bulk_input": "5063040272962\tOfficial Santa Paws Delivery Small Santa Sack NATURAL SANTA SACK\t\tPET-PAR-SAN-NAT",
+    "saved_at": "2025-10-21T10:05:54.944Z"
+  }
+}
