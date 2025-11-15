@@ -1,0 +1,139 @@
+{
+  "listing_id": 115,
+  "listing_name": "THR-WIS Three wise men",
+  "count": 4,
+  "images": [
+    {
+      "id": 501,
+      "filename": "THR-WIS_Three_wise_men_-_Main.jpg",
+      "original_filename": "THR-WIS Three wise men - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/THR-WIS_Three_wise_men_-_Main.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/THR-WIS_Three_wise_men_-_Main.jpg",
+      "upload_date": "2025-10-24T15:48:34.563098",
+      "file_size": 209606,
+      "tags": [],
+      "collection_id": 115,
+      "collection_name": "THR-WIS Three wise men",
+      "image_position": 1,
+      "is_main": true
+    },
+    {
+      "id": 502,
+      "filename": "THR-WIS_Three_wise_men_-_Main-1.jpg",
+      "original_filename": "THR-WIS Three wise men - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/THR-WIS_Three_wise_men_-_Main-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/THR-WIS_Three_wise_men_-_Main-1.jpg",
+      "upload_date": "2025-10-24T15:48:36.405935",
+      "file_size": 265109,
+      "tags": [],
+      "collection_id": 115,
+      "collection_name": "THR-WIS Three wise men",
+      "image_position": 1,
+      "is_main": false
+    },
+    {
+      "id": 504,
+      "filename": "THR-WIS_Three_wise_men_-_2-1.jpg",
+      "original_filename": "THR-WIS Three wise men - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/THR-WIS_Three_wise_men_-_2-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/THR-WIS_Three_wise_men_-_2-1.jpg",
+      "upload_date": "2025-10-24T15:48:38.807333",
+      "file_size": 317450,
+      "tags": [],
+      "collection_id": 115,
+      "collection_name": "THR-WIS Three wise men",
+      "image_position": 2,
+      "is_main": false
+    },
+    {
+      "id": 503,
+      "filename": "THR-WIS_Three_wise_men_-_2.jpg",
+      "original_filename": "THR-WIS Three wise men - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/THR-WIS_Three_wise_men_-_2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/THR-WIS_Three_wise_men_-_2.jpg",
+      "upload_date": "2025-10-24T15:48:37.124469",
+      "file_size": 305270,
+      "tags": [],
+      "collection_id": 115,
+      "collection_name": "THR-WIS Three wise men",
+      "image_position": 2,
+      "is_main": false
+    }
+  ],
+  "draft": {
+    "collection_id": 115,
+    "title": "SMARTYPANTS Three Wise Men Sweatshirt - Traditional Christmas Jumper Nativity Scene Woodcut Print Style Jumper For Men Women Festive Religious Christian Holiday Pullover Classic Xmas Gift Apparel",
+    "description": "Embrace the timeless story of Christmas with the SMARTYPANTS Three Wise Men sweatshirt. This piece features a <b>beautifully detailed woodcut-style print</b> depicting the iconic nativity journey. It's the perfect choice for those who appreciate a more <b>traditional and artistic approach</b> to festive wear over loud novelty jumpers.<br><br>Made from a wonderfully soft and cosy cotton blend, this pullover provides both warmth and comfort throughout the winter season. Its classic unisex fit makes it a <b>versatile addition to any wardrobe</b> and an excellent gift for loved ones. Whether you're attending a carol service or enjoying a quiet evening in, this sweatshirt offers <b>understated seasonal elegance</b>.",
+    "keywords": "sweater fleece crewneck garment clothing long sleeve warm cosy winter clothes topwear man adult unisex mum dad mother father son daughter brother sister aunt uncle grandma grandad teacher colleague friend present birthday secret santa stocking filler office party work do family gathering epiphany yuletide yule magi kings journey bethlehem star jesus birth story biblical scripture faith spiritual art artistic retro vintage style sand beige blue ink block printed casual wear comfort",
+    "bullets": [
+      "Artistic Festive Design \u2013 Celebrate the season with this elegant woodcut-style print of the Three Wise Men- a thoughtful and traditional Christmas gift for family or friends.",
+      "Premium Cosy Fabric \u2013 Crafted from a soft and durable cotton blend this premium sweatshirt offers exceptional warmth and comfort for chilly winter days and festive gatherings.",
+      "Durable Everyday Wear \u2013 Designed for convenience this comfortable pullover is fully machine washable retaining its shape and soft feel making it a practical addition to your wardrobe.",
+      "High Quality Print \u2013 Features a high-definition print with deep colours that capture the authentic woodcut texture ensuring the beautiful nativity design remains vibrant and fade-resistant.",
+      "Versatile Seasonal Style \u2013 Ideal for Christmas Jumper Day office parties or casual wear throughout the holiday season this classic top is a subtle yet stylish way to show festive spirit."
+    ],
+    "parent_sku": "THR-WIS-PARENT",
+    "platform": "smartypants",
+    "handle_colors": [
+      "white"
+    ],
+    "variations": [
+      {
+        "ean": "5063040266589",
+        "title": "Traditional Christmas Three Wise Man Scene Wood Cutting Print Style ECRU JUMPER - S",
+        "sku": "THR-WIS-JUM-ECR-S-C2400",
+        "price": "",
+        "color": "Ecru",
+        "size": "S",
+        "lineNumber": 1
+      },
+      {
+        "ean": "5063040266596",
+        "title": "Traditional Christmas Three Wise Man Scene Wood Cutting Print Style ECRU JUMPER - M",
+        "sku": "THR-WIS-JUM-ECR-M-C2400",
+        "price": "",
+        "color": "Ecru",
+        "size": "M",
+        "lineNumber": 2
+      },
+      {
+        "ean": "5063040266602",
+        "title": "Traditional Christmas Three Wise Man Scene Wood Cutting Print Style ECRU JUMPER - L",
+        "sku": "THR-WIS-JUM-ECR-L-C2400",
+        "price": "",
+        "color": "Ecru",
+        "size": "L",
+        "lineNumber": 3
+      },
+      {
+        "ean": "5063040266619",
+        "title": "Traditional Christmas Three Wise Man Scene Wood Cutting Print Style ECRU JUMPER - XL",
+        "sku": "THR-WIS-JUM-ECR-XL-C2400",
+        "price": "",
+        "color": "Ecru",
+        "size": "XL",
+        "lineNumber": 4
+      },
+      {
+        "ean": "5063040266626",
+        "title": "Traditional Christmas Three Wise Man Scene Wood Cutting Print Style ECRU JUMPER - 2XL",
+        "sku": "THR-WIS-JUM-ECR-2XL-C2400",
+        "price": "",
+        "color": "Ecru",
+        "size": "2XL",
+        "lineNumber": 5
+      },
+      {
+        "ean": "5063040266633",
+        "title": "Traditional Christmas Three Wise Man Scene Wood Cutting Print Style ECRU JUMPER - 3XL",
+        "sku": "THR-WIS-JUM-ECR-3XL-C2400",
+        "price": "",
+        "color": "Ecru",
+        "size": "3XL",
+        "lineNumber": 6
+      }
+    ],
+    "bulk_input": "5063040266589\tTraditional Christmas Three Wise Man Scene Wood Cutting Print Style ECRU JUMPER - S\t\tTHR-WIS-JUM-ECR-S-C2400\n5063040266596\tTraditional Christmas Three Wise Man Scene Wood Cutting Print Style ECRU JUMPER - M\t\tTHR-WIS-JUM-ECR-M-C2400\n5063040266602\tTraditional Christmas Three Wise Man Scene Wood Cutting Print Style ECRU JUMPER - L\t\tTHR-WIS-JUM-ECR-L-C2400\n5063040266619\tTraditional Christmas Three Wise Man Scene Wood Cutting Print Style ECRU JUMPER - XL\t\tTHR-WIS-JUM-ECR-XL-C2400\n5063040266626\tTraditional Christmas Three Wise Man Scene Wood Cutting Print Style ECRU JUMPER - 2XL\t\tTHR-WIS-JUM-ECR-2XL-C2400\n5063040266633\tTraditional Christmas Three Wise Man Scene Wood Cutting Print Style ECRU JUMPER - 3XL\t\tTHR-WIS-JUM-ECR-3XL-C2400",
+    "saved_at": "2025-10-24T15:52:36.273Z"
+  }
+}
