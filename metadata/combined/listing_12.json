@@ -1,6 +1,94 @@
 {
   "listing_id": 12,
-  "listing_name": "Halloween Kitchen Black Artwork Pun Play On Food Words BLACK MUG",
-  "count": 0,
-  "images": []
+  "listing_name": "HAL-KIT Halloween Kitchen Black Artwork Pun",
+  "count": 4,
+  "images": [
+    {
+      "id": 165,
+      "filename": "Halloween_Kitchen_Black_Artwork_Pun_-_Main.jpg",
+      "original_filename": "Halloween Kitchen Black Artwork Pun - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Halloween_Kitchen_Black_Artwork_Pun_-_Main.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/Halloween_Kitchen_Black_Artwork_Pun_-_Main.jpg",
+      "upload_date": "2025-10-20T12:38:58.695221",
+      "file_size": 292660,
+      "tags": [],
+      "collection_id": 12,
+      "collection_name": "HAL-KIT Halloween Kitchen Black Artwork Pun",
+      "image_position": 1,
+      "is_main": true
+    },
+    {
+      "id": 166,
+      "filename": "Halloween_Kitchen_Black_Artwork_Pun_-_Main-1.jpg",
+      "original_filename": "Halloween Kitchen Black Artwork Pun - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Halloween_Kitchen_Black_Artwork_Pun_-_Main-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/Halloween_Kitchen_Black_Artwork_Pun_-_Main-1.jpg",
+      "upload_date": "2025-10-20T12:39:00.459649",
+      "file_size": 243845,
+      "tags": [],
+      "collection_id": 12,
+      "collection_name": "HAL-KIT Halloween Kitchen Black Artwork Pun",
+      "image_position": 1,
+      "is_main": false
+    },
+    {
+      "id": 168,
+      "filename": "Halloween_Kitchen_Black_Artwork_Pun_-_2-1.jpg",
+      "original_filename": "Halloween Kitchen Black Artwork Pun - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Halloween_Kitchen_Black_Artwork_Pun_-_2-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/Halloween_Kitchen_Black_Artwork_Pun_-_2-1.jpg",
+      "upload_date": "2025-10-20T12:39:02.768507",
+      "file_size": 298515,
+      "tags": [],
+      "collection_id": 12,
+      "collection_name": "HAL-KIT Halloween Kitchen Black Artwork Pun",
+      "image_position": 2,
+      "is_main": false
+    },
+    {
+      "id": 167,
+      "filename": "Halloween_Kitchen_Black_Artwork_Pun_-_2.jpg",
+      "original_filename": "Halloween Kitchen Black Artwork Pun - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Halloween_Kitchen_Black_Artwork_Pun_-_2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/Halloween_Kitchen_Black_Artwork_Pun_-_2.jpg",
+      "upload_date": "2025-10-20T12:39:01.150375",
+      "file_size": 268724,
+      "tags": [],
+      "collection_id": 12,
+      "collection_name": "HAL-KIT Halloween Kitchen Black Artwork Pun",
+      "image_position": 2,
+      "is_main": false
+    }
+  ],
+  "draft": {
+    "collection_id": 12,
+    "title": "SMARTYPANTS Halloween Food Puns Mug - Funny Spooky Comic Artwork Cup with Black Handle - Novelty Vintage Doodle Kitchen Drinkware - Humorous Horror Gift for Men Women - Office Tea Joke Present",
+    "description": "Start your day with a scream... of laughter! This <b>hilariously spooky mug</b> from SMARTYPANTS is the perfect brew companion for anyone who loves a good pun and a touch of vintage comic style. Featuring four unique panels of food-based horror humour\u2014including the ghostly 'Boorito' and the terrified 'Panic Cotta'\u2014this mug is a guaranteed conversation starter in any kitchen or office.<br><br>Crafted from high-quality ceramic with a striking black handle and rim, it\u2019s not just about the looks. This cup is <b>built for daily enjoyment</b>, being both dishwasher and microwave safe. Whether you're treating yourself or searching for the perfect <b>funny gift for a friend, colleague, or family member</b>, this mug delivers a delightful dose of wit with every sip of tea or coffee.",
+    "keywords": "ceramic coffee birthday christmas home cafe workplace morning breakfast beverage hot drinks dad mum brother sister colleague boss friend family foodie chef cook artist designer student secret santa stocking filler leaving work anniversary thank you congratulations retro illustration cartoon sketch monochrome gags wordplay scary monster ghost boo scream panic cotta boorito terramisu cheese burrito dessert pudding cake season october 31st all hallows eve gothic goth alternative indie",
+    "bullets": [
+      "Spooky Foodie Humour \u2013 Perfect for Halloween lovers and pun enthusiasts this mug features four hilarious comic-style food doodles like 'Boorito' and 'Panic Cotta' for a daily laugh.",
+      "Premium Ceramic Quality \u2013 Crafted from durable white ceramic this 11oz mug has a high-gloss finish and a stylish black handle and rim making your beverage time a treat.",
+      "Everyday Convenience \u2013 Designed for your busy lifestyle this sturdy cup is completely microwave safe for reheating drinks and dishwasher safe for effortless cleaning after use.",
+      "Lasting Artwork \u2013 The quirky vintage comic design is printed with advanced techniques ensuring the black and white artwork remains sharp vibrant and fade-resistant for years.",
+      "Versatile Gift Idea \u2013 Arriving ready for gifting this unique mug is an ideal choice for the home kitchen or office desk making it a great Secret Santa or birthday present."
+    ],
+    "parent_sku": "HAL-KIT-MUG-BLK",
+    "platform": "smartypants",
+    "handle_colors": [
+      "white"
+    ],
+    "variations": [
+      {
+        "color": "Black",
+        "ean": "5063040255835",
+        "lineNumber": 1,
+        "price": "",
+        "size": "N/A",
+        "sku": "HAL-KIT-MUG-BLK",
+        "title": "Halloween Kitchen Black Artwork Pun Play On Food Words BLACK HANDLE MUG"
+      }
+    ],
+    "bulk_input": "5063040255835\tHalloween Kitchen Black Artwork Pun Play On Food Words BLACK HANDLE MUG\t\tHAL-KIT-MUG-BLK",
+    "saved_at": "2025-10-20T12:45:56.442Z"
+  }
 }
