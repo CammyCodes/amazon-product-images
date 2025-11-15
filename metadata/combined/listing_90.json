@@ -1,0 +1,139 @@
+{
+  "listing_id": 90,
+  "listing_name": "MRY-MAS Merry Christmas",
+  "count": 4,
+  "images": [
+    {
+      "id": 396,
+      "filename": "MRY-MAS_Merry_Christmas_-_Main.jpg",
+      "original_filename": "MRY-MAS Merry Christmas - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/MRY-MAS_Merry_Christmas_-_Main.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/MRY-MAS_Merry_Christmas_-_Main.jpg",
+      "upload_date": "2025-10-21T15:34:00.907815",
+      "file_size": 197313,
+      "tags": [],
+      "collection_id": 90,
+      "collection_name": "MRY-MAS Merry Christmas",
+      "image_position": 1,
+      "is_main": true
+    },
+    {
+      "id": 397,
+      "filename": "MRY-MAS_Merry_Christmas_-_Main-1.jpg",
+      "original_filename": "MRY-MAS Merry Christmas - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/MRY-MAS_Merry_Christmas_-_Main-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/MRY-MAS_Merry_Christmas_-_Main-1.jpg",
+      "upload_date": "2025-10-21T15:34:03.019270",
+      "file_size": 363067,
+      "tags": [],
+      "collection_id": 90,
+      "collection_name": "MRY-MAS Merry Christmas",
+      "image_position": 1,
+      "is_main": false
+    },
+    {
+      "id": 399,
+      "filename": "MRY-MAS_Merry_Christmas_-_2-1.jpg",
+      "original_filename": "MRY-MAS Merry Christmas - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/MRY-MAS_Merry_Christmas_-_2-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/MRY-MAS_Merry_Christmas_-_2-1.jpg",
+      "upload_date": "2025-10-21T15:34:05.482433",
+      "file_size": 367499,
+      "tags": [],
+      "collection_id": 90,
+      "collection_name": "MRY-MAS Merry Christmas",
+      "image_position": 2,
+      "is_main": false
+    },
+    {
+      "id": 398,
+      "filename": "MRY-MAS_Merry_Christmas_-_2.jpg",
+      "original_filename": "MRY-MAS Merry Christmas - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/MRY-MAS_Merry_Christmas_-_2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/MRY-MAS_Merry_Christmas_-_2.jpg",
+      "upload_date": "2025-10-21T15:34:03.961871",
+      "file_size": 261626,
+      "tags": [],
+      "collection_id": 90,
+      "collection_name": "MRY-MAS Merry Christmas",
+      "image_position": 2,
+      "is_main": false
+    }
+  ],
+  "draft": {
+    "collection_id": 90,
+    "title": "SMARTYPANTS Retro Santa Sleigh Christmas Jumper Sweatshirt - Vintage Style Festive Pullover Top for Men and Women - Classic Xmas Holiday Graphic Apparel - Novelty Present Idea for Adults",
+    "description": "Step into the festive season with timeless style in the SMARTYPANTS <b>Retro Santa Sleigh Sweatshirt</b>. This isn't just another Christmas jumper; it's a piece of nostalgic art. The charming soft pastel illustration of Santa and his reindeer flying over a snowy village evokes a warm classic Christmas feeling perfect for those who appreciate a more <b>understated and vintage aesthetic</b>.<br><br>Crafted from a premium cosy cotton blend this pullover provides exceptional comfort and warmth making it ideal for chilly winter days Christmas market strolls or relaxing by the fire. The <b>durable high-quality print</b> ensures the beautiful design remains vibrant for years to come. Whether you're buying it for yourself or as a <b>thoughtful gift</b> for a friend or family member this sweatshirt is the perfect way to celebrate the holidays in comfort and style.",
+    "keywords": "jumper sweater crewneck clothing garment wear fleece mum dad brother sister son daughter friend colleague partner boyfriend girlfriend husband wife unisex secret santa stocking filler gift birthday party work do office celebration family gathering yuletide season winter illustration art artistic pastel colours soft beige sand reindeer father claus st nicholas village snow scene nostalgic traditional cute fun cool stylish cotton blend comfortable cosy warm machine washable durable long",
+    "bullets": [
+      "Charming Retro Design \u2013 Embrace the festive season with this classic Santa and sleigh illustration featuring soft pastel colours for a timeless vintage look perfect for Christmas parties.",
+      "Premium Cotton Blend \u2013 Expertly crafted from a soft and durable cotton blend this jumper offers superior comfort and warmth making it your go-to pullover for the chilly winter months.",
+      "Everyday Winter Comfort \u2013 Designed for easy care this cosy sweatshirt is fully machine washable and built to last ensuring it remains a comfortable and versatile part of your wardrobe.",
+      "Vibrant Lasting Print \u2013 Our high-quality printing process ensures the charming retro graphic retains its vibrant pastel colours and sharp details wash after wash without fading.",
+      "Ideal Festive Gift \u2013 A wonderful Secret Santa present or stocking filler this stylish jumper is perfect for casual wear family gatherings or as a thoughtful gift for a loved one."
+    ],
+    "parent_sku": "MRY-MAS-PARENT",
+    "platform": "smartypants",
+    "handle_colors": [
+      "white"
+    ],
+    "variations": [
+      {
+        "color": "Ecru",
+        "ean": "5063040266305",
+        "lineNumber": 1,
+        "price": "",
+        "size": "S",
+        "sku": "MRY-MAS-JUM-ECR-S-C2400",
+        "title": "Classic Merry Christmas Cartoon Santa Sleigh Scene ECRU JUMPER - S"
+      },
+      {
+        "color": "Ecru",
+        "ean": "5063040266312",
+        "lineNumber": 2,
+        "price": "",
+        "size": "M",
+        "sku": "MRY-MAS-JUM-ECR-M-C2400",
+        "title": "Classic Merry Christmas Cartoon Santa Sleigh Scene ECRU JUMPER - M"
+      },
+      {
+        "color": "Ecru",
+        "ean": "5063040266329",
+        "lineNumber": 3,
+        "price": "",
+        "size": "L",
+        "sku": "MRY-MAS-JUM-ECR-L-C2400",
+        "title": "Classic Merry Christmas Cartoon Santa Sleigh Scene ECRU JUMPER - L"
+      },
+      {
+        "color": "Ecru",
+        "ean": "5063040266336",
+        "lineNumber": 4,
+        "price": "",
+        "size": "XL",
+        "sku": "MRY-MAS-JUM-ECR-XL-C2400",
+        "title": "Classic Merry Christmas Cartoon Santa Sleigh Scene ECRU JUMPER - XL"
+      },
+      {
+        "color": "Ecru",
+        "ean": "5063040266343",
+        "lineNumber": 5,
+        "price": "",
+        "size": "2XL",
+        "sku": "MRY-MAS-JUM-ECR-2XL-C2400",
+        "title": "Classic Merry Christmas Cartoon Santa Sleigh Scene ECRU JUMPER - 2XL"
+      },
+      {
+        "color": "Ecru",
+        "ean": "5063040266350",
+        "lineNumber": 6,
+        "price": "",
+        "size": "3XL",
+        "sku": "MRY-MAS-JUM-ECR-3XL-C2400",
+        "title": "Classic Merry Christmas Cartoon Santa Sleigh Scene ECRU JUMPER - 3XL"
+      }
+    ],
+    "bulk_input": "5063040266305\tClassic Merry Christmas Cartoon Santa Sleigh Scene ECRU JUMPER - S\t\tMRY-MAS-JUM-ECR-S-C2400\n5063040266312\tClassic Merry Christmas Cartoon Santa Sleigh Scene ECRU JUMPER - M\t\tMRY-MAS-JUM-ECR-M-C2400\n5063040266329\tClassic Merry Christmas Cartoon Santa Sleigh Scene ECRU JUMPER - L\t\tMRY-MAS-JUM-ECR-L-C2400\n5063040266336\tClassic Merry Christmas Cartoon Santa Sleigh Scene ECRU JUMPER - XL\t\tMRY-MAS-JUM-ECR-XL-C2400\n5063040266343\tClassic Merry Christmas Cartoon Santa Sleigh Scene ECRU JUMPER - 2XL\t\tMRY-MAS-JUM-ECR-2XL-C2400\n5063040266350\tClassic Merry Christmas Cartoon Santa Sleigh Scene ECRU JUMPER - 3XL\t\tMRY-MAS-JUM-ECR-3XL-C2400",
+    "saved_at": "2025-10-21T15:37:20.620Z"
+  }
+}
