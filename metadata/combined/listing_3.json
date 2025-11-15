@@ -2,10 +2,9 @@
   "listing_id": 3,
   "listing_name": "Oohlive Sweatshirt",
   "count": 4,
-  "enabled": false,
   "images": [
     {
-      "id": 5,
+      "id": 12,
       "filename": "20250905_011229_030759_Floating_4b35.jpg",
       "original_filename": "20250905_011229_030759_Floating_4b35.jpg",
       "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250905_011229_030759_Floating_4b35.jpg",
@@ -19,7 +18,7 @@
       "is_main": true
     },
     {
-      "id": 8,
+      "id": 13,
       "filename": "20250905_011232_847392_Placeit3_4034.jpg",
       "original_filename": "20250905_011232_847392_Placeit3_4034.jpg",
       "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250905_011232_847392_Placeit3_4034.jpg",
@@ -33,7 +32,7 @@
       "is_main": false
     },
     {
-      "id": 6,
+      "id": 14,
       "filename": "20250905_011230_011156_Placeit1_a871.jpg",
       "original_filename": "20250905_011230_011156_Placeit1_a871.jpg",
       "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250905_011230_011156_Placeit1_a871.jpg",
@@ -47,7 +46,7 @@
       "is_main": false
     },
     {
-      "id": 7,
+      "id": 15,
       "filename": "20250905_011231_517356_Placeit2_221c.jpg",
       "original_filename": "20250905_011231_517356_Placeit2_221c.jpg",
       "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/09/20250905_011231_517356_Placeit2_221c.jpg",
@@ -60,5 +59,99 @@
       "image_position": 4,
       "is_main": false
     }
-  ]
+  ],
+  "draft": {
+    "collection_id": 3,
+    "title": "Willow Gifts Spooky Olive Pun Sweatshirt - Funny Halloween Ghost Jumper For Men Women | Retro Trendy Ooh Olive Graphic Pullover | Novelty Autumn Casual Wear Top For Foodie Gift Idea",
+    "description": "Get ready for the spooky season with the unique and hilarious <b>Ooh Olive</b> sweatshirt from Willow Gifts! This charming design features a playful ghost-olive pun that's perfect for Halloween enthusiasts and food lovers alike. The retro-inspired text on the back adds a trendy touch, making it a standout piece in any casual wardrobe.<br><br>Crafted for <b>premium comfort and durability</b>, this cosy pullover is made from a high-quality cotton blend that feels wonderfully soft against the skin. It's the ideal layer for crisp autumn days, whether you're heading to a Halloween party or just enjoying a relaxed weekend. As a <b>perfect gift</b> for friends or family, this sweatshirt is sure to bring a smile and become a seasonal favourite.",
+    "keywords": "sweater crewneck clothing apparel garment long sleeve clothes adult unisex him her boyfriend girlfriend mum dad son daughter friend colleague birthday present christmas secret santa stocking filler joke humour witty sarcastic food lover martini cocktail party costume fancy dress season october 31st trick treat pumpkin patch vintage 70s style cotton blend soft comfortable cosy warm machine washable durable print printed",
+    "bullets": [
+      "Spooky Retro Design \u2013 Embrace the Halloween spirit with this unique 'Ooh Olive' pun jumper, a perfect novelty gift for foodies and fans of witty, retro-inspired fashion.",
+      "Premium Cotton Blend \u2013 Crafted from a soft and durable cotton blend, this sweatshirt offers superior comfort and warmth, making it an essential addition to your autumn wardrobe.",
+      "Everyday Comfort And Care \u2013 Designed for easy living, this cosy pullover is machine washable and built to last, providing effortless style for casual outings or relaxing at home.",
+      "High-Quality Graphic Print \u2013 Features a professionally printed graphic on the front and back with vibrant, fade-resistant inks, ensuring the spooky design stays sharp wash after wash.",
+      "Versatile Autumn Staple \u2013 An ideal layering piece for chilly days, this jumper is perfect for Halloween parties, pumpkin patch visits, or as a thoughtful and funny gift for a friend."
+    ],
+    "parent_sku": "OOH-LIV-JUM-PARENT",
+    "platform": "willow",
+    "handle_colors": [
+      "white"
+    ],
+    "variations": [
+      {
+        "ean": "5063040256139",
+        "title": "Oooohlive Halloween Trendy Doodle Humour Ghost Olive MILITARY GREEN JUMPER - S",
+        "sku": "OOH-LIV-JUM-MIL-S-C2400",
+        "price": "",
+        "color": "Green",
+        "size": "S",
+        "lineNumber": 1
+      },
+      {
+        "ean": "5063040256146",
+        "title": "Oooohlive Halloween Trendy Doodle Humour Ghost Olive MILITARY GREEN JUMPER - M",
+        "sku": "OOH-LIV-JUM-MIL-M-C2400",
+        "price": "",
+        "color": "Green",
+        "size": "M",
+        "lineNumber": 2
+      },
+      {
+        "ean": "5063040256153",
+        "title": "Oooohlive Halloween Trendy Doodle Humour Ghost Olive MILITARY GREEN JUMPER - L",
+        "sku": "OOH-LIV-JUM-MIL-L-C2400",
+        "price": "",
+        "color": "Green",
+        "size": "L",
+        "lineNumber": 3
+      },
+      {
+        "ean": "5063040256160",
+        "title": "Oooohlive Halloween Trendy Doodle Humour Ghost Olive MILITARY GREEN JUMPER - XL",
+        "sku": "OOH-LIV-JUM-MIL-XL-C2400",
+        "price": "",
+        "color": "Green",
+        "size": "XL",
+        "lineNumber": 4
+      },
+      {
+        "ean": "5063040256177",
+        "title": "Oooohlive Halloween Trendy Doodle Humour Ghost Olive MILITARY GREEN JUMPER - 2XL",
+        "sku": "OOH-LIV-JUM-MIL-2XL-C2400",
+        "price": "",
+        "color": "Green",
+        "size": "2XL",
+        "lineNumber": 5
+      },
+      {
+        "ean": "5063040256184",
+        "title": "Oooohlive Halloween Trendy Doodle Humour Ghost Olive MILITARY GREEN JUMPER - 3XL",
+        "sku": "OOH-LIV-JUM-MIL-3XL-C2400",
+        "price": "",
+        "color": "Green",
+        "size": "3XL",
+        "lineNumber": 6
+      },
+      {
+        "ean": "5063040256191",
+        "title": "Oooohlive Halloween Trendy Doodle Humour Ghost Olive MILITARY GREEN JUMPER - 4XL",
+        "sku": "OOH-LIV-JUM-MIL-4XL-C2400",
+        "price": "28.99",
+        "color": "Green",
+        "size": "4XL",
+        "lineNumber": 7
+      },
+      {
+        "ean": "5063040256207",
+        "title": "Oooohlive Halloween Trendy Doodle Humour Ghost Olive MILITARY GREEN JUMPER - 5XL",
+        "sku": "OOH-LIV-JUM-MIL-5XL-C2400",
+        "price": "28.99",
+        "color": "Green",
+        "size": "5XL",
+        "lineNumber": 8
+      }
+    ],
+    "bulk_input": "5063040256139\tOooohlive Halloween Trendy Doodle Humour Ghost Olive MILITARY GREEN JUMPER - S\t\tOOH-LIV-JUM-MIL-S-C2400 \n5063040256146\tOooohlive Halloween Trendy Doodle Humour Ghost Olive MILITARY GREEN JUMPER - M\t\tOOH-LIV-JUM-MIL-M-C2400 \n5063040256153\tOooohlive Halloween Trendy Doodle Humour Ghost Olive MILITARY GREEN JUMPER - L\t\tOOH-LIV-JUM-MIL-L-C2400 \n5063040256160\tOooohlive Halloween Trendy Doodle Humour Ghost Olive MILITARY GREEN JUMPER - XL\t\tOOH-LIV-JUM-MIL-XL-C2400 \n5063040256177\tOooohlive Halloween Trendy Doodle Humour Ghost Olive MILITARY GREEN JUMPER - 2XL\t\tOOH-LIV-JUM-MIL-2XL-C2400 \n5063040256184\tOooohlive Halloween Trendy Doodle Humour Ghost Olive MILITARY GREEN JUMPER - 3XL\t\tOOH-LIV-JUM-MIL-3XL-C2400 \n5063040256191\tOooohlive Halloween Trendy Doodle Humour Ghost Olive MILITARY GREEN JUMPER - 4XL\t\tOOH-LIV-JUM-MIL-4XL-C2400 \n5063040256207\tOooohlive Halloween Trendy Doodle Humour Ghost Olive MILITARY GREEN JUMPER - 5XL\t\tOOH-LIV-JUM-MIL-5XL-C2400 ",
+    "saved_at": "2025-10-19T21:47:27.576Z"
+  }
 }
