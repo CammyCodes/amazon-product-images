@@ -1,6 +1,6 @@
 {
   "listing_id": 18,
-  "listing_name": "DIY Express Mail",
+  "listing_name": "DIY-DER Express Mail",
   "count": 6,
   "images": [
     {
@@ -13,7 +13,7 @@
       "file_size": 277280,
       "tags": [],
       "collection_id": 18,
-      "collection_name": "DIY Express Mail",
+      "collection_name": "DIY-DER Express Mail",
       "image_position": 6,
       "is_main": true
     },
@@ -27,7 +27,7 @@
       "file_size": 178783,
       "tags": [],
       "collection_id": 18,
-      "collection_name": "DIY Express Mail",
+      "collection_name": "DIY-DER Express Mail",
       "image_position": 3,
       "is_main": false
     },
@@ -41,7 +41,7 @@
       "file_size": 262587,
       "tags": [],
       "collection_id": 18,
-      "collection_name": "DIY Express Mail",
+      "collection_name": "DIY-DER Express Mail",
       "image_position": 7,
       "is_main": false
     },
@@ -55,7 +55,7 @@
       "file_size": 221758,
       "tags": [],
       "collection_id": 18,
-      "collection_name": "DIY Express Mail",
+      "collection_name": "DIY-DER Express Mail",
       "image_position": 7,
       "is_main": false
     },
@@ -69,7 +69,7 @@
       "file_size": 256268,
       "tags": [],
       "collection_id": 18,
-      "collection_name": "DIY Express Mail",
+      "collection_name": "DIY-DER Express Mail",
       "image_position": 10,
       "is_main": false
     },
@@ -83,7 +83,7 @@
       "file_size": 336099,
       "tags": [],
       "collection_id": 18,
-      "collection_name": "DIY Express Mail",
+      "collection_name": "DIY-DER Express Mail",
       "image_position": 11,
       "is_main": false
     }
@@ -107,15 +107,15 @@
     ],
     "variations": [
       {
-        "color": "Unknown",
+        "color": "Natural",
         "ean": "5056634372551",
         "lineNumber": 1,
-        "size": "N/A",
+        "size": "Large",
         "sku": "DIY-SER-SAN-NAT",
         "title": "Diy Express Mail Service Name NATURAL SANTA SACK"
       }
     ],
     "bulk_input": "5056634372551\t\tDiy Express Mail Service Name NATURAL SANTA SACK\t\tDIY-SER-SAN-NAT",
-    "saved_at": "2025-10-15T17:23:34.913Z"
+    "saved_at": "2025-10-20T12:45:39.593Z"
   }
 }
