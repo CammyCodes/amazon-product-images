@@ -1,0 +1,94 @@
+{
+  "listing_id": 109,
+  "listing_name": "PAW-OFF Paws off - Small Santa Sack",
+  "count": 4,
+  "images": [
+    {
+      "id": 477,
+      "filename": "PAW-OFF_Paws_off_-_Small_Santa_Sack_-_Main.jpg",
+      "original_filename": "PAW-OFF Paws off - Small Santa Sack - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/PAW-OFF_Paws_off_-_Small_Santa_Sack_-_Main.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/PAW-OFF_Paws_off_-_Small_Santa_Sack_-_Main.jpg",
+      "upload_date": "2025-10-24T14:51:53.889439",
+      "file_size": 275088,
+      "tags": [],
+      "collection_id": 109,
+      "collection_name": "PAW-OFF Paws off - Small Santa Sack",
+      "image_position": 1,
+      "is_main": true
+    },
+    {
+      "id": 478,
+      "filename": "PAW-OFF_Paws_off_-_Small_Santa_Sack_-_Main-1.jpg",
+      "original_filename": "PAW-OFF Paws off - Small Santa Sack - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/PAW-OFF_Paws_off_-_Small_Santa_Sack_-_Main-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/PAW-OFF_Paws_off_-_Small_Santa_Sack_-_Main-1.jpg",
+      "upload_date": "2025-10-24T14:51:55.252502",
+      "file_size": 39532,
+      "tags": [],
+      "collection_id": 109,
+      "collection_name": "PAW-OFF Paws off - Small Santa Sack",
+      "image_position": 1,
+      "is_main": false
+    },
+    {
+      "id": 480,
+      "filename": "PAW-OFF_Paws_off_-_Small_Santa_Sack_-_2-1.jpg",
+      "original_filename": "PAW-OFF Paws off - Small Santa Sack - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/PAW-OFF_Paws_off_-_Small_Santa_Sack_-_2-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/PAW-OFF_Paws_off_-_Small_Santa_Sack_-_2-1.jpg",
+      "upload_date": "2025-10-24T14:51:58.494097",
+      "file_size": 371841,
+      "tags": [],
+      "collection_id": 109,
+      "collection_name": "PAW-OFF Paws off - Small Santa Sack",
+      "image_position": 2,
+      "is_main": false
+    },
+    {
+      "id": 479,
+      "filename": "PAW-OFF_Paws_off_-_Small_Santa_Sack_-_2.jpg",
+      "original_filename": "PAW-OFF Paws off - Small Santa Sack - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/PAW-OFF_Paws_off_-_Small_Santa_Sack_-_2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/PAW-OFF_Paws_off_-_Small_Santa_Sack_-_2.jpg",
+      "upload_date": "2025-10-24T14:51:56.504097",
+      "file_size": 434938,
+      "tags": [],
+      "collection_id": 109,
+      "collection_name": "PAW-OFF Paws off - Small Santa Sack",
+      "image_position": 2,
+      "is_main": false
+    }
+  ],
+  "draft": {
+    "collection_id": 109,
+    "title": "SMARTYPANTS Paws Off Ugly Christmas Sweater Santa Sack - Funny Pet Dog Cat Present Bag For Festive Holiday Gifts - Small Reusable Xmas Sack For Animal Lovers And Family Fun",
+    "description": "Give your furry friend the spotlight they deserve this Christmas! Our <b>\"Paws Off\" Santa Sack</b> is the perfect blend of festive cheer and playful humour designed especially for pet owners. Styled like a classic ugly Christmas sweater this sack sends a clear message to any snooping humans.<br><br>Made from high-quality durable hessian it's not just a novelty item but a <b>practical and reusable</b> alternative to traditional wrapping paper. The generous size and secure drawstring make it ideal for stuffing with toys treats and all the other goodies your beloved pet is hoping for. Make this holiday season <b>unforgettable for the whole family</b> \u2013 pets included!",
+    "keywords": "holder container pouch tote wrapping decoration storage owner mum dad parent men women kids children boy girl colleague friend secret stocking filler birthday idea novelty joke humorous hilarious sarcastic nordic fair isle pattern design keep out warning sign puppy kitten canine feline four legged companion eco-friendly sustainable fabric drawstring natural jute burlap personalised custom presents decorations home decor under tree fireside accessory",
+    "bullets": [
+      "Funny Pet Gift \u2013 A hilarious \"Paws Off\" design in a classic ugly sweater style makes this the perfect way to wrap presents for a beloved dog or cat this Christmas.",
+      "Premium Hessian Fabric \u2013 Crafted from durable and high-quality hessian material with a sturdy drawstring closure to keep all your special treats and toys secure.",
+      "Spacious And Eco-Friendly \u2013 Generously sized to hold plenty of presents and completely reusable year after year making it a charming and sustainable choice.",
+      "Vibrant Festive Print \u2013 Features a high-definition print with rich red and green colours that won't fade ensuring it looks great under the tree every single year.",
+      "Versatile Holiday Essential \u2013 Ideal for wrapping pet gifts but also serves as a wonderful festive decoration or a unique storage solution for holiday accessories."
+    ],
+    "parent_sku": "PAW-OFF-PARENT",
+    "platform": "smartypants",
+    "handle_colors": [
+      "white"
+    ],
+    "variations": [
+      {
+        "ean": "5063040256023",
+        "title": "Paws Off Christmas Ugly Jumper Pattern Dog NATURAL SANTA SACK - SMALL",
+        "sku": "PAW-OFF-SAN-NAT-S",
+        "price": "",
+        "color": "Natural",
+        "size": "S",
+        "lineNumber": 1
+      }
+    ],
+    "bulk_input": "5063040256023\tPaws Off Christmas Ugly Jumper Pattern Dog NATURAL SANTA SACK - SMALL\t\tPAW-OFF-SAN-NAT-S",
+    "saved_at": "2025-10-24T14:55:00.869Z"
+  }
+}
