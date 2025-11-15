@@ -1,0 +1,157 @@
+{
+  "listing_id": 85,
+  "listing_name": "FRA-HOM Frankenstein Homer - Black Hoodie",
+  "count": 4,
+  "images": [
+    {
+      "id": 380,
+      "filename": "FRA-HOM_Frankenstein_Homer_-_Main.jpg",
+      "original_filename": "FRA-HOM Frankenstein Homer - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/FRA-HOM_Frankenstein_Homer_-_Main.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/FRA-HOM_Frankenstein_Homer_-_Main.jpg",
+      "upload_date": "2025-10-21T13:05:05.877186",
+      "file_size": 169798,
+      "tags": [],
+      "collection_id": 85,
+      "collection_name": "FRA-HOM Frankenstein Homer - Black Hoodie",
+      "image_position": 1,
+      "is_main": true
+    },
+    {
+      "id": 381,
+      "filename": "FRA-HOM_Frankenstein_Homer_-_Main-1.jpg",
+      "original_filename": "FRA-HOM Frankenstein Homer - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/FRA-HOM_Frankenstein_Homer_-_Main-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/FRA-HOM_Frankenstein_Homer_-_Main-1.jpg",
+      "upload_date": "2025-10-21T13:05:08.044125",
+      "file_size": 236932,
+      "tags": [],
+      "collection_id": 85,
+      "collection_name": "FRA-HOM Frankenstein Homer - Black Hoodie",
+      "image_position": 1,
+      "is_main": false
+    },
+    {
+      "id": 383,
+      "filename": "FRA-HOM_Frankenstein_Homer_-_2-1.jpg",
+      "original_filename": "FRA-HOM Frankenstein Homer - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/FRA-HOM_Frankenstein_Homer_-_2-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/FRA-HOM_Frankenstein_Homer_-_2-1.jpg",
+      "upload_date": "2025-10-21T13:05:09.820960",
+      "file_size": 281965,
+      "tags": [],
+      "collection_id": 85,
+      "collection_name": "FRA-HOM Frankenstein Homer - Black Hoodie",
+      "image_position": 2,
+      "is_main": false
+    },
+    {
+      "id": 382,
+      "filename": "FRA-HOM_Frankenstein_Homer_-_2.jpg",
+      "original_filename": "FRA-HOM Frankenstein Homer - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/FRA-HOM_Frankenstein_Homer_-_2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/FRA-HOM_Frankenstein_Homer_-_2.jpg",
+      "upload_date": "2025-10-21T13:05:08.967102",
+      "file_size": 281288,
+      "tags": [],
+      "collection_id": 85,
+      "collection_name": "FRA-HOM Frankenstein Homer - Black Hoodie",
+      "image_position": 2,
+      "is_main": false
+    }
+  ],
+  "draft": {
+    "collection_id": 85,
+    "title": "Willow Gifts Frankenstein Couch Potato Hoodie - Funny Monster Parody Slogan Jumper Created In A Lab Perfected On The Couch Pullover For Men Women Novelty Halloween Birthday Gift Idea For Him Homer",
+    "description": "Unleash your inner monster of relaxation with this hilarious parody hoodie from Willow Gifts. Featuring a <b>Frankenstein-inspired cartoon character</b> and the witty slogan 'Created in a lab Perfected on the couch' this design is a guaranteed conversation starter.<br><br>Made for <b>ultimate comfort</b> this hooded sweatshirt is crafted from a premium quality cotton blend fleece that feels incredibly soft and warm. It\u2019s the perfect companion for movie marathons gaming sessions or simply embracing your couch potato status. The high-quality print ensures the <b>vibrant and spooky design</b> remains sharp wash after wash.<br><br>Looking for a unique and funny present? This hoodie is the <b>perfect gift</b> for the man in your life with a great sense of humour. Ideal for birthdays Christmas or as a standout piece for a Halloween party.",
+    "keywords": "sweatshirt top fleece apparel clothing garment hooded top casual wear loungewear adult unisex dad mum brother sister son friend colleague boyfriend husband gamer geek nerd christmas present secret santa stocking filler fathers day mothers day anniversary leaving work joke humour sarcastic lazy horror movie classic cartoon animation tv show blood stained spooky scary creepy zombie undead laboratory experiment couchpotato relax chill black warm comfort cosy quality durable print graphic",
+    "bullets": [
+      "Hilarious Monster Parody \u2013 This hoodie features a funny pop culture parody of Frankenstein's monster with the slogan 'Created in a lab Perfected on the couch' for a great laugh.",
+      "Premium Cosy Materials \u2013 Expertly crafted from a soft and durable cotton blend fleece with premium construction including ribbed cuffs and a front pouch pocket for comfort.",
+      "Practical Everyday Wear \u2013 Designed for ultimate relaxation and convenience this warm and comfortable hooded top is fully machine washable and built to last through many lazy days.",
+      "Vibrant Graphic Print \u2013 Uses advanced printing technology to ensure the blood-stained text and detailed character graphic are sharp vibrant and resistant to fading over time.",
+      "Perfect Novelty Present \u2013 An ideal gift for a boyfriend husband or friend who loves humour and lounging making it a fantastic choice for birthdays Christmas or Halloween."
+    ],
+    "parent_sku": "FRA-HOM-PARENT",
+    "platform": "willow",
+    "handle_colors": [
+      "white"
+    ],
+    "variations": [
+      {
+        "ean": "5063040258867",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid BLACK HOODIE - S",
+        "sku": "FRA-HOM-HDI-BLK-S-C2200",
+        "price": "",
+        "color": "Black",
+        "size": "S",
+        "lineNumber": 1
+      },
+      {
+        "ean": "5063040258874",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid BLACK HOODIE - M",
+        "sku": "FRA-HOM-HDI-BLK-M",
+        "price": "",
+        "color": "Black",
+        "size": "M",
+        "lineNumber": 2
+      },
+      {
+        "ean": "5063040258881",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid BLACK HOODIE - L",
+        "sku": "FRA-HOM-HDI-BLK-L",
+        "price": "",
+        "color": "Black",
+        "size": "L",
+        "lineNumber": 3
+      },
+      {
+        "ean": "5063040258898",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid BLACK HOODIE - XL",
+        "sku": "FRA-HOM-HDI-BLK-XL",
+        "price": "",
+        "color": "Black",
+        "size": "XL",
+        "lineNumber": 4
+      },
+      {
+        "ean": "5063040258904",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid BLACK HOODIE - 2XL",
+        "sku": "FRA-HOM-HDI-BLK-2XL",
+        "price": "",
+        "color": "Black",
+        "size": "2XL",
+        "lineNumber": 5
+      },
+      {
+        "ean": "5063040258911",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid BLACK HOODIE - 3XL",
+        "sku": "FRA-HOM-HDI-BLK-3XL",
+        "price": "",
+        "color": "Black",
+        "size": "3XL",
+        "lineNumber": 6
+      },
+      {
+        "ean": "5063040258928",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid BLACK HOODIE - 4XL",
+        "sku": "FRA-HOM-HDI-BLK-4XL",
+        "price": "",
+        "color": "Black",
+        "size": "4XL",
+        "lineNumber": 7
+      },
+      {
+        "ean": "5063040258935",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid BLACK HOODIE - 5XL",
+        "sku": "FRA-HOM-HDI-BLK-5XL",
+        "price": "",
+        "color": "Black",
+        "size": "5XL",
+        "lineNumber": 8
+      }
+    ],
+    "bulk_input": "5063040258867\tStitched-up, Dopey Monster-dad Hybrid BLACK HOODIE - S\t\tFRA-HOM-HDI-BLK-S-C2200\n5063040258874\tStitched-up, Dopey Monster-dad Hybrid BLACK HOODIE - M\t\tFRA-HOM-HDI-BLK-M\n5063040258881\tStitched-up, Dopey Monster-dad Hybrid BLACK HOODIE - L\t\tFRA-HOM-HDI-BLK-L\n5063040258898\tStitched-up, Dopey Monster-dad Hybrid BLACK HOODIE - XL\t\tFRA-HOM-HDI-BLK-XL\n5063040258904\tStitched-up, Dopey Monster-dad Hybrid BLACK HOODIE - 2XL\t\tFRA-HOM-HDI-BLK-2XL\n5063040258911\tStitched-up, Dopey Monster-dad Hybrid BLACK HOODIE - 3XL\t\tFRA-HOM-HDI-BLK-3XL\n5063040258928\tStitched-up, Dopey Monster-dad Hybrid BLACK HOODIE - 4XL\t\tFRA-HOM-HDI-BLK-4XL\n5063040258935\tStitched-up, Dopey Monster-dad Hybrid BLACK HOODIE - 5XL\t\tFRA-HOM-HDI-BLK-5XL",
+    "saved_at": "2025-10-21T13:10:11.687Z"
+  }
+}
