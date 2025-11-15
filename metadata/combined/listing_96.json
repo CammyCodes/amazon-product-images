@@ -1,0 +1,193 @@
+{
+  "listing_id": 96,
+  "listing_name": "PKN-CRW Pumpkin crew - Sweatshirt Military Green",
+  "count": 4,
+  "images": [
+    {
+      "id": 420,
+      "filename": "PKN-CRW_Pumpkin_crew_-_Main.jpg",
+      "original_filename": "PKN-CRW Pumpkin crew - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/PKN-CRW_Pumpkin_crew_-_Main.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/PKN-CRW_Pumpkin_crew_-_Main.jpg",
+      "upload_date": "2025-10-21T16:10:14.159463",
+      "file_size": 212850,
+      "tags": [],
+      "collection_id": 96,
+      "collection_name": "PKN-CRW Pumpkin crew - Sweatshirt Military Green",
+      "image_position": 1,
+      "is_main": true
+    },
+    {
+      "id": 421,
+      "filename": "PKN-CRW_Pumpkin_crew_-_Main-1.jpg",
+      "original_filename": "PKN-CRW Pumpkin crew - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/PKN-CRW_Pumpkin_crew_-_Main-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/PKN-CRW_Pumpkin_crew_-_Main-1.jpg",
+      "upload_date": "2025-10-21T16:10:16.229126",
+      "file_size": 407441,
+      "tags": [],
+      "collection_id": 96,
+      "collection_name": "PKN-CRW Pumpkin crew - Sweatshirt Military Green",
+      "image_position": 1,
+      "is_main": false
+    },
+    {
+      "id": 423,
+      "filename": "PKN-CRW_Pumpkin_crew_-_2-1.jpg",
+      "original_filename": "PKN-CRW Pumpkin crew - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/PKN-CRW_Pumpkin_crew_-_2-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/PKN-CRW_Pumpkin_crew_-_2-1.jpg",
+      "upload_date": "2025-10-21T16:10:18.556280",
+      "file_size": 405314,
+      "tags": [],
+      "collection_id": 96,
+      "collection_name": "PKN-CRW Pumpkin crew - Sweatshirt Military Green",
+      "image_position": 2,
+      "is_main": false
+    },
+    {
+      "id": 422,
+      "filename": "PKN-CRW_Pumpkin_crew_-_2.jpg",
+      "original_filename": "PKN-CRW Pumpkin crew - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/PKN-CRW_Pumpkin_crew_-_2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/PKN-CRW_Pumpkin_crew_-_2.jpg",
+      "upload_date": "2025-10-21T16:10:16.913454",
+      "file_size": 793348,
+      "tags": [],
+      "collection_id": 96,
+      "collection_name": "PKN-CRW Pumpkin crew - Sweatshirt Military Green",
+      "image_position": 2,
+      "is_main": false
+    }
+  ],
+  "draft": {
+    "collection_id": 96,
+    "title": "SMARTYPANTS Premium Design Sweatshirt - Comfortable Cotton Blend Perfect Gift for Fashion Lovers Casual Wear Daily Style Clothing Apparel",
+    "description": "Elevate your casual wardrobe with this thoughtfully designed sweatshirt that combines comfort with distinctive style. Whether you're layering for different seasons, relaxing at home, or creating effortless casual looks, this sweatshirt delivers both comfort and personality. The premium cotton blend ensures breathability whilst the quality fit provides all-day comfort.",
+    "keywords": "sweatshirt pullover clothing apparel casual wear gift present birthday fashion style comfortable unisex adult cotton blend machine washable fade resistant printed design unique special occasion daily wear soft versatile layering",
+    "bullets": [
+      "Perfect gift for comfort enthusiasts who appreciate versatile, stylish clothing and unique designs for birthdays, celebrations, or any special occasion.",
+      "Premium cotton blend construction with soft interior, featuring quality stitching that maintains its shape through countless washes and regular wear.",
+      "Machine washable for ultimate convenience with fade-resistant printing that maintains vibrant colours and design integrity over time with regular use.",
+      "Professional printing technology ensures crisp, long-lasting graphics that won't crack, peel, or deteriorate even after extended washing cycles.",
+      "Available in multiple sizes with comfortable unisex fit, perfect for layering, casual wear, gifts, or everyday comfort and versatile styling."
+    ],
+    "parent_sku": "PKN-CRW-PARENT",
+    "platform": "smartypants",
+    "handle_colors": [
+      "white"
+    ],
+    "variations": [
+      {
+        "color": "Green",
+        "ean": "5063040262772",
+        "lineNumber": 1,
+        "price": "",
+        "size": "S",
+        "sku": "PKN-CRW-JUM-MIL-S",
+        "title": "Halloween Family Pumpkin Picking Cartoon Jack-o-lantern Family MILITARY GREEN JUMPER - S"
+      },
+      {
+        "color": "Green",
+        "ean": "5063040262789",
+        "lineNumber": 2,
+        "price": "",
+        "size": "M",
+        "sku": "PKN-CRW-JUM-MIL-M",
+        "title": "Halloween Family Pumpkin Picking Cartoon Jack-o-lantern Family MILITARY GREEN JUMPER - M"
+      },
+      {
+        "color": "Green",
+        "ean": "5063040262796",
+        "lineNumber": 3,
+        "price": "",
+        "size": "L",
+        "sku": "PKN-CRW-JUM-MIL-L",
+        "title": "Halloween Family Pumpkin Picking Cartoon Jack-o-lantern Family MILITARY GREEN JUMPER - L"
+      },
+      {
+        "color": "Green",
+        "ean": "5063040262802",
+        "lineNumber": 4,
+        "price": "",
+        "size": "XL",
+        "sku": "PKN-CRW-JUM-MIL-XL",
+        "title": "Halloween Family Pumpkin Picking Cartoon Jack-o-lantern Family MILITARY GREEN JUMPER - XL"
+      },
+      {
+        "color": "Green",
+        "ean": "5063040262819",
+        "lineNumber": 5,
+        "price": "",
+        "size": "2XL",
+        "sku": "PKN-CRW-JUM-MIL-2XL",
+        "title": "Halloween Family Pumpkin Picking Cartoon Jack-o-lantern Family MILITARY GREEN JUMPER - 2XL"
+      },
+      {
+        "color": "Green",
+        "ean": "5063040262826",
+        "lineNumber": 6,
+        "price": "",
+        "size": "3XL",
+        "sku": "PKN-CRW-JUM-MIL-3XL",
+        "title": "Halloween Family Pumpkin Picking Cartoon Jack-o-lantern Family MILITARY GREEN JUMPER - 3XL"
+      },
+      {
+        "color": "Green",
+        "ean": "5063040262833",
+        "lineNumber": 7,
+        "price": "",
+        "size": "1-2Y",
+        "sku": "PKN-CRW-JUM-MIL-1-2Y",
+        "title": "Halloween Family Pumpkin Picking Cartoon Jack-o-lantern Family MILITARY GREEN JUMPER - 1-2Y"
+      },
+      {
+        "color": "Green",
+        "ean": "5063040262840",
+        "lineNumber": 8,
+        "price": "",
+        "size": "3-4Y",
+        "sku": "PKN-CRW-JUM-MIL-3-4Y",
+        "title": "Halloween Family Pumpkin Picking Cartoon Jack-o-lantern Family MILITARY GREEN JUMPER - 3-4Y"
+      },
+      {
+        "color": "Green",
+        "ean": "5063040262857",
+        "lineNumber": 9,
+        "price": "",
+        "size": "5-6Y",
+        "sku": "PKN-CRW-JUM-MIL-5-6Y",
+        "title": "Halloween Family Pumpkin Picking Cartoon Jack-o-lantern Family MILITARY GREEN JUMPER - 5-6Y"
+      },
+      {
+        "color": "Green",
+        "ean": "5063040262864",
+        "lineNumber": 10,
+        "price": "",
+        "size": "7-8Y",
+        "sku": "PKN-CRW-JUM-MIL-7-8Y",
+        "title": "Halloween Family Pumpkin Picking Cartoon Jack-o-lantern Family MILITARY GREEN JUMPER - 7-8Y"
+      },
+      {
+        "color": "Green",
+        "ean": "5063040262871",
+        "lineNumber": 11,
+        "price": "",
+        "size": "9-11Y",
+        "sku": "PKN-CRW-JUM-MIL-9-11Y",
+        "title": "Halloween Family Pumpkin Picking Cartoon Jack-o-lantern Family MILITARY GREEN JUMPER - 9-11Y"
+      },
+      {
+        "color": "Green",
+        "ean": "5063040262888",
+        "lineNumber": 12,
+        "price": "",
+        "size": "12-14Y",
+        "sku": "PKN-CRW-JUM-MIL-12-14Y",
+        "title": "Halloween Family Pumpkin Picking Cartoon Jack-o-lantern Family MILITARY GREEN JUMPER - 12-14Y"
+      }
+    ],
+    "bulk_input": "5063040262772\tHalloween Family Pumpkin Picking Cartoon Jack-o-lantern Family MILITARY GREEN JUMPER - S\t\tPKN-CRW-JUM-MIL-S\n5063040262789\tHalloween Family Pumpkin Picking Cartoon Jack-o-lantern Family MILITARY GREEN JUMPER - M\t\tPKN-CRW-JUM-MIL-M\n5063040262796\tHalloween Family Pumpkin Picking Cartoon Jack-o-lantern Family MILITARY GREEN JUMPER - L\t\tPKN-CRW-JUM-MIL-L\n5063040262802\tHalloween Family Pumpkin Picking Cartoon Jack-o-lantern Family MILITARY GREEN JUMPER - XL\t\tPKN-CRW-JUM-MIL-XL\n5063040262819\tHalloween Family Pumpkin Picking Cartoon Jack-o-lantern Family MILITARY GREEN JUMPER - 2XL\t\tPKN-CRW-JUM-MIL-2XL\n5063040262826\tHalloween Family Pumpkin Picking Cartoon Jack-o-lantern Family MILITARY GREEN JUMPER - 3XL\t\tPKN-CRW-JUM-MIL-3XL\n5063040262833\tHalloween Family Pumpkin Picking Cartoon Jack-o-lantern Family MILITARY GREEN JUMPER - 1-2Y\t\tPKN-CRW-JUM-MIL-1-2Y\n5063040262840\tHalloween Family Pumpkin Picking Cartoon Jack-o-lantern Family MILITARY GREEN JUMPER - 3-4Y\t\tPKN-CRW-JUM-MIL-3-4Y\n5063040262857\tHalloween Family Pumpkin Picking Cartoon Jack-o-lantern Family MILITARY GREEN JUMPER - 5-6Y\t\tPKN-CRW-JUM-MIL-5-6Y\n5063040262864\tHalloween Family Pumpkin Picking Cartoon Jack-o-lantern Family MILITARY GREEN JUMPER - 7-8Y\t\tPKN-CRW-JUM-MIL-7-8Y\n5063040262871\tHalloween Family Pumpkin Picking Cartoon Jack-o-lantern Family MILITARY GREEN JUMPER - 9-11Y\t\tPKN-CRW-JUM-MIL-9-11Y\n5063040262888\tHalloween Family Pumpkin Picking Cartoon Jack-o-lantern Family MILITARY GREEN JUMPER - 12-14Y\t\tPKN-CRW-JUM-MIL-12-14Y",
+    "saved_at": "2025-10-21T16:21:03.892Z"
+  }
+}
