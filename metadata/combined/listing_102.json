@@ -1,0 +1,357 @@
+{
+  "listing_id": 102,
+  "listing_name": "MRS-CLA Mrs Claus Bakery",
+  "count": 8,
+  "images": [
+    {
+      "id": 449,
+      "filename": "MRS-CLA_Mrs_Claus_Bakery_-_3.jpg",
+      "original_filename": "MRS-CLA Mrs Claus Bakery - 3",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/MRS-CLA_Mrs_Claus_Bakery_-_3.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/MRS-CLA_Mrs_Claus_Bakery_-_3.jpg",
+      "upload_date": "2025-10-24T14:05:26.806668",
+      "file_size": 358270,
+      "tags": [],
+      "collection_id": 102,
+      "collection_name": "MRS-CLA Mrs Claus Bakery",
+      "image_position": 1,
+      "is_main": true
+    },
+    {
+      "id": 445,
+      "filename": "MRS-CLA_Mrs_Claus_Bakery_-_Main.jpg",
+      "original_filename": "MRS-CLA Mrs Claus Bakery - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/MRS-CLA_Mrs_Claus_Bakery_-_Main.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/MRS-CLA_Mrs_Claus_Bakery_-_Main.jpg",
+      "upload_date": "2025-10-24T14:01:15.642212",
+      "file_size": 363450,
+      "tags": [],
+      "collection_id": 102,
+      "collection_name": "MRS-CLA Mrs Claus Bakery",
+      "image_position": 2,
+      "is_main": false
+    },
+    {
+      "id": 446,
+      "filename": "MRS-CLA_Mrs_Claus_Bakery_-_Main-1.jpg",
+      "original_filename": "MRS-CLA Mrs Claus Bakery - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/MRS-CLA_Mrs_Claus_Bakery_-_Main-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/MRS-CLA_Mrs_Claus_Bakery_-_Main-1.jpg",
+      "upload_date": "2025-10-24T14:01:17.477621",
+      "file_size": 388330,
+      "tags": [],
+      "collection_id": 102,
+      "collection_name": "MRS-CLA Mrs Claus Bakery",
+      "image_position": 3,
+      "is_main": false
+    },
+    {
+      "id": 448,
+      "filename": "MRS-CLA_Mrs_Claus_Bakery_-_2-1.jpg",
+      "original_filename": "MRS-CLA Mrs Claus Bakery - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/MRS-CLA_Mrs_Claus_Bakery_-_2-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/MRS-CLA_Mrs_Claus_Bakery_-_2-1.jpg",
+      "upload_date": "2025-10-24T14:01:20.285846",
+      "file_size": 423110,
+      "tags": [],
+      "collection_id": 102,
+      "collection_name": "MRS-CLA Mrs Claus Bakery",
+      "image_position": 4,
+      "is_main": false
+    },
+    {
+      "id": 447,
+      "filename": "MRS-CLA_Mrs_Claus_Bakery_-_2.jpg",
+      "original_filename": "MRS-CLA Mrs Claus Bakery - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/MRS-CLA_Mrs_Claus_Bakery_-_2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/MRS-CLA_Mrs_Claus_Bakery_-_2.jpg",
+      "upload_date": "2025-10-24T14:01:18.199287",
+      "file_size": 470569,
+      "tags": [],
+      "collection_id": 102,
+      "collection_name": "MRS-CLA Mrs Claus Bakery",
+      "image_position": 5,
+      "is_main": false
+    },
+    {
+      "id": 450,
+      "filename": "MRS-CLA_Mrs_Claus_Bakery_-_3-1.jpg",
+      "original_filename": "MRS-CLA Mrs Claus Bakery - 3",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/MRS-CLA_Mrs_Claus_Bakery_-_3-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/MRS-CLA_Mrs_Claus_Bakery_-_3-1.jpg",
+      "upload_date": "2025-10-24T14:05:28.558512",
+      "file_size": 421261,
+      "tags": [],
+      "collection_id": 102,
+      "collection_name": "MRS-CLA Mrs Claus Bakery",
+      "image_position": 6,
+      "is_main": false
+    },
+    {
+      "id": 452,
+      "filename": "MRS-CLA_Mrs_Claus_Bakery_-_4-1.jpg",
+      "original_filename": "MRS-CLA Mrs Claus Bakery - 4",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/MRS-CLA_Mrs_Claus_Bakery_-_4-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/MRS-CLA_Mrs_Claus_Bakery_-_4-1.jpg",
+      "upload_date": "2025-10-24T14:05:31.261878",
+      "file_size": 452609,
+      "tags": [],
+      "collection_id": 102,
+      "collection_name": "MRS-CLA Mrs Claus Bakery",
+      "image_position": 7,
+      "is_main": false
+    },
+    {
+      "id": 451,
+      "filename": "MRS-CLA_Mrs_Claus_Bakery_-_4.jpg",
+      "original_filename": "MRS-CLA Mrs Claus Bakery - 4",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/MRS-CLA_Mrs_Claus_Bakery_-_4.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/MRS-CLA_Mrs_Claus_Bakery_-_4.jpg",
+      "upload_date": "2025-10-24T14:05:29.083906",
+      "file_size": 490211,
+      "tags": [],
+      "collection_id": 102,
+      "collection_name": "MRS-CLA Mrs Claus Bakery",
+      "image_position": 8,
+      "is_main": false
+    }
+  ],
+  "draft": {
+    "collection_id": 102,
+    "title": "SMARTYPANTS Mrs Claus Christmas Bakery Sweatshirt - Festive North Pole Jumper for Family Baking Gingerbread Fun - Cosy Unisex Women Men Kids Xmas Top Gift Idea for Mum Wife Grandma Present",
+    "description": "Get into the festive spirit with the <b>SMARTYPANTS Mrs Claus' Christmas Bakery Sweatshirt</b>. This charming and cosy jumper is the perfect attire for all your seasonal activities from family baking days filled with gingerbread and joy to relaxing by the fire. The classic design evokes a wonderful sense of nostalgia making it a delightful choice for <b>Christmas Jumper Day</b> or for creating adorable matching family photos.<br><br>Crafted for comfort and durability this sweatshirt is made from a <b>premium soft cotton blend</b> that feels wonderful against the skin. It's not just a novelty item; it's a high-quality piece of casual wear that you'll want to live in all winter. The professional print is designed to last ensuring the <b>North Pole magic</b> doesn't fade away. It makes a wonderful and thoughtful gift for the baker in your life whether that's your mum wife grandma or a dear friend.",
+    "keywords": "pullover sweater clothing apparel garment casual wear comfort warm fleece adult children boys girls mother daughter sister aunt friend colleague her him father dad son brother uncle secret santa stocking filler birthday holiday eve party office work matching outfits photo shoot bake cook cookie chef kitchen food foodie winter season seasonal novelty funny cute traditional vintage retro graphic print printed cotton blend long sleeve crew neck top quality premium soft durable machine",
+    "bullets": [
+      "Festive Family Fun \u2013 Embrace the magic of the season with this charming Mrs Claus' Bakery design perfect for family baking sessions Christmas Jumper Day or as a thoughtful gift for mum.",
+      "Cosy Cotton Blend \u2013 Expertly crafted from a premium soft cotton blend this jumper offers superior comfort and warmth making it your go-to cosy layer for the entire festive period.",
+      "Everyday Winter Wear \u2013 Designed for real life this durable sweatshirt is fully machine washable and holds its shape and feel making it a practical and versatile choice for all your winter activities.",
+      "Lasting Festive Print \u2013 Featuring a high-quality print with crisp white detailing that resists fading ensuring your festive jumper looks wonderful year after year through every wash and wear.",
+      "The Perfect Xmas Gift \u2013 An ideal stocking filler or Secret Santa present this unisex pullover is perfect for creating matching family outfits for photos or simply enjoying a cosy night in."
+    ],
+    "parent_sku": "MRS-CLA-PARENT",
+    "platform": "smartypants",
+    "handle_colors": [
+      "white"
+    ],
+    "variations": [
+      {
+        "ean": "5063040267487",
+        "title": "Mrs Claus' Christmas Bakery Family Festive Activity Hobby FOREST GREEN JUMPER - S",
+        "sku": "MRS-CLA-JUM-FOR-S-C2400",
+        "price": "",
+        "color": "Forest Green",
+        "size": "S",
+        "lineNumber": 1
+      },
+      {
+        "ean": "5063040267494",
+        "title": "Mrs Claus' Christmas Bakery Family Festive Activity Hobby FOREST GREEN JUMPER - M",
+        "sku": "MRS-CLA-JUM-FOR-M-C2400",
+        "price": "",
+        "color": "Forest Green",
+        "size": "M",
+        "lineNumber": 2
+      },
+      {
+        "ean": "5063040267500",
+        "title": "Mrs Claus' Christmas Bakery Family Festive Activity Hobby FOREST GREEN JUMPER - L",
+        "sku": "MRS-CLA-JUM-FOR-L-C2400",
+        "price": "",
+        "color": "Forest Green",
+        "size": "L",
+        "lineNumber": 3
+      },
+      {
+        "ean": "5063040267517",
+        "title": "Mrs Claus' Christmas Bakery Family Festive Activity Hobby FOREST GREEN JUMPER - XL",
+        "sku": "MRS-CLA-JUM-FOR-XL-C2400",
+        "price": "",
+        "color": "Forest Green",
+        "size": "XL",
+        "lineNumber": 4
+      },
+      {
+        "ean": "5063040267524",
+        "title": "Mrs Claus' Christmas Bakery Family Festive Activity Hobby FOREST GREEN JUMPER - 2XL",
+        "sku": "MRS-CLA-JUM-FOR-2XL-C2400",
+        "price": "",
+        "color": "Forest Green",
+        "size": "2XL",
+        "lineNumber": 5
+      },
+      {
+        "ean": "5063040267531",
+        "title": "Mrs Claus' Christmas Bakery Family Festive Activity Hobby FOREST GREEN JUMPER - 3XL",
+        "sku": "MRS-CLA-JUM-FOR-3XL-C2400",
+        "price": "",
+        "color": "Forest Green",
+        "size": "3XL",
+        "lineNumber": 6
+      },
+      {
+        "ean": "5063040267548",
+        "title": "Mrs Claus' Christmas Bakery Family Festive Activity Hobby FOREST GREEN JUMPER - 1-2Y",
+        "sku": "MRS-CLA-JUM-FOR-1-2Y-C2400B",
+        "price": "",
+        "color": "Forest Green",
+        "size": "1-2Y",
+        "lineNumber": 7
+      },
+      {
+        "ean": "5063040267555",
+        "title": "Mrs Claus' Christmas Bakery Family Festive Activity Hobby FOREST GREEN JUMPER - 3-4Y",
+        "sku": "MRS-CLA-JUM-FOR-3-4Y-C2400B",
+        "price": "",
+        "color": "Forest Green",
+        "size": "3-4Y",
+        "lineNumber": 8
+      },
+      {
+        "ean": "5063040267562",
+        "title": "Mrs Claus' Christmas Bakery Family Festive Activity Hobby FOREST GREEN JUMPER - 5-6Y",
+        "sku": "MRS-CLA-JUM-FOR-5-6Y-C2400B",
+        "price": "",
+        "color": "Forest Green",
+        "size": "5-6Y",
+        "lineNumber": 9
+      },
+      {
+        "ean": "5063040267579",
+        "title": "Mrs Claus' Christmas Bakery Family Festive Activity Hobby FOREST GREEN JUMPER - 7-8Y",
+        "sku": "MRS-CLA-JUM-FOR-7-8Y-C2400B",
+        "price": "",
+        "color": "Forest Green",
+        "size": "7-8Y",
+        "lineNumber": 10
+      },
+      {
+        "ean": "5063040267586",
+        "title": "Mrs Claus' Christmas Bakery Family Festive Activity Hobby FOREST GREEN JUMPER - 9-11Y",
+        "sku": "MRS-CLA-JUM-FOR-9-11Y-C2400B",
+        "price": "",
+        "color": "Forest Green",
+        "size": "9-11Y",
+        "lineNumber": 11
+      },
+      {
+        "ean": "5063040267593",
+        "title": "Mrs Claus' Christmas Bakery Family Festive Activity Hobby FOREST GREEN JUMPER - 12-14Y",
+        "sku": "MRS-CLA-JUM-FOR-12-14Y-C2400B",
+        "price": "",
+        "color": "Forest Green",
+        "size": "12-14Y",
+        "lineNumber": 12
+      },
+      {
+        "ean": "5063040267364",
+        "title": "Mrs Claus' Christmas Bakery Family Festive Activity Hobby RED JUMPER - S",
+        "sku": "MRS-CLA-JUM-RED-S-C2400",
+        "price": "",
+        "color": "Red",
+        "size": "S",
+        "lineNumber": 13
+      },
+      {
+        "ean": "5063040267371",
+        "title": "Mrs Claus' Christmas Bakery Family Festive Activity Hobby RED JUMPER - M",
+        "sku": "MRS-CLA-JUM-RED-M-C2400",
+        "price": "",
+        "color": "Red",
+        "size": "M",
+        "lineNumber": 14
+      },
+      {
+        "ean": "5063040267388",
+        "title": "Mrs Claus' Christmas Bakery Family Festive Activity Hobby RED JUMPER - L",
+        "sku": "MRS-CLA-JUM-RED-L-C2400",
+        "price": "",
+        "color": "Red",
+        "size": "L",
+        "lineNumber": 15
+      },
+      {
+        "ean": "5063040267395",
+        "title": "Mrs Claus' Christmas Bakery Family Festive Activity Hobby RED JUMPER - XL",
+        "sku": "MRS-CLA-JUM-RED-XL-C2400",
+        "price": "",
+        "color": "Red",
+        "size": "XL",
+        "lineNumber": 16
+      },
+      {
+        "ean": "5063040267401",
+        "title": "Mrs Claus' Christmas Bakery Family Festive Activity Hobby RED JUMPER - 2XL",
+        "sku": "MRS-CLA-JUM-RED-2XL-C2400",
+        "price": "",
+        "color": "Red",
+        "size": "2XL",
+        "lineNumber": 17
+      },
+      {
+        "ean": "5063040267418",
+        "title": "Mrs Claus' Christmas Bakery Family Festive Activity Hobby RED JUMPER - 3XL",
+        "sku": "MRS-CLA-JUM-RED-3XL-C2400",
+        "price": "",
+        "color": "Red",
+        "size": "3XL",
+        "lineNumber": 18
+      },
+      {
+        "ean": "5063040267425",
+        "title": "Mrs Claus' Christmas Bakery Family Festive Activity Hobby RED JUMPER - 1-2Y",
+        "sku": "MRS-CLA-JUM-RED-1-2Y-C2400B",
+        "price": "",
+        "color": "Red",
+        "size": "1-2Y",
+        "lineNumber": 19
+      },
+      {
+        "ean": "5063040267432",
+        "title": "Mrs Claus' Christmas Bakery Family Festive Activity Hobby RED JUMPER - 3-4Y",
+        "sku": "MRS-CLA-JUM-RED-3-4Y-C2400B",
+        "price": "",
+        "color": "Red",
+        "size": "3-4Y",
+        "lineNumber": 20
+      },
+      {
+        "ean": "5063040267449",
+        "title": "Mrs Claus' Christmas Bakery Family Festive Activity Hobby RED JUMPER - 5-6Y",
+        "sku": "MRS-CLA-JUM-RED-5-6Y-C2400B",
+        "price": "",
+        "color": "Red",
+        "size": "5-6Y",
+        "lineNumber": 21
+      },
+      {
+        "ean": "5063040267456",
+        "title": "Mrs Claus' Christmas Bakery Family Festive Activity Hobby RED JUMPER - 7-8Y",
+        "sku": "MRS-CLA-JUM-RED-7-8Y-C2400B",
+        "price": "",
+        "color": "Red",
+        "size": "7-8Y",
+        "lineNumber": 22
+      },
+      {
+        "ean": "5063040267463",
+        "title": "Mrs Claus' Christmas Bakery Family Festive Activity Hobby RED JUMPER - 9-11Y",
+        "sku": "MRS-CLA-JUM-RED-9-11Y-C2400B",
+        "price": "",
+        "color": "Red",
+        "size": "9-11Y",
+        "lineNumber": 23
+      },
+      {
+        "ean": "5063040267470",
+        "title": "Mrs Claus' Christmas Bakery Family Festive Activity Hobby RED JUMPER - 12-14Y",
+        "sku": "MRS-CLA-JUM-RED-12-14Y-C2400B",
+        "price": "",
+        "color": "Red",
+        "size": "12-14Y",
+        "lineNumber": 24
+      }
+    ],
+    "bulk_input": "5063040267487\tMrs Claus' Christmas Bakery Family Festive Activity Hobby FOREST GREEN JUMPER - S\t\tMRS-CLA-JUM-FOR-S-C2400\n5063040267494\tMrs Claus' Christmas Bakery Family Festive Activity Hobby FOREST GREEN JUMPER - M\t\tMRS-CLA-JUM-FOR-M-C2400\n5063040267500\tMrs Claus' Christmas Bakery Family Festive Activity Hobby FOREST GREEN JUMPER - L\t\tMRS-CLA-JUM-FOR-L-C2400\n5063040267517\tMrs Claus' Christmas Bakery Family Festive Activity Hobby FOREST GREEN JUMPER - XL\t\tMRS-CLA-JUM-FOR-XL-C2400\n5063040267524\tMrs Claus' Christmas Bakery Family Festive Activity Hobby FOREST GREEN JUMPER - 2XL\t\tMRS-CLA-JUM-FOR-2XL-C2400\n5063040267531\tMrs Claus' Christmas Bakery Family Festive Activity Hobby FOREST GREEN JUMPER - 3XL\t\tMRS-CLA-JUM-FOR-3XL-C2400\n5063040267548\tMrs Claus' Christmas Bakery Family Festive Activity Hobby FOREST GREEN JUMPER - 1-2Y\t\tMRS-CLA-JUM-FOR-1-2Y-C2400B\n5063040267555\tMrs Claus' Christmas Bakery Family Festive Activity Hobby FOREST GREEN JUMPER - 3-4Y\t\tMRS-CLA-JUM-FOR-3-4Y-C2400B\n5063040267562\tMrs Claus' Christmas Bakery Family Festive Activity Hobby FOREST GREEN JUMPER - 5-6Y\t\tMRS-CLA-JUM-FOR-5-6Y-C2400B\n5063040267579\tMrs Claus' Christmas Bakery Family Festive Activity Hobby FOREST GREEN JUMPER - 7-8Y\t\tMRS-CLA-JUM-FOR-7-8Y-C2400B\n5063040267586\tMrs Claus' Christmas Bakery Family Festive Activity Hobby FOREST GREEN JUMPER - 9-11Y\t\tMRS-CLA-JUM-FOR-9-11Y-C2400B\n5063040267593\tMrs Claus' Christmas Bakery Family Festive Activity Hobby FOREST GREEN JUMPER - 12-14Y\t\tMRS-CLA-JUM-FOR-12-14Y-C2400B\n5063040267364\tMrs Claus' Christmas Bakery Family Festive Activity Hobby RED JUMPER - S\t\tMRS-CLA-JUM-RED-S-C2400\n5063040267371\tMrs Claus' Christmas Bakery Family Festive Activity Hobby RED JUMPER - M\t\tMRS-CLA-JUM-RED-M-C2400\n5063040267388\tMrs Claus' Christmas Bakery Family Festive Activity Hobby RED JUMPER - L\t\tMRS-CLA-JUM-RED-L-C2400\n5063040267395\tMrs Claus' Christmas Bakery Family Festive Activity Hobby RED JUMPER - XL\t\tMRS-CLA-JUM-RED-XL-C2400\n5063040267401\tMrs Claus' Christmas Bakery Family Festive Activity Hobby RED JUMPER - 2XL\t\tMRS-CLA-JUM-RED-2XL-C2400\n5063040267418\tMrs Claus' Christmas Bakery Family Festive Activity Hobby RED JUMPER - 3XL\t\tMRS-CLA-JUM-RED-3XL-C2400\n5063040267425\tMrs Claus' Christmas Bakery Family Festive Activity Hobby RED JUMPER - 1-2Y\t\tMRS-CLA-JUM-RED-1-2Y-C2400B\n5063040267432\tMrs Claus' Christmas Bakery Family Festive Activity Hobby RED JUMPER - 3-4Y\t\tMRS-CLA-JUM-RED-3-4Y-C2400B\n5063040267449\tMrs Claus' Christmas Bakery Family Festive Activity Hobby RED JUMPER - 5-6Y\t\tMRS-CLA-JUM-RED-5-6Y-C2400B\n5063040267456\tMrs Claus' Christmas Bakery Family Festive Activity Hobby RED JUMPER - 7-8Y\t\tMRS-CLA-JUM-RED-7-8Y-C2400B\n5063040267463\tMrs Claus' Christmas Bakery Family Festive Activity Hobby RED JUMPER - 9-11Y\t\tMRS-CLA-JUM-RED-9-11Y-C2400B\n5063040267470\tMrs Claus' Christmas Bakery Family Festive Activity Hobby RED JUMPER - 12-14Y\t\tMRS-CLA-JUM-RED-12-14Y-C2400B",
+    "saved_at": "2025-10-24T14:06:41.478Z"
+  }
+}
