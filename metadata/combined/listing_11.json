@@ -1,6 +1,6 @@
 {
   "listing_id": 11,
-  "listing_name": "Western Cowboy USA America Howdy Retro Movie Doodle",
+  "listing_name": "HOW-COW Western Cowboy USA America Howdy Retro Movie Doodle",
   "count": 4,
   "images": [
     {
@@ -13,7 +13,7 @@
       "file_size": 112344,
       "tags": [],
       "collection_id": 11,
-      "collection_name": "Western Cowboy USA America Howdy Retro Movie Doodle",
+      "collection_name": "HOW-COW Western Cowboy USA America Howdy Retro Movie Doodle",
       "image_position": 1,
       "is_main": true
     },
@@ -27,7 +27,7 @@
       "file_size": 244810,
       "tags": [],
       "collection_id": 11,
-      "collection_name": "Western Cowboy USA America Howdy Retro Movie Doodle",
+      "collection_name": "HOW-COW Western Cowboy USA America Howdy Retro Movie Doodle",
       "image_position": 2,
       "is_main": false
     },
@@ -41,7 +41,7 @@
       "file_size": 261581,
       "tags": [],
       "collection_id": 11,
-      "collection_name": "Western Cowboy USA America Howdy Retro Movie Doodle",
+      "collection_name": "HOW-COW Western Cowboy USA America Howdy Retro Movie Doodle",
       "image_position": 2,
       "is_main": false
     },
@@ -55,7 +55,7 @@
       "file_size": 249272,
       "tags": [],
       "collection_id": 11,
-      "collection_name": "Western Cowboy USA America Howdy Retro Movie Doodle",
+      "collection_name": "HOW-COW Western Cowboy USA America Howdy Retro Movie Doodle",
       "image_position": 4,
       "is_main": false
     }
@@ -88,6 +88,6 @@
       }
     ],
     "bulk_input": "5063040250748\tWestern Cowboy USA America Howdy Retro Movie Doodle WHITE MUG\t\tHOW-COW-MUG-WHI\n",
-    "saved_at": "2025-10-13T18:50:04.673Z"
+    "saved_at": "2025-10-20T12:46:17.390Z"
   }
 }
