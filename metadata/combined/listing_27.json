@@ -1,6 +1,6 @@
 {
   "listing_id": 27,
-  "listing_name": "Reindeer North Pole DIY Santa Sack",
+  "listing_name": "DIY-RNO Reindeer North Pole DIY Santa Sack",
   "count": 6,
   "images": [
     {
@@ -13,7 +13,7 @@
       "file_size": 267278,
       "tags": [],
       "collection_id": 27,
-      "collection_name": "Reindeer North Pole DIY Santa Sack",
+      "collection_name": "DIY-RNO Reindeer North Pole DIY Santa Sack",
       "image_position": 1,
       "is_main": true
     },
@@ -27,7 +27,7 @@
       "file_size": 178783,
       "tags": [],
       "collection_id": 27,
-      "collection_name": "Reindeer North Pole DIY Santa Sack",
+      "collection_name": "DIY-RNO Reindeer North Pole DIY Santa Sack",
       "image_position": 2,
       "is_main": false
     },
@@ -41,7 +41,7 @@
       "file_size": 262587,
       "tags": [],
       "collection_id": 27,
-      "collection_name": "Reindeer North Pole DIY Santa Sack",
+      "collection_name": "DIY-RNO Reindeer North Pole DIY Santa Sack",
       "image_position": 3,
       "is_main": false
     },
@@ -55,7 +55,7 @@
       "file_size": 221758,
       "tags": [],
       "collection_id": 27,
-      "collection_name": "Reindeer North Pole DIY Santa Sack",
+      "collection_name": "DIY-RNO Reindeer North Pole DIY Santa Sack",
       "image_position": 4,
       "is_main": false
     },
@@ -69,7 +69,7 @@
       "file_size": 256268,
       "tags": [],
       "collection_id": 27,
-      "collection_name": "Reindeer North Pole DIY Santa Sack",
+      "collection_name": "DIY-RNO Reindeer North Pole DIY Santa Sack",
       "image_position": 5,
       "is_main": false
     },
@@ -83,7 +83,7 @@
       "file_size": 345608,
       "tags": [],
       "collection_id": 27,
-      "collection_name": "Reindeer North Pole DIY Santa Sack",
+      "collection_name": "DIY-RNO Reindeer North Pole DIY Santa Sack",
       "image_position": 6,
       "is_main": false
     }
@@ -107,7 +107,7 @@
     ],
     "variations": [
       {
-        "color": "Unknown",
+        "color": "Natural",
         "ean": "5063040267746",
         "lineNumber": 1,
         "size": "N/A",
@@ -116,6 +116,6 @@
       }
     ],
     "bulk_input": "5063040267746\tDiy Reindeer North Pole Post Name NATURAL SANTA SACK\t\tDIY-RNO-SAN-NAT",
-    "saved_at": "2025-10-16T16:35:59.857Z"
+    "saved_at": "2025-10-20T14:18:11.982Z"
   }
 }
