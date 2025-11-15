@@ -1,0 +1,157 @@
+{
+  "listing_id": 33,
+  "listing_name": "BLD-HOH Ho Bloody Ho",
+  "count": 4,
+  "images": [
+    {
+      "id": 154,
+      "filename": "Ho_Bloody_Ho_-_Main.jpg",
+      "original_filename": "Ho Bloody Ho - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Ho_Bloody_Ho_-_Main.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/Ho_Bloody_Ho_-_Main.jpg",
+      "upload_date": "2025-10-20T12:07:20.591834",
+      "file_size": 143444,
+      "tags": [],
+      "collection_id": 33,
+      "collection_name": "BLD-HOH Ho Bloody Ho",
+      "image_position": 1,
+      "is_main": true
+    },
+    {
+      "id": 155,
+      "filename": "Ho_Bloody_Ho_-_Main-1.jpg",
+      "original_filename": "Ho Bloody Ho - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Ho_Bloody_Ho_-_Main-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/Ho_Bloody_Ho_-_Main-1.jpg",
+      "upload_date": "2025-10-20T12:07:22.485901",
+      "file_size": 345300,
+      "tags": [],
+      "collection_id": 33,
+      "collection_name": "BLD-HOH Ho Bloody Ho",
+      "image_position": 1,
+      "is_main": false
+    },
+    {
+      "id": 157,
+      "filename": "Ho_Bloody_Ho_-_2-1.jpg",
+      "original_filename": "Ho Bloody Ho - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Ho_Bloody_Ho_-_2-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/Ho_Bloody_Ho_-_2-1.jpg",
+      "upload_date": "2025-10-20T12:07:24.947256",
+      "file_size": 283570,
+      "tags": [],
+      "collection_id": 33,
+      "collection_name": "BLD-HOH Ho Bloody Ho",
+      "image_position": 2,
+      "is_main": false
+    },
+    {
+      "id": 156,
+      "filename": "Ho_Bloody_Ho_-_2.jpg",
+      "original_filename": "Ho Bloody Ho - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/Ho_Bloody_Ho_-_2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/Ho_Bloody_Ho_-_2.jpg",
+      "upload_date": "2025-10-20T12:07:23.343938",
+      "file_size": 322130,
+      "tags": [],
+      "collection_id": 33,
+      "collection_name": "BLD-HOH Ho Bloody Ho",
+      "image_position": 2,
+      "is_main": false
+    }
+  ],
+  "draft": {
+    "collection_id": 33,
+    "title": "SMARTYPANTS Ho Bloody Ho Sweatshirt - Funny Christmas Jumper for Men and Women Sarcastic Santa Claus Novelty Xmas Pullover Top Festive Holiday Party Wear Unisex Adult Clothing Gift Idea",
+    "description": "Embrace the festive season with a touch of British humour. Our 'Ho Bloody Ho' sweatshirt is the <b>perfect antidote to overly sweet Christmas cheer</b>. Designed for those who appreciate a good laugh, this jumper combines a stylish script font with a classic crewneck design, making it a standout piece for any casual holiday event. It's more than just a novelty top; it's a statement of your fun-loving personality.<br><br>Crafted from a <b>premium soft cotton blend</b>, this top promises all-day comfort and warmth, whether you're at the office party or relaxing at home. The durable, high-quality print ensures the witty slogan remains vibrant. It's the ideal <b>Secret Santa or stocking filler gift</b> for the friend, family member, or colleague who loves a bit of banter during the most wonderful time of the year.",
+    "keywords": "sweater fleece crewneck long-sleeve garment apparel clothes attire outfit mum dad brother sister friend colleague boss mate husband wife boyfriend girlfriend him her secret santa stocking filler present birthday work do office drinks pub crawl family gathering december 25th humorous hilarious joke cheeky rude banter anti-christmas bah humbug scrooge witty slogan text-based typography script font gold print black cosy warm comfortable soft cotton blend premium quality machine washable",
+    "bullets": [
+      "Cheeky Festive Humour \u2013 Perfect for Christmas Jumper Day this top offers a witty alternative to traditional designs making it an ideal secret santa gift for colleagues or friends.",
+      "Premium Cosy Fabric \u2013 Expertly crafted from a soft and durable cotton blend this crewneck provides exceptional warmth and comfort throughout the entire chilly winter season.",
+      "Effortless Everyday Care \u2013 Designed for modern life this garment is fully machine washable retaining its shape and feel making it a practical and low-maintenance wardrobe staple.",
+      "Vibrant Lasting Print \u2013 Featuring a high-quality print with elegant gold and crisp white text that is designed to resist fading ensuring your humour stays sharp wash after wash.",
+      "Versatile Winter Wear \u2013 An excellent choice for office parties pub gatherings or simply lounging at home this piece layers easily and brings a touch of fun to any casual occasion."
+    ],
+    "parent_sku": "BLD-HOH-PARENT",
+    "platform": "smartypants",
+    "handle_colors": [
+      "white"
+    ],
+    "variations": [
+      {
+        "ean": "5063040266084",
+        "title": "Ho Bloody Ho Adult Curse Christmas Jumper BLACK JUMPER - S",
+        "sku": "BLD-HOH-JUM-BLK-S-C2400",
+        "price": "",
+        "color": "Black",
+        "size": "S",
+        "lineNumber": 1
+      },
+      {
+        "ean": "5063040266091",
+        "title": "Ho Bloody Ho Adult Curse Christmas Jumper BLACK JUMPER - M",
+        "sku": "BLD-HOH-JUM-BLK-M-C2400",
+        "price": "",
+        "color": "Black",
+        "size": "M",
+        "lineNumber": 2
+      },
+      {
+        "ean": "5063040266107",
+        "title": "Ho Bloody Ho Adult Curse Christmas Jumper BLACK JUMPER - L",
+        "sku": "BLD-HOH-JUM-BLK-L-C2400",
+        "price": "",
+        "color": "Black",
+        "size": "L",
+        "lineNumber": 3
+      },
+      {
+        "ean": "5063040266114",
+        "title": "Ho Bloody Ho Adult Curse Christmas Jumper BLACK JUMPER - XL",
+        "sku": "BLD-HOH-JUM-BLK-XL-C2400",
+        "price": "",
+        "color": "Black",
+        "size": "XL",
+        "lineNumber": 4
+      },
+      {
+        "ean": "5063040266121",
+        "title": "Ho Bloody Ho Adult Curse Christmas Jumper BLACK JUMPER - 2XL",
+        "sku": "BLD-HOH-JUM-BLK-2XL-C2400",
+        "price": "",
+        "color": "Black",
+        "size": "2XL",
+        "lineNumber": 5
+      },
+      {
+        "ean": "5063040266138",
+        "title": "Ho Bloody Ho Adult Curse Christmas Jumper BLACK JUMPER - 3XL",
+        "sku": "BLD-HOH-JUM-BLK-3XL-C2400",
+        "price": "",
+        "color": "Black",
+        "size": "3XL",
+        "lineNumber": 6
+      },
+      {
+        "ean": "5063040266145",
+        "title": "Ho Bloody Ho Adult Curse Christmas Jumper BLACK JUMPER - 4XL",
+        "sku": "BLD-HOH-JUM-BLK-4XL-C2400",
+        "price": "",
+        "color": "Black",
+        "size": "4XL",
+        "lineNumber": 7
+      },
+      {
+        "ean": "5063040266152",
+        "title": "Ho Bloody Ho Adult Curse Christmas Jumper BLACK JUMPER - 5XL",
+        "sku": "BLD-HOH-JUM-BLK-5XL-C2400",
+        "price": "",
+        "color": "Black",
+        "size": "5XL",
+        "lineNumber": 8
+      }
+    ],
+    "bulk_input": "5063040266084\tHo Bloody Ho Adult Curse Christmas Jumper BLACK JUMPER - S\t\tBLD-HOH-JUM-BLK-S-C2400\n5063040266091\tHo Bloody Ho Adult Curse Christmas Jumper BLACK JUMPER - M\t\tBLD-HOH-JUM-BLK-M-C2400\n5063040266107\tHo Bloody Ho Adult Curse Christmas Jumper BLACK JUMPER - L\t\tBLD-HOH-JUM-BLK-L-C2400\n5063040266114\tHo Bloody Ho Adult Curse Christmas Jumper BLACK JUMPER - XL\t\tBLD-HOH-JUM-BLK-XL-C2400\n5063040266121\tHo Bloody Ho Adult Curse Christmas Jumper BLACK JUMPER - 2XL\t\tBLD-HOH-JUM-BLK-2XL-C2400\n5063040266138\tHo Bloody Ho Adult Curse Christmas Jumper BLACK JUMPER - 3XL\t\tBLD-HOH-JUM-BLK-3XL-C2400\n5063040266145\tHo Bloody Ho Adult Curse Christmas Jumper BLACK JUMPER - 4XL\t\tBLD-HOH-JUM-BLK-4XL-C2400\n5063040266152\tHo Bloody Ho Adult Curse Christmas Jumper BLACK JUMPER - 5XL\t\tBLD-HOH-JUM-BLK-5XL-C2400",
+    "saved_at": "2025-10-20T12:10:33.508Z"
+  }
+}
