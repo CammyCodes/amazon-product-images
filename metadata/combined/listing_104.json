@@ -1,0 +1,94 @@
+{
+  "listing_id": 104,
+  "listing_name": "ONE-PAW-PER Small Santa Sack",
+  "count": 4,
+  "images": [
+    {
+      "id": 457,
+      "filename": "ONE-PAW-PER_Small_Santa_Sack_-_Main.jpg",
+      "original_filename": "ONE-PAW-PER Small Santa Sack - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/ONE-PAW-PER_Small_Santa_Sack_-_Main.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/ONE-PAW-PER_Small_Santa_Sack_-_Main.jpg",
+      "upload_date": "2025-10-24T14:10:55.724088",
+      "file_size": 243208,
+      "tags": [],
+      "collection_id": 104,
+      "collection_name": "ONE-PAW-PER Small Santa Sack",
+      "image_position": 1,
+      "is_main": true
+    },
+    {
+      "id": 458,
+      "filename": "ONE-PAW-PER_Small_Santa_Sack_-_Main-1.jpg",
+      "original_filename": "ONE-PAW-PER Small Santa Sack - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/ONE-PAW-PER_Small_Santa_Sack_-_Main-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/ONE-PAW-PER_Small_Santa_Sack_-_Main-1.jpg",
+      "upload_date": "2025-10-24T14:10:57.518859",
+      "file_size": 284366,
+      "tags": [],
+      "collection_id": 104,
+      "collection_name": "ONE-PAW-PER Small Santa Sack",
+      "image_position": 1,
+      "is_main": false
+    },
+    {
+      "id": 460,
+      "filename": "ONE-PAW-PER_Small_Santa_Sack_-_2-1.jpg",
+      "original_filename": "ONE-PAW-PER Small Santa Sack - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/ONE-PAW-PER_Small_Santa_Sack_-_2-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/ONE-PAW-PER_Small_Santa_Sack_-_2-1.jpg",
+      "upload_date": "2025-10-24T14:10:59.828311",
+      "file_size": 307215,
+      "tags": [],
+      "collection_id": 104,
+      "collection_name": "ONE-PAW-PER Small Santa Sack",
+      "image_position": 2,
+      "is_main": false
+    },
+    {
+      "id": 459,
+      "filename": "ONE-PAW-PER_Small_Santa_Sack_-_2.jpg",
+      "original_filename": "ONE-PAW-PER Small Santa Sack - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/ONE-PAW-PER_Small_Santa_Sack_-_2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/ONE-PAW-PER_Small_Santa_Sack_-_2.jpg",
+      "upload_date": "2025-10-24T14:10:58.259789",
+      "file_size": 300865,
+      "tags": [],
+      "collection_id": 104,
+      "collection_name": "ONE-PAW-PER Small Santa Sack",
+      "image_position": 2,
+      "is_main": false
+    }
+  ],
+  "draft": {
+    "collection_id": 104,
+    "title": "SMARTYPANTS Personalised Pet Santa Sack For Dogs Cats - Custom Name Tartan Paw Print Christmas Gift Bag - Sleigh Bells Waggy Tails Furry Xmas Present Sack For Holiday Decorations Treats",
+    "description": "Make your pet the star of Christmas morning with a <b>SMARTYPANTS Personalised Santa Sack</b>! This beautifully crafted hessian sack is the perfect way to present your furry family member with their own special gifts from Santa Paws. Featuring a classic red and green tartan paw print and the adorable \"Sleigh Bells & Waggy Tails\" slogan, it perfectly captures the festive spirit.<br><br>Customised with your pet's name in a lovely script font, this sack becomes a <b>cherished keepsake</b> you can bring out year after year. The durable fabric and strong drawstring closure ensure it's not only charming but also practical. It\u2019s a wonderful, <b>eco-friendly alternative</b> to wrapping paper and doubles as a delightful piece of holiday decor. Give your loyal companion the festive fuss they deserve!",
+    "keywords": "stocking hessian jute burlap large big jumbo wrapping storage container holder customizable owner puppy kitten animal lover family friend mum dad kids children boy girl secret eve morning tradition keepsake rustic traditional country farmhouse festive yule yuletide canine feline four legged friend companion reusable eco-friendly drawstring closure toys accessories goodies doggo pupper kitty pooch winter grotto mantle natural fabric rope tie",
+    "bullets": [
+      "A Special Christmas Treat \u2013 Celebrate your furry friend with this charming personalised Santa sack featuring their name a festive tartan paw print and the cute Sleigh Bells & Waggy Tails slogan.",
+      "Premium Hessian Fabric \u2013 Crafted from high-quality durable hessian fabric this large gift bag is built to last for many Christmases and features a secure drawstring closure to keep presents safe.",
+      "Spacious And Reusable \u2013 Generously sized to hold plenty of toys and treats this eco-friendly sack is a wonderful reusable alternative to disposable wrapping paper for your beloved pet.",
+      "Vibrant Lasting Print \u2013 Our state-of-the-art printing process ensures the red and green tartan design and custom text are sharp vibrant and fade-resistant for a beautiful festive look.",
+      "Perfect Festive Decoration \u2013 Not just for presents this delightful sack makes a wonderful Christmas decoration to place by the tree or fireplace adding a personal touch to your holiday decor."
+    ],
+    "parent_sku": "ONE-PAW-PER-PARENT",
+    "platform": "smartypants",
+    "handle_colors": [
+      "white"
+    ],
+    "variations": [
+      {
+        "ean": "5063040256832",
+        "title": "Christmas Tartan Dog Paw Personalised Pet Name NATURAL SANTA SACK",
+        "sku": "ONE-PAW-PER-SAN-NAT-S",
+        "price": "",
+        "color": "Natural",
+        "size": "Small",
+        "lineNumber": 1
+      }
+    ],
+    "bulk_input": "5063040256832\tChristmas Tartan Dog Paw Personalised Pet Name NATURAL SANTA SACK\t\tONE-PAW-PER-SAN-NAT-S",
+    "saved_at": "2025-10-24T14:14:21.991Z"
+  }
+}
