@@ -1,0 +1,143 @@
+{
+  "listing_id": 87,
+  "listing_name": "FRA-HOM Frankenstein Homer - Lime green T-shirt",
+  "count": 3,
+  "images": [
+    {
+      "id": 387,
+      "filename": "FRA-HOM_Frankenstein_Homer_-_Lime_green_T-shirt_-_Main.jpg",
+      "original_filename": "FRA-HOM Frankenstein Homer - Lime green T-shirt - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/FRA-HOM_Frankenstein_Homer_-_Lime_green_T-shirt_-_Main.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/FRA-HOM_Frankenstein_Homer_-_Lime_green_T-shirt_-_Main.jpg",
+      "upload_date": "2025-10-21T13:06:05.157929",
+      "file_size": 170657,
+      "tags": [],
+      "collection_id": 87,
+      "collection_name": "FRA-HOM Frankenstein Homer - Lime green T-shirt",
+      "image_position": 1,
+      "is_main": true
+    },
+    {
+      "id": 388,
+      "filename": "FRA-HOM_Frankenstein_Homer_-_Lime_green_T-shirt_-_Main-1.jpg",
+      "original_filename": "FRA-HOM Frankenstein Homer - Lime green T-shirt - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/FRA-HOM_Frankenstein_Homer_-_Lime_green_T-shirt_-_Main-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/FRA-HOM_Frankenstein_Homer_-_Lime_green_T-shirt_-_Main-1.jpg",
+      "upload_date": "2025-10-21T13:06:06.732133",
+      "file_size": 333689,
+      "tags": [],
+      "collection_id": 87,
+      "collection_name": "FRA-HOM Frankenstein Homer - Lime green T-shirt",
+      "image_position": 1,
+      "is_main": false
+    },
+    {
+      "id": 389,
+      "filename": "FRA-HOM_Frankenstein_Homer_-_Lime_green_T-shirt_-_2.jpg",
+      "original_filename": "FRA-HOM Frankenstein Homer - Lime green T-shirt - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/FRA-HOM_Frankenstein_Homer_-_Lime_green_T-shirt_-_2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/FRA-HOM_Frankenstein_Homer_-_Lime_green_T-shirt_-_2.jpg",
+      "upload_date": "2025-10-21T13:06:07.786094",
+      "file_size": 325509,
+      "tags": [],
+      "collection_id": 87,
+      "collection_name": "FRA-HOM Frankenstein Homer - Lime green T-shirt",
+      "image_position": 2,
+      "is_main": false
+    }
+  ],
+  "draft": {
+    "collection_id": 87,
+    "title": "Willow Gifts Created In A Lab T-Shirt For Men - Funny Couch Potato Monster Slogan Graphic Tee - Humorous Cartoon Parody Top - Novelty Birthday Christmas Halloween Gift For Dad Husband Boyfriend",
+    "description": "Embrace your inner monster of relaxation with this hilarious graphic t-shirt! Featuring a <b>wonderfully lazy cartoon parody</b>, it's the perfect statement piece for anyone who believes their true potential is perfected on the couch. The witty 'Created in a lab, Perfected on the couch' slogan is sure to get a laugh, making it an ideal addition to any casual wardrobe.<br><br>Made from soft, high-quality fabric for maximum comfort during your most epic lounging sessions, this tee is as durable as it is funny. It's the <b>perfect novelty present</b> for birthdays, Christmas, or just to treat the loveable couch potato in your life. A must-have for fans of comedy, cartoons, and comfort.",
+    "keywords": "apparel garment clothing clothes wear casual lounge lazy relaxing tv watching male him son brother uncle friend colleague workmate boss student gamer geek nerd presents ideas stocking filler secret santa fathers day anniversary leaving work party frankenstein homer simpson joke sarcastic witty pop culture animation show movie film creature science experiment sofa settee lounger homebody introvert quality premium cotton soft comfortable breathable durable functional everyday lifestyle",
+    "bullets": [
+      "Hilarious Cartoon Parody \u2013 A perfect gift for fans of classic cartoons and monster movies, this tee features a funny 'Created in a lab, Perfected on the couch' slogan for the ultimate couch potato.",
+      "Premium Cotton Comfort \u2013 Expertly crafted from 100% soft, breathable cotton, this t-shirt offers superior comfort and a classic fit, making it ideal for all-day wear and relaxation.",
+      "Durable And Well-Made \u2013 Featuring twin-needle stitching on the collar, sleeves, and hem, this top is built to last through countless washes and lounging sessions without losing its shape.",
+      "Vibrant Graphic Print \u2013 The eye-catching design is printed using advanced techniques to ensure the colours remain bright and sharp, resisting fading to keep the humour alive wash after wash.",
+      "Ideal Novelty Gift \u2013 A fantastic choice for birthdays, Christmas, or Halloween, this t-shirt is a brilliant present for a husband, boyfriend, brother, or any man with a great sense of humour."
+    ],
+    "parent_sku": "FRA-HOM-PARENT",
+    "platform": "willow",
+    "handle_colors": [
+      "white"
+    ],
+    "variations": [
+      {
+        "ean": "5063040258775",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid LIME GREEN T-SHIRT - S",
+        "sku": "FRA-HOM-TSH-LIM-S-SS030",
+        "price": "",
+        "color": "Green",
+        "size": "S",
+        "lineNumber": 1
+      },
+      {
+        "ean": "5063040258782",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid LIME GREEN T-SHIRT - M",
+        "sku": "FRA-HOM-TSH-LIM-M",
+        "price": "",
+        "color": "Green",
+        "size": "M",
+        "lineNumber": 2
+      },
+      {
+        "ean": "5063040258799",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid LIME GREEN T-SHIRT - L",
+        "sku": "FRA-HOM-TSH-LIM-L",
+        "price": "",
+        "color": "Green",
+        "size": "L",
+        "lineNumber": 3
+      },
+      {
+        "ean": "5063040258805",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid LIME GREEN T-SHIRT - XL",
+        "sku": "FRA-HOM-TSH-LIM-XL",
+        "price": "",
+        "color": "Green",
+        "size": "XL",
+        "lineNumber": 4
+      },
+      {
+        "ean": "5063040258812",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid LIME GREEN T-SHIRT - 2XL",
+        "sku": "FRA-HOM-TSH-LIM-2XL",
+        "price": "",
+        "color": "Green",
+        "size": "2XL",
+        "lineNumber": 5
+      },
+      {
+        "ean": "5063040258829",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid LIME GREEN T-SHIRT - 3XL",
+        "sku": "FRA-HOM-TSH-LIM-3XL",
+        "price": "",
+        "color": "Green",
+        "size": "3XL",
+        "lineNumber": 6
+      },
+      {
+        "ean": "5063040258836",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid LIME GREEN T-SHIRT - 4XL",
+        "sku": "FRA-HOM-TSH-LIM-4XL",
+        "price": "",
+        "color": "Green",
+        "size": "4XL",
+        "lineNumber": 7
+      },
+      {
+        "ean": "5063040258843",
+        "title": "Stitched-up, Dopey Monster-dad Hybrid LIME GREEN T-SHIRT - 5XL",
+        "sku": "FRA-HOM-TSH-LIM-5XL",
+        "price": "",
+        "color": "Green",
+        "size": "5XL",
+        "lineNumber": 8
+      }
+    ],
+    "bulk_input": "5063040258775\tStitched-up, Dopey Monster-dad Hybrid LIME GREEN T-SHIRT - S\t\tFRA-HOM-TSH-LIM-S-SS030\n5063040258782\tStitched-up, Dopey Monster-dad Hybrid LIME GREEN T-SHIRT - M\t\tFRA-HOM-TSH-LIM-M\n5063040258799\tStitched-up, Dopey Monster-dad Hybrid LIME GREEN T-SHIRT - L\t\tFRA-HOM-TSH-LIM-L\n5063040258805\tStitched-up, Dopey Monster-dad Hybrid LIME GREEN T-SHIRT - XL\t\tFRA-HOM-TSH-LIM-XL\n5063040258812\tStitched-up, Dopey Monster-dad Hybrid LIME GREEN T-SHIRT - 2XL\t\tFRA-HOM-TSH-LIM-2XL\n5063040258829\tStitched-up, Dopey Monster-dad Hybrid LIME GREEN T-SHIRT - 3XL\t\tFRA-HOM-TSH-LIM-3XL\n5063040258836\tStitched-up, Dopey Monster-dad Hybrid LIME GREEN T-SHIRT - 4XL\t\tFRA-HOM-TSH-LIM-4XL\n5063040258843\tStitched-up, Dopey Monster-dad Hybrid LIME GREEN T-SHIRT - 5XL\t\tFRA-HOM-TSH-LIM-5XL",
+    "saved_at": "2025-10-21T13:14:18.331Z"
+  }
+}
