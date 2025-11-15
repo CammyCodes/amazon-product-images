@@ -1,0 +1,179 @@
+{
+  "listing_id": 58,
+  "listing_name": "THR-GHO Three Ghosts Jumper - Forest Green",
+  "count": 3,
+  "images": [
+    {
+      "id": 278,
+      "filename": "THR-GHO_Three_Ghosts_Jumper_-_Main.jpg",
+      "original_filename": "THR-GHO Three Ghosts Jumper - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/THR-GHO_Three_Ghosts_Jumper_-_Main.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/THR-GHO_Three_Ghosts_Jumper_-_Main.jpg",
+      "upload_date": "2025-10-21T09:23:45.036479",
+      "file_size": 365479,
+      "tags": [],
+      "collection_id": 58,
+      "collection_name": "THR-GHO Three Ghosts Jumper - Forest Green",
+      "image_position": 1,
+      "is_main": true
+    },
+    {
+      "id": 280,
+      "filename": "THR-GHO_Three_Ghosts_Jumper_-_2.jpg",
+      "original_filename": "THR-GHO Three Ghosts Jumper - 2",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/THR-GHO_Three_Ghosts_Jumper_-_2.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/THR-GHO_Three_Ghosts_Jumper_-_2.jpg",
+      "upload_date": "2025-10-21T09:23:47.362124",
+      "file_size": 254229,
+      "tags": [],
+      "collection_id": 58,
+      "collection_name": "THR-GHO Three Ghosts Jumper - Forest Green",
+      "image_position": 2,
+      "is_main": false
+    },
+    {
+      "id": 279,
+      "filename": "THR-GHO_Three_Ghosts_Jumper_-_Main-1.jpg",
+      "original_filename": "THR-GHO Three Ghosts Jumper - Main",
+      "github_url": "https://github.com/CammyCodes/amazon-product-images/blob/main/images/2025/10/THR-GHO_Three_Ghosts_Jumper_-_Main-1.jpg",
+      "raw_url": "https://raw.githubusercontent.com/CammyCodes/amazon-product-images/main/images/2025/10/THR-GHO_Three_Ghosts_Jumper_-_Main-1.jpg",
+      "upload_date": "2025-10-21T09:23:46.901118",
+      "file_size": 209949,
+      "tags": [],
+      "collection_id": 58,
+      "collection_name": "THR-GHO Three Ghosts Jumper - Forest Green",
+      "image_position": 3,
+      "is_main": false
+    }
+  ],
+  "draft": {
+    "collection_id": 58,
+    "title": "SMARTYPANTS Ghostly Plant Lovers Sweatshirt - Cute Spooky Ghosts With Houseplants Jumper For Men Women - Funny Halloween Gardener Gift Idea - Cosy Casual Pullover Top For Autumn Winter",
+    "description": "Embrace your two favourite passions with this charming and unique sweatshirt! This design perfectly captures the love for both <b>spooky season and houseplants</b>. Featuring three adorable ghosts proudly showing off their potted plants it's a whimsical piece that is sure to bring a smile to your face and spark conversations.<br><br>Crafted for ultimate comfort and style this pullover is made from a high-quality soft cotton blend that feels wonderful against the skin. It's the perfect <b>cosy companion for chilly autumn evenings</b> casual weekend outings or simply lounging at home with your own plant collection. A wonderful <b>gift for the gardener or Halloween lover</b> in your life this top combines quirky fun with everyday practicality.",
+    "keywords": "sweater clothing apparel garment crewneck long sleeve warm adult unisex mum dad sister brother friend colleague teen boy girl botanist horticulturist birthday christmas present secret santa stocking filler anniversary leaving work party paranormal spirit phantom ghoul cactus succulent botanical nature humour joke novelty graphic design illustration cartoon character green thumb cotton blend comfort wear durable machine washable everyday layer",
+    "bullets": [
+      "Charming Ghost Design \u2013 A perfect gift for plant parents and Halloween fans this jumper features three adorable ghosts tending to their beloved houseplants for a unique and whimsical look.",
+      "Premium Cosy Fabric \u2013 Expertly crafted from a soft and durable cotton blend this pullover provides exceptional warmth and comfort for all-day wear without compromising on quality.",
+      "Everyday Versatile Wear \u2013 Designed for your convenience this top is fully machine washable and its classic crewneck fit makes it perfect for layering or wearing on its own for any casual occasion.",
+      "Vibrant Lasting Print \u2013 The charming graphic is applied using advanced printing technology ensuring the colours remain bright and crisp without fading or cracking through many washes.",
+      "Ideal Gift Choice \u2013 Arriving ready to be gifted this sweatshirt is a fantastic choice for birthdays Christmas or just as a treat for the gardener or spooky enthusiast in your life."
+    ],
+    "parent_sku": "THR-GHO-PARENT",
+    "platform": "smartypants",
+    "handle_colors": [
+      "white"
+    ],
+    "variations": [
+      {
+        "ean": "5063040261997",
+        "title": "Three Cute Ghosts Plants FOREST GREEN JUMPER - S",
+        "sku": "THR-GHO-JUM-FOR-S-C2400",
+        "price": "",
+        "color": "Green",
+        "size": "S",
+        "lineNumber": 1
+      },
+      {
+        "ean": "5063040262000",
+        "title": "Three Cute Ghosts Plants FOREST GREEN JUMPER - M",
+        "sku": "THR-GHO-JUM-FOR-M",
+        "price": "",
+        "color": "Green",
+        "size": "M",
+        "lineNumber": 2
+      },
+      {
+        "ean": "5063040262017",
+        "title": "Three Cute Ghosts Plants FOREST GREEN JUMPER - L",
+        "sku": "THR-GHO-JUM-FOR-L",
+        "price": "",
+        "color": "Green",
+        "size": "L",
+        "lineNumber": 3
+      },
+      {
+        "ean": "5063040262024",
+        "title": "Three Cute Ghosts Plants FOREST GREEN JUMPER - XL",
+        "sku": "THR-GHO-JUM-FOR-XL",
+        "price": "",
+        "color": "Green",
+        "size": "XL",
+        "lineNumber": 4
+      },
+      {
+        "ean": "5063040262031",
+        "title": "Three Cute Ghosts Plants FOREST GREEN JUMPER - 2XL",
+        "sku": "THR-GHO-JUM-FOR-2XL",
+        "price": "",
+        "color": "Green",
+        "size": "2XL",
+        "lineNumber": 5
+      },
+      {
+        "ean": "5063040262048",
+        "title": "Three Cute Ghosts Plants FOREST GREEN JUMPER - 3XL",
+        "sku": "THR-GHO-JUM-FOR-3XL",
+        "price": "",
+        "color": "Green",
+        "size": "3XL",
+        "lineNumber": 6
+      },
+      {
+        "ean": "5063040262055",
+        "title": "Three Cute Ghosts Plants FOREST GREEN JUMPER - 4XL",
+        "sku": "THR-GHO-JUM-FOR-4XL",
+        "price": "",
+        "color": "Green",
+        "size": "4XL",
+        "lineNumber": 7
+      },
+      {
+        "ean": "5063040262062",
+        "title": "Three Cute Ghosts Plants FOREST GREEN JUMPER - 5XL",
+        "sku": "THR-GHO-JUM-FOR-5XL",
+        "price": "",
+        "color": "Green",
+        "size": "5XL",
+        "lineNumber": 8
+      },
+      {
+        "ean": "5063040262079",
+        "title": "Three Cute Ghosts Plants FOREST GREEN JUMPER - 5-6Y",
+        "sku": "THR-GHO-JUM-FOR-5-6Y-JH30J",
+        "price": "",
+        "color": "Green",
+        "size": "5-6Y",
+        "lineNumber": 9
+      },
+      {
+        "ean": "5063040262086",
+        "title": "Three Cute Ghosts Plants FOREST GREEN JUMPER - 7-8Y",
+        "sku": "THR-GHO-JUM-FOR-7-8Y",
+        "price": "",
+        "color": "Green",
+        "size": "7-8Y",
+        "lineNumber": 10
+      },
+      {
+        "ean": "5063040262093",
+        "title": "Three Cute Ghosts Plants FOREST GREEN JUMPER - 9-11Y",
+        "sku": "THR-GHO-JUM-FOR-9-11Y",
+        "price": "",
+        "color": "Green",
+        "size": "9-11Y",
+        "lineNumber": 11
+      },
+      {
+        "ean": "5063040262109",
+        "title": "Three Cute Ghosts Plants FOREST GREEN JUMPER - 12-14Y",
+        "sku": "THR-GHO-JUM-FOR-12-14Y",
+        "price": "",
+        "color": "Green",
+        "size": "12-14Y",
+        "lineNumber": 12
+      }
+    ],
+    "bulk_input": "5063040261997\tThree Cute Ghosts Plants FOREST GREEN JUMPER - S\t\tTHR-GHO-JUM-FOR-S-C2400\n5063040262000\tThree Cute Ghosts Plants FOREST GREEN JUMPER - M\t\tTHR-GHO-JUM-FOR-M\n5063040262017\tThree Cute Ghosts Plants FOREST GREEN JUMPER - L\t\tTHR-GHO-JUM-FOR-L\n5063040262024\tThree Cute Ghosts Plants FOREST GREEN JUMPER - XL\t\tTHR-GHO-JUM-FOR-XL\n5063040262031\tThree Cute Ghosts Plants FOREST GREEN JUMPER - 2XL\t\tTHR-GHO-JUM-FOR-2XL\n5063040262048\tThree Cute Ghosts Plants FOREST GREEN JUMPER - 3XL\t\tTHR-GHO-JUM-FOR-3XL\n5063040262055\tThree Cute Ghosts Plants FOREST GREEN JUMPER - 4XL\t\tTHR-GHO-JUM-FOR-4XL\n5063040262062\tThree Cute Ghosts Plants FOREST GREEN JUMPER - 5XL\t\tTHR-GHO-JUM-FOR-5XL\n5063040262079\tThree Cute Ghosts Plants FOREST GREEN JUMPER - 5-6Y\t\tTHR-GHO-JUM-FOR-5-6Y-JH30J\n5063040262086\tThree Cute Ghosts Plants FOREST GREEN JUMPER - 7-8Y\t\tTHR-GHO-JUM-FOR-7-8Y\n5063040262093\tThree Cute Ghosts Plants FOREST GREEN JUMPER - 9-11Y\t\tTHR-GHO-JUM-FOR-9-11Y\n5063040262109\tThree Cute Ghosts Plants FOREST GREEN JUMPER - 12-14Y\t\tTHR-GHO-JUM-FOR-12-14Y",
+    "saved_at": "2025-10-21T09:28:29.918Z"
+  }
+}
